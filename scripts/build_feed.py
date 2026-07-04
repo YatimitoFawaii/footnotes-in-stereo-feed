@@ -4,6 +4,9 @@ from __future__ import annotations
 import re
 import shutil
 import sys
+from email.utils import format_datetime, parsedate_to_datetime
+from html import unescape
+from html.parser import HTMLParser
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -30,7 +33,27 @@ ET.register_namespace("googleplay", "http://www.google.com/schemas/play-podcasts
 NS = {
     "itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd",
     "atom": "http://www.w3.org/2005/Atom",
+    "content": "http://purl.org/rss/1.0/modules/content/",
 }
+
+
+class TextExtractor(HTMLParser):
+    def __init__(self) -> None:
+        super().__init__()
+        self.parts: list[str] = []
+
+    def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
+        if tag in {"p", "br", "li"}:
+            self.parts.append("\n")
+
+    def handle_data(self, data: str) -> None:
+        self.parts.append(data)
+
+    def text(self) -> str:
+        text = "".join(self.parts)
+        text = re.sub(r"[ \t]+", " ", text)
+        text = re.sub(r"\n{3,}", "\n\n", text)
+        return text.strip()
 
 
 def slugify(value: str) -> str:
@@ -64,6 +87,38 @@ def set_or_add(parent: ET.Element, tag: str, text: str) -> ET.Element:
         node = ET.SubElement(parent, tag)
     node.text = text
     return node
+
+
+def set_or_insert_before_first_item(parent: ET.Element, tag: str, text: str) -> ET.Element:
+    node = parent.find(tag)
+    if node is None:
+        node = ET.Element(tag)
+        children = list(parent)
+        item_index = next((index for index, child in enumerate(children) if child.tag == "item"), len(children))
+        parent.insert(item_index, node)
+    node.text = text
+    return node
+
+
+def normalize_pubdate(parent: ET.Element) -> None:
+    for tag in ("pubDate", "lastBuildDate"):
+        node = parent.find(tag)
+        if node is not None and node.text:
+            try:
+                node.text = format_datetime(parsedate_to_datetime(node.text))
+            except Exception:
+                pass
+
+
+def clean_description(value: str) -> tuple[str, str]:
+    decoded = unescape(value or "")
+    while unescape(decoded) != decoded:
+        decoded = unescape(decoded)
+    extractor = TextExtractor()
+    extractor.feed(decoded)
+    plain = extractor.text() or decoded.strip()
+    html = decoded
+    return plain, html
 
 
 def rewrite_atom_self(channel: ET.Element) -> None:
@@ -118,28 +173,9 @@ def local_audio_url(item: ET.Element, enclosure: ET.Element) -> str:
 
 
 def rewrite_item_images(item: ET.Element) -> None:
-    art_dir = DOCS / "art"
-    art_dir.mkdir(parents=True, exist_ok=True)
-    guid = text_of(item, "guid")
-    title = text_of(item, "title", guid or "episode")
-    source = EPISODE_IMAGE_SOURCES.get(guid, COVER_SOURCE)
-    filename = f"{slugify(title)}.jpg"
-    target = art_dir / filename
-    source_image = item.find("itunes:image", NS)
-    source_url = source_image.get("href", "") if source_image is not None else ""
-    if source.exists():
-        shutil.copyfile(source, target)
-    elif not target.exists() and source_url:
-        target.write_bytes(fetch(source_url))
-    elif not target.exists() and (art_dir / "cover.jpg").exists():
-        shutil.copyfile(art_dir / "cover.jpg", target)
-    image_url = f"{PUBLIC_BASE}/art/{filename}"
-
     itunes_image = item.find("itunes:image", NS)
-    if itunes_image is None:
-        itunes_image = ET.SubElement(item, f"{{{NS['itunes']}}}image")
-    itunes_image.attrib.clear()
-    itunes_image.set("href", image_url)
+    if itunes_image is not None:
+        item.remove(itunes_image)
 
 
 def build() -> None:
@@ -153,9 +189,20 @@ def build() -> None:
     rewrite_atom_self(channel)
     rewrite_channel_images(channel)
     set_or_add(channel, "generator", "Footnotes in Stereo feed mirror")
+    channel_description = text_of(channel, "description")
+    set_or_insert_before_first_item(channel, f"{{{NS['itunes']}}}summary", channel_description)
+    set_or_insert_before_first_item(channel, f"{{{NS['itunes']}}}subtitle", "Conversational research deep dives with Mira Vale and Theo Arlen.")
+    normalize_pubdate(channel)
 
     for item in channel.findall("item"):
         rewrite_item_images(item)
+        item_description = item.find("description")
+        if item_description is not None and item_description.text:
+            plain_description, _html_description = clean_description(item_description.text)
+            item_description.text = plain_description
+        set_or_add(item, f"{{{NS['itunes']}}}author", text_of(channel, f"{{{NS['itunes']}}}author", "Mira Vale and Theo Arlen"))
+        set_or_add(item, f"{{{NS['itunes']}}}explicit", "false")
+        normalize_pubdate(item)
         enclosure = item.find("enclosure")
         if enclosure is not None and enclosure.get("url"):
             enclosure.set("url", local_audio_url(item, enclosure))
@@ -164,6 +211,10 @@ def build() -> None:
     tree = ET.ElementTree(root)
     ET.indent(tree, space="  ", level=0)
     tree.write(feed_path, encoding="UTF-8", xml_declaration=True)
+    feed_text = feed_path.read_text(encoding="UTF-8")
+    feed_text = feed_text.replace("<?xml version='1.0' encoding='UTF-8'?>", '<?xml version="1.0" encoding="UTF-8"?>', 1)
+    feed_text = feed_text.replace("&lt;![CDATA[", "<![CDATA[").replace("]]&gt;", "]]>")
+    feed_path.write_text(feed_text, encoding="UTF-8")
 
     (DOCS / "index.html").write_text(
         """<!doctype html>
