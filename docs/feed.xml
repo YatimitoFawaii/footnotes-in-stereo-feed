@@ -16,8 +16,8 @@
     <itunes:category text="Education" />
     <language>en-US</language>
     <copyright>2026 Zelda Rey Skywalker</copyright>
-    <pubDate>Sun, 05 Jul 2026 16:30:41 +0000</pubDate>
-    <lastBuildDate>Sun, 05 Jul 2026 16:30:41 +0000</lastBuildDate>
+    <pubDate>Mon, 06 Jul 2026 17:56:04 +0000</pubDate>
+    <lastBuildDate>Mon, 06 Jul 2026 17:56:04 +0000</lastBuildDate>
     <generator>Footnotes in Stereo feed mirror</generator>
     <image>
       <url>https://yatimitofawaii.github.io/footnotes-in-stereo-feed/art/cover.jpg</url>
@@ -26,6 +26,19 @@
     </image>
     <itunes:summary>Footnotes in Stereo is a series of conversational research deep dives hosted by Mira Vale and Theo Arlen. Each episode follows a stack of sources into a different corner of culture, technology, art, religion, and history: the arguments, inventions, translations, and practical details that changed how people make meaning. Created with NotebookLM.</itunes:summary>
     <itunes:subtitle>Conversational research deep dives with Mira Vale and Theo Arlen.</itunes:subtitle>
+    <item>
+      <title>The Sophisticated Architectural Matrix of Genesis</title>
+      <link>https://www.patreon.com/ZeldaReySkywalker/posts/sophisticated-of-162771918</link>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>3123</itunes:duration>
+      <description>&lt;html&gt;&lt;/html&gt;</description>
+      <enclosure url="https://yatimitofawaii.github.io/footnotes-in-stereo-feed/audio/the-sophisticated-architectural-matrix-of-genesis.m4a" length="100483135" type="audio/mp4" />
+      <guid isPermaLink="false">162771918</guid>
+      <pubDate>Sat, 04 Jul 2026 15:00:12 +0000</pubDate>
+      <itunes:author>Mira Vale and Theo Arlen</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>How Physics and Railroads Built the Circus</title>
       <link>https://www.patreon.com/ZeldaReySkywalker/posts/how-physics-and-162770841</link>
