@@ -23,6 +23,27 @@ EPISODE_IMAGE_SOURCES = {
     "162770841": WORKSPACE / "outputs" / "episode-01-circus-titlecard-apple-512.jpg",
 }
 
+EPISODE_DESCRIPTION_OVERRIDES = {
+    "162771918": """Genesis is often treated as a beginning, but this episode treats it as an intricate architecture of text, transmission, commentary, translation, and literary design. Mira and Theo move between rabbinic commentary, modern literary analysis, manuscript traditions, chiasmus, and translation debates to ask how the book's structure carries meaning across time. Created with NotebookLM.
+
+Sources cited:
+- Bereshit Rabbah | Sefaria Library: https://www.sefaria.org/Bereshit_Rabbah
+- Genesis Translation and Commentary / Robert Alter: https://www.staff.ces.funai.edu.ng/papersCollection/Resources/HomePages/genesis_translation_and_commentary.pdf
+- Exegesis of Genesis - Asbury Theological Seminary: https://place.asburyseminary.edu/cgi/viewcontent.cgi?article=4174&context=syllabi
+- Ramban on Genesis | Sefaria Library: https://www.sefaria.org/Ramban_on_Genesis
+- Genesis and Exodus - Reformed Theological Seminary: https://cdn.rts.edu/wp-content/uploads/2019/08/2009_01_2OT711_Genesis_and_Exodus.pdf
+- Literary Analysis (Genesis) - Academia.edu: https://www.academia.edu/3787216/Literary_Analysis_Genesis_
+- The Theory of Evolution - A Jewish Perspective - Rambam Maimonides Medical Journal: https://www.rmmj.org.il/userimages/9/0/PublishFiles/9Article.pdf
+- Rashi on the Torah: What Kind of Commentary Is It? - TheTorah.com: https://www.thetorah.com/article/rashi-on-the-torah-what-kind-of-commentary-is-it
+- Chiasmus in the Book of Genesis - BYU ScholarsArchive: https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=5113&context=byusq
+- The Theology of the Book of Genesis - Cambridge University Press: https://assets.cambridge.org/97805216/85382/frontmatter/9780521685382_frontmatter.pdf
+- The Biblical Qumran Scrolls - Eugene Ulrich: https://archive.org/download/TheBiblicalQumranScrolls/61301866-The-Biblical-Qumran-Scrolls-Eugene-Charles-Ulrich.pdf
+- Septuagint vs. Masoretic: Which Is More Authentic?: https://stjohnpanamacity.church/wp-content/uploads/Septuagint-vs.-Masoretic.pdf
+- Documentary hypothesis - Wikipedia: https://en.wikipedia.org/wiki/Documentary_hypothesis
+- The Genre, Historical Context, and Purpose of Genesis 1-11 - Resurrecting Orthodoxy: https://www.joeledmundanderson.com/the-genre-historical-context-and-purpose-of-genesis-1-11/
+- Rethinking Genesis 1: How Translators Changed the First Verse | Genesis Analysis Ep. 1: https://www.youtube.com/results?search_query=Rethinking+Genesis+1+How+Translators+Changed+the+First+Verse""",
+}
+
 
 ET.register_namespace("itunes", "http://www.itunes.com/dtds/podcast-1.0.dtd")
 ET.register_namespace("content", "http://purl.org/rss/1.0/modules/content/")
@@ -197,9 +218,16 @@ def build() -> None:
     for item in channel.findall("item"):
         rewrite_item_images(item)
         item_description = item.find("description")
+        guid = text_of(item, "guid")
         if item_description is not None and item_description.text:
             plain_description, _html_description = clean_description(item_description.text)
             item_description.text = plain_description
+        if (
+            item_description is not None
+            and guid in EPISODE_DESCRIPTION_OVERRIDES
+            and (item_description.text or "").strip().lower() in {"", "<html></html>", "html"}
+        ):
+            item_description.text = EPISODE_DESCRIPTION_OVERRIDES[guid]
         set_or_add(item, f"{{{NS['itunes']}}}author", text_of(channel, f"{{{NS['itunes']}}}author", "Mira Vale and Theo Arlen"))
         set_or_add(item, f"{{{NS['itunes']}}}explicit", "false")
         normalize_pubdate(item)
