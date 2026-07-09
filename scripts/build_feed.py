@@ -22,6 +22,7 @@ COVER_SOURCE = WORKSPACE / "outputs" / "footnotes-in-stereo-cover-apple-512.jpg"
 EPISODE_IMAGE_SOURCES = {
     "162770841": WORKSPACE / "outputs" / "episode-01-circus-titlecard-apple-512.jpg",
 }
+PACKAGE_PATH = WORKSPACE / "outputs" / "patreon-podcast-draft-package.md"
 
 EPISODE_DESCRIPTION_OVERRIDES = {
     "162771918": """Genesis is often treated as a beginning, but this episode treats it as an intricate architecture of text, transmission, commentary, translation, and literary design. Mira and Theo move between rabbinic commentary, modern literary analysis, manuscript traditions, chiasmus, and translation debates to ask how the book's structure carries meaning across time. Created with NotebookLM.
@@ -43,6 +44,65 @@ Sources cited:
 - The Genre, Historical Context, and Purpose of Genesis 1-11 - Resurrecting Orthodoxy: https://www.joeledmundanderson.com/the-genre-historical-context-and-purpose-of-genesis-1-11/
 - Rethinking Genesis 1: How Translators Changed the First Verse | Genesis Analysis Ep. 1: https://www.youtube.com/results?search_query=Rethinking+Genesis+1+How+Translators+Changed+the+First+Verse""",
 }
+
+
+def normalize_text_block(value: str) -> str:
+    lines = [line.rstrip() for line in value.strip().splitlines()]
+    while lines and not lines[0].strip():
+        lines.pop(0)
+    while lines and not lines[-1].strip():
+        lines.pop()
+    return "\n".join(lines)
+
+
+def load_package_description_overrides() -> dict[str, str]:
+    if not PACKAGE_PATH.exists():
+        return {}
+
+    package = PACKAGE_PATH.read_text(encoding="utf-8")
+    episode_post_ids: dict[str, str] = {}
+    for line in package.splitlines():
+        if not line.startswith("|"):
+            continue
+        cells = [cell.strip() for cell in line.strip().strip("|").split("|")]
+        if len(cells) < 2 or not cells[0].isdigit():
+            continue
+        match = re.search(r"-(\d+)(?:/edit|\?)", cells[1])
+        if match:
+            episode_post_ids[cells[0]] = match.group(1)
+
+    overrides: dict[str, str] = {}
+    section_matches = list(re.finditer(r"^## Episode (\d+)\s*$", package, flags=re.MULTILINE))
+    for index, match in enumerate(section_matches):
+        episode_number = match.group(1)
+        post_id = episode_post_ids.get(episode_number)
+        if post_id is None:
+            continue
+
+        start = match.end()
+        end = section_matches[index + 1].start() if index + 1 < len(section_matches) else len(package)
+        section = package[start:end]
+        description_match = re.search(
+            r"\*\*Description:\*\*\s*\n(?P<description>.*?)(?=\n\*\*Sources cited:\*\*)",
+            section,
+            flags=re.DOTALL,
+        )
+        sources_match = re.search(
+            r"\*\*Sources cited:\*\*\s*\n(?P<sources>.*?)(?=\n## |\Z)",
+            section,
+            flags=re.DOTALL,
+        )
+        if description_match is None:
+            continue
+
+        parts = [normalize_text_block(description_match.group("description"))]
+        if sources_match is not None:
+            sources = normalize_text_block(sources_match.group("sources"))
+            if sources:
+                parts.append(f"Sources cited:\n{sources}")
+        overrides[post_id] = "\n\n".join(part for part in parts if part)
+
+    return overrides
 
 
 ET.register_namespace("itunes", "http://www.itunes.com/dtds/podcast-1.0.dtd")
@@ -201,6 +261,10 @@ def rewrite_item_images(item: ET.Element) -> None:
 
 def build() -> None:
     DOCS.mkdir(parents=True, exist_ok=True)
+    episode_description_overrides = {
+        **EPISODE_DESCRIPTION_OVERRIDES,
+        **load_package_description_overrides(),
+    }
     rss_bytes = fetch(SOURCE_RSS)
     root = ET.fromstring(rss_bytes)
     channel = root.find("channel")
@@ -224,10 +288,10 @@ def build() -> None:
             item_description.text = plain_description
         if (
             item_description is not None
-            and guid in EPISODE_DESCRIPTION_OVERRIDES
+            and guid in episode_description_overrides
             and (item_description.text or "").strip().lower() in {"", "<html></html>", "html"}
         ):
-            item_description.text = EPISODE_DESCRIPTION_OVERRIDES[guid]
+            item_description.text = episode_description_overrides[guid]
         set_or_add(item, f"{{{NS['itunes']}}}author", text_of(channel, f"{{{NS['itunes']}}}author", "Mira Vale and Theo Arlen"))
         set_or_add(item, f"{{{NS['itunes']}}}explicit", "false")
         normalize_pubdate(item)
