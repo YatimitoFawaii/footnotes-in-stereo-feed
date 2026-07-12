@@ -19,7 +19,7 @@ PUBLIC_BASE = "https://yatimitofawaii.github.io/footnotes-in-stereo-feed"
 REPO_ROOT = Path(__file__).resolve().parents[1]
 DOCS = REPO_ROOT / "docs"
 WORKSPACE = Path("/Users/zelda/Documents/Codex/2026-07-02/i")
-GITHUB_FILE_LIMIT_BYTES = 95 * 1024 * 1024
+GITHUB_FILE_LIMIT_BYTES = 90_000_000
 COVER_SOURCE = WORKSPACE / "outputs" / "footnotes-in-stereo-cover-apple-512.jpg"
 EPISODE_IMAGE_SOURCES = {
     "162770841": WORKSPACE / "outputs" / "episode-01-circus-titlecard-apple-512.jpg",
