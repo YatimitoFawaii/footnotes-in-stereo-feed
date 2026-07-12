@@ -3,6 +3,7 @@ from __future__ import annotations
 
 import re
 import shutil
+import subprocess
 import sys
 from email.utils import format_datetime, parsedate_to_datetime
 from html import unescape
@@ -18,6 +19,7 @@ PUBLIC_BASE = "https://yatimitofawaii.github.io/footnotes-in-stereo-feed"
 REPO_ROOT = Path(__file__).resolve().parents[1]
 DOCS = REPO_ROOT / "docs"
 WORKSPACE = Path("/Users/zelda/Documents/Codex/2026-07-02/i")
+GITHUB_FILE_LIMIT_BYTES = 95 * 1024 * 1024
 COVER_SOURCE = WORKSPACE / "outputs" / "footnotes-in-stereo-cover-apple-512.jpg"
 EPISODE_IMAGE_SOURCES = {
     "162770841": WORKSPACE / "outputs" / "episode-01-circus-titlecard-apple-512.jpg",
@@ -249,6 +251,29 @@ def local_audio_url(item: ET.Element, enclosure: ET.Element) -> str:
     target = audio_dir / filename
     if not target.exists():
         target.write_bytes(fetch(enclosure.get("url", "")))
+    if target.stat().st_size > GITHUB_FILE_LIMIT_BYTES and shutil.which("ffmpeg"):
+        compressed_target = target.with_suffix(".compressed.m4a")
+        subprocess.run(
+            [
+                "ffmpeg",
+                "-y",
+                "-i",
+                str(target),
+                "-vn",
+                "-c:a",
+                "aac",
+                "-b:a",
+                "96k",
+                str(compressed_target),
+            ],
+            check=True,
+            stdout=subprocess.DEVNULL,
+            stderr=subprocess.DEVNULL,
+        )
+        if compressed_target.stat().st_size < target.stat().st_size:
+            compressed_target.replace(target)
+        else:
+            compressed_target.unlink(missing_ok=True)
     enclosure.set("length", str(target.stat().st_size))
     return f"{PUBLIC_BASE}/audio/{filename}"
 
@@ -257,6 +282,11 @@ def rewrite_item_images(item: ET.Element) -> None:
     itunes_image = item.find("itunes:image", NS)
     if itunes_image is not None:
         item.remove(itunes_image)
+
+
+def is_preview_item(item: ET.Element) -> bool:
+    title = text_of(item, "title").strip().lower()
+    return title.startswith("[preview]")
 
 
 def build() -> None:
@@ -279,7 +309,10 @@ def build() -> None:
     set_or_insert_before_first_item(channel, f"{{{NS['itunes']}}}subtitle", "Conversational research deep dives with Mira Vale and Theo Arlen.")
     normalize_pubdate(channel)
 
-    for item in channel.findall("item"):
+    for item in list(channel.findall("item")):
+        if is_preview_item(item):
+            channel.remove(item)
+            continue
         rewrite_item_images(item)
         item_description = item.find("description")
         guid = text_of(item, "guid")
