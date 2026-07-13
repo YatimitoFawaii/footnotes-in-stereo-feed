@@ -16,8 +16,8 @@
     <itunes:category text="Education" />
     <language>en-US</language>
     <copyright>2026 Zelda Rey Skywalker</copyright>
-    <pubDate>Sun, 12 Jul 2026 16:16:19 +0000</pubDate>
-    <lastBuildDate>Sun, 12 Jul 2026 16:16:19 +0000</lastBuildDate>
+    <pubDate>Mon, 13 Jul 2026 17:25:20 +0000</pubDate>
+    <lastBuildDate>Mon, 13 Jul 2026 17:25:20 +0000</lastBuildDate>
     <generator>Footnotes in Stereo feed mirror</generator>
     <image>
       <url>https://yatimitofawaii.github.io/footnotes-in-stereo-feed/art/cover.jpg</url>
@@ -26,6 +26,19 @@
     </image>
     <itunes:summary>Footnotes in Stereo is a series of conversational research deep dives hosted by Mira Vale and Theo Arlen. Each episode follows a stack of sources into a different corner of culture, technology, art, religion, and history: the arguments, inventions, translations, and practical details that changed how people make meaning. Created with NotebookLM.</itunes:summary>
     <itunes:subtitle>Conversational research deep dives with Mira Vale and Theo Arlen.</itunes:subtitle>
+    <item>
+      <title>Why Division Is Cheaper Than Unity</title>
+      <link>https://www.patreon.com/ZeldaReySkywalker/posts/why-division-is-162822416</link>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2527</itunes:duration>
+      <description>&lt;html&gt;&lt;/html&gt;</description>
+      <enclosure url="https://yatimitofawaii.github.io/footnotes-in-stereo-feed/audio/why-division-is-cheaper-than-unity.m4a" length="81313258" type="audio/mp4" />
+      <guid isPermaLink="false">162822416</guid>
+      <pubDate>Sat, 11 Jul 2026 15:00:07 +0000</pubDate>
+      <itunes:author>Mira Vale and Theo Arlen</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Did the Old Masters Use Tracing Machines?</title>
       <link>https://www.patreon.com/ZeldaReySkywalker/posts/did-old-masters-162772462</link>
