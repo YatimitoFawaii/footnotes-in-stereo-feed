@@ -78,12 +78,11 @@ def load_package_description_overrides() -> dict[str, str]:
     for index, match in enumerate(section_matches):
         episode_number = match.group(1)
         post_id = episode_post_ids.get(episode_number)
-        if post_id is None:
-            continue
 
         start = match.end()
         end = section_matches[index + 1].start() if index + 1 < len(section_matches) else len(package)
         section = package[start:end]
+        title_match = re.search(r"\*\*Title:\*\*\s*(?P<title>.+)", section)
         description_match = re.search(
             r"\*\*Description:\*\*\s*\n(?P<description>.*?)(?=\n\*\*Sources cited:\*\*)",
             section,
@@ -102,7 +101,11 @@ def load_package_description_overrides() -> dict[str, str]:
             sources = normalize_text_block(sources_match.group("sources"))
             if sources:
                 parts.append(f"Sources cited:\n{sources}")
-        overrides[post_id] = "\n\n".join(part for part in parts if part)
+        description = "\n\n".join(part for part in parts if part)
+        if post_id is not None:
+            overrides[post_id] = description
+        if title_match is not None:
+            overrides[f"title:{slugify(title_match.group('title'))}"] = description
 
     return overrides
 
@@ -319,12 +322,20 @@ def build() -> None:
         if item_description is not None and item_description.text:
             plain_description, _html_description = clean_description(item_description.text)
             item_description.text = plain_description
+        fallback_description = (
+            episode_description_overrides.get(guid)
+            or episode_description_overrides.get(f"title:{slugify(text_of(item, 'title'))}")
+        )
         if (
             item_description is not None
-            and guid in episode_description_overrides
+            and fallback_description
             and (item_description.text or "").strip().lower() in {"", "<html></html>", "html"}
         ):
-            item_description.text = episode_description_overrides[guid]
+            item_description.text = fallback_description
+        description_text = (item_description.text or "").strip() if item_description is not None else ""
+        if description_text:
+            set_or_add(item, f"{{{NS['itunes']}}}summary", description_text)
+            set_or_add(item, f"{{{NS['content']}}}encoded", description_text)
         set_or_add(item, f"{{{NS['itunes']}}}author", text_of(channel, f"{{{NS['itunes']}}}author", "Mira Vale and Theo Arlen"))
         set_or_add(item, f"{{{NS['itunes']}}}explicit", "false")
         normalize_pubdate(item)
