@@ -207,6 +207,12 @@ def clean_description(value: str) -> tuple[str, str]:
     return plain, html
 
 
+def episode_subtitle(value: str) -> str:
+    """Return the short per-episode copy used by clients that omit summaries."""
+    first_paragraph = next((part.strip() for part in value.split("\n\n") if part.strip()), "")
+    return first_paragraph[:255].rstrip()
+
+
 def rewrite_atom_self(channel: ET.Element) -> None:
     atom_link = channel.find("atom:link", NS)
     if atom_link is None:
@@ -335,6 +341,7 @@ def build() -> None:
         description_text = (item_description.text or "").strip() if item_description is not None else ""
         if description_text:
             set_or_add(item, f"{{{NS['itunes']}}}summary", description_text)
+            set_or_add(item, f"{{{NS['itunes']}}}subtitle", episode_subtitle(description_text))
             set_or_add(item, f"{{{NS['content']}}}encoded", description_text)
         set_or_add(item, f"{{{NS['itunes']}}}author", text_of(channel, f"{{{NS['itunes']}}}author", "Mira Vale and Theo Arlen"))
         set_or_add(item, f"{{{NS['itunes']}}}explicit", "false")
