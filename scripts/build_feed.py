@@ -111,6 +111,26 @@ def load_package_description_overrides() -> dict[str, str]:
     return overrides
 
 
+def load_existing_feed_description_overrides() -> dict[str, str]:
+    feed_path = DOCS / "feed.xml"
+    if not feed_path.exists():
+        return {}
+
+    root = ET.parse(feed_path).getroot()
+    overrides: dict[str, str] = {}
+    for item in root.findall("./channel/item"):
+        description = text_of(item, "description").strip()
+        if description.lower() in {"", "<html></html>", "html"}:
+            continue
+        guid = text_of(item, "guid").strip()
+        if guid:
+            overrides[guid] = description
+        title = text_of(item, "title").strip()
+        if title:
+            overrides[f"title:{slugify(title)}"] = description
+    return overrides
+
+
 ET.register_namespace("itunes", "http://www.itunes.com/dtds/podcast-1.0.dtd")
 ET.register_namespace("content", "http://purl.org/rss/1.0/modules/content/")
 ET.register_namespace("podcast", "https://podcastindex.org/namespace/1.0")
@@ -308,6 +328,7 @@ def build() -> None:
     DOCS.mkdir(parents=True, exist_ok=True)
     episode_description_overrides = {
         **EPISODE_DESCRIPTION_OVERRIDES,
+        **load_existing_feed_description_overrides(),
         **load_package_description_overrides(),
     }
     rss_bytes = fetch(SOURCE_RSS)
