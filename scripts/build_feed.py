@@ -20,6 +20,7 @@ REPO_ROOT = Path(__file__).resolve().parents[1]
 DOCS = REPO_ROOT / "docs"
 WORKSPACE = Path("/Users/zelda/Documents/Codex/2026-07-02/i")
 GITHUB_FILE_LIMIT_BYTES = 90_000_000
+COMPRESSED_AUDIO_BITRATE = "80k"
 COVER_SOURCE = WORKSPACE / "outputs" / "footnotes-in-stereo-cover-apple-512.jpg"
 EPISODE_IMAGE_SOURCES = {
     "162770841": WORKSPACE / "outputs" / "episode-01-circus-titlecard-apple-512.jpg",
@@ -272,7 +273,7 @@ def local_audio_url(item: ET.Element, enclosure: ET.Element) -> str:
                 "-c:a",
                 "aac",
                 "-b:a",
-                "96k",
+                COMPRESSED_AUDIO_BITRATE,
                 str(compressed_target),
             ],
             check=True,
@@ -283,6 +284,11 @@ def local_audio_url(item: ET.Element, enclosure: ET.Element) -> str:
             compressed_target.replace(target)
         else:
             compressed_target.unlink(missing_ok=True)
+    if target.stat().st_size > GITHUB_FILE_LIMIT_BYTES:
+        raise RuntimeError(
+            f"Mirrored audio remains too large for GitHub after compression: "
+            f"{target.name} ({target.stat().st_size} bytes)"
+        )
     enclosure.set("length", str(target.stat().st_size))
     return f"{PUBLIC_BASE}/audio/{filename}"
 
