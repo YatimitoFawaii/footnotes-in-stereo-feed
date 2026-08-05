@@ -16,8 +16,8 @@
     <itunes:category text="Education" />
     <language>en-US</language>
     <copyright>2026 Zelda Rey Skywalker</copyright>
-    <pubDate>Tue, 04 Aug 2026 17:09:11 +0000</pubDate>
-    <lastBuildDate>Tue, 04 Aug 2026 17:09:11 +0000</lastBuildDate>
+    <pubDate>Wed, 05 Aug 2026 16:55:36 +0000</pubDate>
+    <lastBuildDate>Wed, 05 Aug 2026 16:55:36 +0000</lastBuildDate>
     <generator>Footnotes in Stereo feed mirror</generator>
     <image>
       <url>https://yatimitofawaii.github.io/footnotes-in-stereo-feed/art/cover.jpg</url>
@@ -26,6 +26,55 @@
     </image>
     <itunes:summary>Footnotes in Stereo is a series of conversational research deep dives hosted by Mira Vale and Theo Arlen. Each episode follows a stack of sources into a different corner of culture, technology, art, religion, and history: the arguments, inventions, translations, and practical details that changed how people make meaning. Created with NotebookLM.</itunes:summary>
     <itunes:subtitle>Conversational research deep dives with Mira Vale and Theo Arlen.</itunes:subtitle>
+    <item>
+      <title>From Music Boxes to Jazz Robots</title>
+      <link>https://www.patreon.com/ZeldaReySkywalker/posts/from-music-boxes-163194512</link>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2629</itunes:duration>
+      <description>Long before playlists and sequencers, machines were already learning how to play: pinned cylinders, music boxes, barrel organs, automata, player pianos, punch rolls, robotic marimbas, and full mechanical ensembles. Mira and Theo follow the strange, beautiful history of music that performs itself, from domestic parlor technology to modern robotic musicianship. Created with NotebookLM.
+Sources cited:
+- A History of the Music Box: https://www.themusicboxcompany.com/a-history-of-the-music-box/
+- DIGITIZING NORTH INDIAN MUSIC: Preservation and Extension using Multimodal Sensor Systems, Machine Learning and Robotics - Mistic: https://mistic.mit.edu/projects/digitizing-north-indian-music
+- Interactive Improvisation with a Robotic Marimba Player - Guy Hoffman: https://guyhoffman.com/publications/Hoffman_Interactive_Improvisation_with_a_Robotic_Marimba_Player.pdf
+- Mechanical Music - The Musical Box Society of Great Britain: https://mbsgb.org.uk/mechanical-music/
+- Mechanical organ - Wikipedia: https://en.wikipedia.org/wiki/Mechanical_organ
+- Morris Steinert Collection of Musical Instruments | Yale School of Music: https://music.yale.edu/collections/morris-steinert-collection
+- Pat Metheny: One Man's Band - Profile - All About Jazz: https://www.allaboutjazz.com/pat-metheny-one-mans-band-pat-metheny-by-john-kelman
+- The Biomorphic Automata of the 18th Century. Mechanical Artworks as Objects of Technical Fascination and Epistemological Exhibit: https://journals.openedition.org/miranda/33486
+- Ulysses Pianola | Penn English: https://web.sas.upenn.edu/ulysses-pianola/
+- "This Will Play Your Piano": Automation, Amateur Musicianship, and the Player Piano - Cornell eCommons: https://ecommons.cornell.edu/items/2ade8167-4b7b-4f66-8d95-5792f4674a59</description>
+      <enclosure url="https://yatimitofawaii.github.io/footnotes-in-stereo-feed/audio/from-music-boxes-to-jazz-robots.m4a" length="84582712" type="audio/mp4" />
+      <guid isPermaLink="false">163194512</guid>
+      <pubDate>Fri, 31 Jul 2026 07:00:04 +0000</pubDate>
+      <itunes:summary>Long before playlists and sequencers, machines were already learning how to play: pinned cylinders, music boxes, barrel organs, automata, player pianos, punch rolls, robotic marimbas, and full mechanical ensembles. Mira and Theo follow the strange, beautiful history of music that performs itself, from domestic parlor technology to modern robotic musicianship. Created with NotebookLM.
+Sources cited:
+- A History of the Music Box: https://www.themusicboxcompany.com/a-history-of-the-music-box/
+- DIGITIZING NORTH INDIAN MUSIC: Preservation and Extension using Multimodal Sensor Systems, Machine Learning and Robotics - Mistic: https://mistic.mit.edu/projects/digitizing-north-indian-music
+- Interactive Improvisation with a Robotic Marimba Player - Guy Hoffman: https://guyhoffman.com/publications/Hoffman_Interactive_Improvisation_with_a_Robotic_Marimba_Player.pdf
+- Mechanical Music - The Musical Box Society of Great Britain: https://mbsgb.org.uk/mechanical-music/
+- Mechanical organ - Wikipedia: https://en.wikipedia.org/wiki/Mechanical_organ
+- Morris Steinert Collection of Musical Instruments | Yale School of Music: https://music.yale.edu/collections/morris-steinert-collection
+- Pat Metheny: One Man's Band - Profile - All About Jazz: https://www.allaboutjazz.com/pat-metheny-one-mans-band-pat-metheny-by-john-kelman
+- The Biomorphic Automata of the 18th Century. Mechanical Artworks as Objects of Technical Fascination and Epistemological Exhibit: https://journals.openedition.org/miranda/33486
+- Ulysses Pianola | Penn English: https://web.sas.upenn.edu/ulysses-pianola/
+- "This Will Play Your Piano": Automation, Amateur Musicianship, and the Player Piano - Cornell eCommons: https://ecommons.cornell.edu/items/2ade8167-4b7b-4f66-8d95-5792f4674a59</itunes:summary>
+      <itunes:subtitle>Long before playlists and sequencers, machines were already learning how to play: pinned cylinders, music boxes, barrel organs, automata, player pianos, punch rolls, robotic marimbas, and full mechanical ensembles. Mira and Theo follow the strange, beauti</itunes:subtitle>
+      <content:encoded>Long before playlists and sequencers, machines were already learning how to play: pinned cylinders, music boxes, barrel organs, automata, player pianos, punch rolls, robotic marimbas, and full mechanical ensembles. Mira and Theo follow the strange, beautiful history of music that performs itself, from domestic parlor technology to modern robotic musicianship. Created with NotebookLM.
+Sources cited:
+- A History of the Music Box: https://www.themusicboxcompany.com/a-history-of-the-music-box/
+- DIGITIZING NORTH INDIAN MUSIC: Preservation and Extension using Multimodal Sensor Systems, Machine Learning and Robotics - Mistic: https://mistic.mit.edu/projects/digitizing-north-indian-music
+- Interactive Improvisation with a Robotic Marimba Player - Guy Hoffman: https://guyhoffman.com/publications/Hoffman_Interactive_Improvisation_with_a_Robotic_Marimba_Player.pdf
+- Mechanical Music - The Musical Box Society of Great Britain: https://mbsgb.org.uk/mechanical-music/
+- Mechanical organ - Wikipedia: https://en.wikipedia.org/wiki/Mechanical_organ
+- Morris Steinert Collection of Musical Instruments | Yale School of Music: https://music.yale.edu/collections/morris-steinert-collection
+- Pat Metheny: One Man's Band - Profile - All About Jazz: https://www.allaboutjazz.com/pat-metheny-one-mans-band-pat-metheny-by-john-kelman
+- The Biomorphic Automata of the 18th Century. Mechanical Artworks as Objects of Technical Fascination and Epistemological Exhibit: https://journals.openedition.org/miranda/33486
+- Ulysses Pianola | Penn English: https://web.sas.upenn.edu/ulysses-pianola/
+- "This Will Play Your Piano": Automation, Amateur Musicianship, and the Player Piano - Cornell eCommons: https://ecommons.cornell.edu/items/2ade8167-4b7b-4f66-8d95-5792f4674a59</content:encoded>
+      <itunes:author>Mira Vale and Theo Arlen</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>How the Digital Revolution Rewired Music</title>
       <link>https://www.patreon.com/ZeldaReySkywalker/posts/how-digital-163191816</link>
