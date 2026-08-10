@@ -3,7 +3,7 @@
   <channel>
     <title>Footnotes in Stereo</title>
     <link>https://www.patreon.com/collection/2250512</link>
-    <description>Footnotes in Stereo is a series of conversational research deep dives hosted by Mira Vale and Theo Arlen. Each episode follows a stack of sources into a different corner of culture, technology, art, religion, and history: the arguments, inventions, translations, and practical details that changed how people make meaning. Created with NotebookLM.</description>
+    <description>Footnotes in Stereo is a series of conversational research deep dives hosted by Mira Vale and Theo Arlen. Each episode follows a stack of sources into a different corner of culture, technology, art, religion, and history: the arguments, inventions, translations, and practical details that changed how people make meaning. Public episodes arrive Wednesdays, and Patreon subscribers receive an additional bonus episode every Friday. Created with Gemini Notebook. The conversations and voices are generated with Gemini Notebook.</description>
     <atom:link href="https://yatimitofawaii.github.io/footnotes-in-stereo-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:owner>
       <itunes:name>Footnotes in Stereo</itunes:name>
@@ -16,15 +16,15 @@
     <itunes:category text="Education" />
     <language>en-US</language>
     <copyright>2026 Zelda Rey Skywalker</copyright>
-    <pubDate>Sun, 09 Aug 2026 15:53:14 +0000</pubDate>
-    <lastBuildDate>Sun, 09 Aug 2026 15:53:14 +0000</lastBuildDate>
+    <pubDate>Mon, 10 Aug 2026 16:12:58 +0000</pubDate>
+    <lastBuildDate>Mon, 10 Aug 2026 16:12:58 +0000</lastBuildDate>
     <generator>Footnotes in Stereo feed mirror</generator>
     <image>
       <url>https://yatimitofawaii.github.io/footnotes-in-stereo-feed/art/cover.jpg</url>
       <title>Footnotes in Stereo</title>
       <link>https://www.patreon.com/collection/2250512</link>
     </image>
-    <itunes:summary>Footnotes in Stereo is a series of conversational research deep dives hosted by Mira Vale and Theo Arlen. Each episode follows a stack of sources into a different corner of culture, technology, art, religion, and history: the arguments, inventions, translations, and practical details that changed how people make meaning. Created with NotebookLM.</itunes:summary>
+    <itunes:summary>Footnotes in Stereo is a series of conversational research deep dives hosted by Mira Vale and Theo Arlen. Each episode follows a stack of sources into a different corner of culture, technology, art, religion, and history: the arguments, inventions, translations, and practical details that changed how people make meaning. Public episodes arrive Wednesdays, and Patreon subscribers receive an additional bonus episode every Friday. Created with Gemini Notebook. The conversations and voices are generated with Gemini Notebook.</itunes:summary>
     <itunes:subtitle>Conversational research deep dives with Mira Vale and Theo Arlen.</itunes:subtitle>
     <item>
       <title>From Music Boxes to Jazz Robots</title>
