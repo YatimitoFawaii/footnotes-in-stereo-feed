@@ -16,6 +16,10 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - name: Install audio tools
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install --yes ffmpeg
       - name: Rebuild feed mirror
         run: python scripts/build_feed.py
       - name: Commit refreshed feed

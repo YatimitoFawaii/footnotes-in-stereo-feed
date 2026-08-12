@@ -281,11 +281,16 @@ def local_audio_url(item: ET.Element, enclosure: ET.Element) -> str:
     target = audio_dir / filename
     if not target.exists():
         target.write_bytes(fetch(enclosure.get("url", "")))
-    if target.stat().st_size > GITHUB_FILE_LIMIT_BYTES and shutil.which("ffmpeg"):
+    if target.stat().st_size > GITHUB_FILE_LIMIT_BYTES:
+        ffmpeg = shutil.which("ffmpeg")
+        if ffmpeg is None:
+            raise RuntimeError(
+                f"ffmpeg is required to compress oversized mirrored audio: {target.name}"
+            )
         compressed_target = target.with_suffix(".compressed.m4a")
         subprocess.run(
             [
-                "ffmpeg",
+                ffmpeg,
                 "-y",
                 "-i",
                 str(target),
