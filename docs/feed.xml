@@ -16,8 +16,8 @@
     <itunes:category text="Education" />
     <language>en-US</language>
     <copyright>2026 Zelda Rey Skywalker</copyright>
-    <pubDate>Tue, 18 Aug 2026 15:55:56 +0000</pubDate>
-    <lastBuildDate>Tue, 18 Aug 2026 15:55:56 +0000</lastBuildDate>
+    <pubDate>Thu, 20 Aug 2026 15:53:43 +0000</pubDate>
+    <lastBuildDate>Thu, 20 Aug 2026 15:53:43 +0000</lastBuildDate>
     <generator>Footnotes in Stereo feed mirror</generator>
     <image>
       <url>https://yatimitofawaii.github.io/footnotes-in-stereo-feed/art/cover.jpg</url>
@@ -26,6 +26,37 @@
     </image>
     <itunes:summary>Footnotes in Stereo is a series of conversational research deep dives hosted by Mira Vale and Theo Arlen. Each episode follows a stack of sources into a different corner of culture, technology, art, religion, and history: the arguments, inventions, translations, and practical details that changed how people make meaning. Public episodes arrive Wednesdays, and Patreon subscribers receive an additional bonus episode every Friday. Created with Gemini Notebook. The conversations and voices are generated with Gemini Notebook.</itunes:summary>
     <itunes:subtitle>Conversational research deep dives with Mira Vale and Theo Arlen.</itunes:subtitle>
+    <item>
+      <title>How Humanity Maps the Afterlife</title>
+      <link>https://www.patreon.com/ZeldaReySkywalker/posts/how-humanity-163644980</link>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>3028</itunes:duration>
+      <description>What would have to persist for a person to have an afterlife: a soul, a body, a memory, a relationship, or something else entirely? Mira and Theo follow paradise, resurrection, dualism, materialism, divine justice, and the competing maps people have drawn beyond death. Created with NotebookLM.
+
+Sources cited:
+- Afterlife - Stanford Encyclopedia of Philosophy: https://plato.stanford.edu/archives/sum2025/entries/afterlife/
+- Heaven and Hell in Christian Thought - Stanford Encyclopedia of Philosophy: https://plato.stanford.edu/entries/heaven-hell/
+- Hell - Internet Encyclopedia of Philosophy: https://iep.utm.edu/hell/</description>
+      <enclosure url="https://yatimitofawaii.github.io/footnotes-in-stereo-feed/audio/how-humanity-maps-the-afterlife.m4a" length="31793033" type="audio/mp4" />
+      <guid isPermaLink="false">163644980</guid>
+      <pubDate>Fri, 14 Aug 2026 07:00:03 +0000</pubDate>
+      <itunes:summary>What would have to persist for a person to have an afterlife: a soul, a body, a memory, a relationship, or something else entirely? Mira and Theo follow paradise, resurrection, dualism, materialism, divine justice, and the competing maps people have drawn beyond death. Created with NotebookLM.
+
+Sources cited:
+- Afterlife - Stanford Encyclopedia of Philosophy: https://plato.stanford.edu/archives/sum2025/entries/afterlife/
+- Heaven and Hell in Christian Thought - Stanford Encyclopedia of Philosophy: https://plato.stanford.edu/entries/heaven-hell/
+- Hell - Internet Encyclopedia of Philosophy: https://iep.utm.edu/hell/</itunes:summary>
+      <itunes:subtitle>What would have to persist for a person to have an afterlife: a soul, a body, a memory, a relationship, or something else entirely? Mira and Theo follow paradise, resurrection, dualism, materialism, divine justice, and the competing maps people have drawn</itunes:subtitle>
+      <content:encoded>What would have to persist for a person to have an afterlife: a soul, a body, a memory, a relationship, or something else entirely? Mira and Theo follow paradise, resurrection, dualism, materialism, divine justice, and the competing maps people have drawn beyond death. Created with NotebookLM.
+
+Sources cited:
+- Afterlife - Stanford Encyclopedia of Philosophy: https://plato.stanford.edu/archives/sum2025/entries/afterlife/
+- Heaven and Hell in Christian Thought - Stanford Encyclopedia of Philosophy: https://plato.stanford.edu/entries/heaven-hell/
+- Hell - Internet Encyclopedia of Philosophy: https://iep.utm.edu/hell/</content:encoded>
+      <itunes:author>Mira Vale and Theo Arlen</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>How Hell Became a Torture Chamber</title>
       <link>https://www.patreon.com/ZeldaReySkywalker/posts/how-hell-became-163641314</link>
