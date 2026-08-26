@@ -16,8 +16,8 @@
     <itunes:category text="Education" />
     <language>en-US</language>
     <copyright>2026 Zelda Rey Skywalker</copyright>
-    <pubDate>Tue, 25 Aug 2026 16:06:33 +0000</pubDate>
-    <lastBuildDate>Tue, 25 Aug 2026 16:06:33 +0000</lastBuildDate>
+    <pubDate>Wed, 26 Aug 2026 16:36:54 +0000</pubDate>
+    <lastBuildDate>Wed, 26 Aug 2026 16:36:54 +0000</lastBuildDate>
     <generator>Footnotes in Stereo feed mirror</generator>
     <image>
       <url>https://yatimitofawaii.github.io/footnotes-in-stereo-feed/art/cover.jpg</url>
@@ -26,6 +26,37 @@
     </image>
     <itunes:summary>Footnotes in Stereo is a series of conversational research deep dives hosted by Mira Vale and Theo Arlen. Each episode follows a stack of sources into a different corner of culture, technology, art, religion, and history: the arguments, inventions, translations, and practical details that changed how people make meaning. Public episodes arrive Wednesdays, and Patreon subscribers receive an additional bonus episode every Friday. Created with Gemini Notebook. The conversations and voices are generated with Gemini Notebook.</itunes:summary>
     <itunes:subtitle>Conversational research deep dives with Mira Vale and Theo Arlen.</itunes:subtitle>
+    <item>
+      <title>From James Madison to the Football Field</title>
+      <link>https://www.patreon.com/ZeldaReySkywalker/posts/from-james-to-163645380</link>
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2889</itunes:duration>
+      <description>Religion has never been simply absent from American public life, and the law has never treated it as one simple thing. Mira and Theo trace Madison's arguments, the ban on religious tests, the First Amendment, Reynolds, free-exercise disputes, establishment doctrine, and Kennedy v. Bremerton to ask how legal ideas about belief, coercion, equality, and public institutions keep changing. Created with Gemini Notebook. The conversation and voices in this episode were generated with Gemini Notebook.
+Sources cited:
+- James Madison, Memorial and Remonstrance against Religious Assessments - University of Chicago: https://press-pubs.uchicago.edu/founders/documents/amendI_religions43.html
+- Interpretation of Religious Test Clause - Constitution Annotated: https://constitution.congress.gov/browse/essay/artVI-C3-2-2/ALDE_00013639
+- Reynolds v. United States, 98 U.S. 145 (1879) - Library of Congress: https://www.loc.gov/item/usrep098145/
+- Kennedy v. Bremerton School District, 597 U.S. 507 (2022) - Supreme Court of the United States: https://www.supremecourt.gov/opinions/21pdf/21-418_k4l8.pdf</description>
+      <enclosure url="https://yatimitofawaii.github.io/footnotes-in-stereo-feed/audio/from-james-madison-to-the-football-field.m4a" length="30371702" type="audio/mp4" />
+      <guid isPermaLink="false">163645380</guid>
+      <pubDate>Wed, 26 Aug 2026 07:00:05 +0000</pubDate>
+      <itunes:summary>Religion has never been simply absent from American public life, and the law has never treated it as one simple thing. Mira and Theo trace Madison's arguments, the ban on religious tests, the First Amendment, Reynolds, free-exercise disputes, establishment doctrine, and Kennedy v. Bremerton to ask how legal ideas about belief, coercion, equality, and public institutions keep changing. Created with Gemini Notebook. The conversation and voices in this episode were generated with Gemini Notebook.
+Sources cited:
+- James Madison, Memorial and Remonstrance against Religious Assessments - University of Chicago: https://press-pubs.uchicago.edu/founders/documents/amendI_religions43.html
+- Interpretation of Religious Test Clause - Constitution Annotated: https://constitution.congress.gov/browse/essay/artVI-C3-2-2/ALDE_00013639
+- Reynolds v. United States, 98 U.S. 145 (1879) - Library of Congress: https://www.loc.gov/item/usrep098145/
+- Kennedy v. Bremerton School District, 597 U.S. 507 (2022) - Supreme Court of the United States: https://www.supremecourt.gov/opinions/21pdf/21-418_k4l8.pdf</itunes:summary>
+      <itunes:subtitle>Religion has never been simply absent from American public life, and the law has never treated it as one simple thing. Mira and Theo trace Madison's arguments, the ban on religious tests, the First Amendment, Reynolds, free-exercise disputes, establishmen</itunes:subtitle>
+      <content:encoded>Religion has never been simply absent from American public life, and the law has never treated it as one simple thing. Mira and Theo trace Madison's arguments, the ban on religious tests, the First Amendment, Reynolds, free-exercise disputes, establishment doctrine, and Kennedy v. Bremerton to ask how legal ideas about belief, coercion, equality, and public institutions keep changing. Created with Gemini Notebook. The conversation and voices in this episode were generated with Gemini Notebook.
+Sources cited:
+- James Madison, Memorial and Remonstrance against Religious Assessments - University of Chicago: https://press-pubs.uchicago.edu/founders/documents/amendI_religions43.html
+- Interpretation of Religious Test Clause - Constitution Annotated: https://constitution.congress.gov/browse/essay/artVI-C3-2-2/ALDE_00013639
+- Reynolds v. United States, 98 U.S. 145 (1879) - Library of Congress: https://www.loc.gov/item/usrep098145/
+- Kennedy v. Bremerton School District, 597 U.S. 507 (2022) - Supreme Court of the United States: https://www.supremecourt.gov/opinions/21pdf/21-418_k4l8.pdf</content:encoded>
+      <itunes:author>Mira Vale and Theo Arlen</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>How Humanity Maps the Afterlife</title>
       <link>https://www.patreon.com/ZeldaReySkywalker/posts/how-humanity-163644980</link>
