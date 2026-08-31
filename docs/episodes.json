@@ -27,7 +27,7 @@
     ],
     "slug": "episode-13-large-hadron-collider-science-and-doomsday-myths",
     "youtube_url": "",
-    "art": "episodes/art/episode-13.png"
+    "art": "art/cover.jpg"
   },
   {
     "number": 12,
@@ -57,7 +57,7 @@
     ],
     "slug": "episode-12-from-james-madison-to-the-football-field",
     "youtube_url": "",
-    "art": "episodes/art/episode-12.png"
+    "art": "art/cover.jpg"
   },
   {
     "number": 11,
@@ -87,7 +87,7 @@
     ],
     "slug": "episode-11-how-sewer-socialists-built-modern-america",
     "youtube_url": "",
-    "art": "episodes/art/episode-11.png"
+    "art": "art/cover.jpg"
   },
   {
     "number": 10,
@@ -113,7 +113,7 @@
     ],
     "slug": "episode-10-how-humanity-maps-the-afterlife",
     "youtube_url": "https://www.youtube.com/shorts/OU1K7U80A5Y",
-    "art": "episodes/art/episode-10.png"
+    "art": "art/cover.jpg"
   },
   {
     "number": 9,
@@ -139,7 +139,7 @@
     ],
     "slug": "episode-09-how-hell-became-a-torture-chamber",
     "youtube_url": "https://www.youtube.com/shorts/S5nJJoRqBp8",
-    "art": "episodes/art/episode-09.png"
+    "art": "art/cover.jpg"
   },
   {
     "number": 8,
@@ -193,7 +193,7 @@
     ],
     "slug": "episode-08-from-music-boxes-to-jazz-robots",
     "youtube_url": "https://www.youtube.com/shorts/1-PyGqH5UrU",
-    "art": "episodes/art/episode-08.png"
+    "art": "art/cover.jpg"
   },
   {
     "number": 7,
@@ -247,7 +247,7 @@
     ],
     "slug": "episode-07-how-the-digital-revolution-rewired-music",
     "youtube_url": "https://www.youtube.com/shorts/3T4bVHmFGgI",
-    "art": "episodes/art/episode-07.png"
+    "art": "art/cover.jpg"
   },
   {
     "number": 6,
@@ -293,7 +293,7 @@
     ],
     "slug": "episode-06-dada-from-the-trenches-to-internet-memes",
     "youtube_url": "https://www.youtube.com/shorts/jgQkNHCqfXI",
-    "art": "episodes/art/episode-06.png"
+    "art": "art/cover.jpg"
   },
   {
     "number": 5,
@@ -355,7 +355,7 @@
     ],
     "slug": "episode-05-why-division-is-cheaper-than-unity",
     "youtube_url": "https://www.youtube.com/shorts/ze-vRMNtVEM",
-    "art": "episodes/art/episode-05.png"
+    "art": "art/cover.jpg"
   },
   {
     "number": 4,
@@ -409,7 +409,7 @@
     ],
     "slug": "episode-04-did-the-old-masters-use-tracing-machines",
     "youtube_url": "https://www.youtube.com/shorts/VUNGd9b-h-g",
-    "art": "episodes/art/episode-04.png"
+    "art": "art/cover.jpg"
   },
   {
     "number": 3,
@@ -463,7 +463,7 @@
     ],
     "slug": "episode-03-photoshop-from-darkrooms-to-generative-fill",
     "youtube_url": "https://www.youtube.com/shorts/YJf1v1lxEhc",
-    "art": "episodes/art/episode-03.png"
+    "art": "art/cover.jpg"
   },
   {
     "number": 2,
@@ -537,7 +537,7 @@
     ],
     "slug": "episode-02-the-sophisticated-architectural-matrix-of-genesis",
     "youtube_url": "https://www.youtube.com/shorts/zx8nX8PuVso",
-    "art": "episodes/art/episode-02.png"
+    "art": "art/cover.jpg"
   },
   {
     "number": 1,
@@ -591,6 +591,6 @@
     ],
     "slug": "episode-01-how-physics-and-railroads-built-the-circus",
     "youtube_url": "https://www.youtube.com/shorts/tuwygTciYks",
-    "art": "episodes/art/episode-01.png"
+    "art": "art/cover.jpg"
   }
 ]
