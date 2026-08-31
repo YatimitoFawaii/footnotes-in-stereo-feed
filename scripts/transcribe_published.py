@@ -59,7 +59,7 @@ def transcribe_episode(episode: int, source: Path, model: str, force: bool) -> s
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("episodes", nargs="*", type=int, default=sorted(EPISODE_AUDIO))
-    parser.add_argument("--model", default="small.en")
+    parser.add_argument("--model", default="base.en")
     parser.add_argument("--force", action="store_true")
     args = parser.parse_args()
 

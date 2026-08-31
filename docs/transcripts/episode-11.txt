@@ -1,41 +1,37 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>E11: How Sewer Socialists Built Modern America | Footnotes in Stereo</title><link rel="stylesheet" href="../site.css"></head>
-<body><header class="site-header"><a class="brand" href="../"><img src="../art/cover.jpg" alt="Footnotes in Stereo"><span>Footnotes in Stereo<small>Fake voices, real facts.</small></span></a></header>
-<main class="episode-page"><a class="back" href="../">All episodes</a><div class="episode-hero"><img src="../episodes/art/episode-11.png" alt="Episode 11 titlecard"><div><span class="eyebrow">Episode 11 · Patreon bonus</span><h1>How Sewer Socialists Built Modern America</h1><p>Before the Red Scares turned socialism into a national political alarm, American socialists were trying to run cities. Mira and Theo follow Milwaukee&#x27;s sewer socialists, the Socialist Party, Eugene V. Debs, public ownership, sanitation, water, parks, labor, newspapers, and municipal elections to ask what it meant to make radical politics practical. Created with Gemini Notebook. The conversation and voices in this episode were generated with Gemini Notebook.</p><div class="actions"><a class="button" href="https://www.patreon.com/ZeldaReySkywalker/posts/how-sewer-built-163645230">Listen on Patreon</a></div></div></div>
-<section><h2>Sources</h2><ol class="sources"><li><a href="https://digitalcommons.macalester.edu/cgi/viewcontent.cgi?article=1212&amp;context=tapestries">How To Build A Socialist Government: Milwaukee and The Sewer Socialists - DigitalCommons@Macalester College</a></li><li><a href="https://debsfoundation.org/pdf/canton-and-court.pdf">The Canton Speech: With Statements to the Jury and the Court - Eugene V. Debs Foundation</a></li><li><a href="https://about.proquest.com/globalassets/proquest/files/pdf-files/brochures/13943_socialist-party_resourceguide_web.pdf">Socialist Party of America Papers: A Resource Guide - ProQuest</a></li><li><a href="https://www.marxists.org/history/usa/pubs/reading-labor-advocate/index.htm">The Reading Labor Advocate and Socialist Power in Pennsylvania - Marxists Internet Archive</a></li></ol></section>
-<section><h2>Transcript</h2><p class="transcript-note">Machine transcript; lightly formatted and subject to correction.</p><div class="transcript">So I want you to try a little thought experiment next time you just walk around your neighborhood.
+So I want you to try a little thought experiment next time you just walk around your neighborhood.
 Oh, I like a good thought experiment.
 Right. Just, you know, pause for a second and take a really good look at the physical environment
 around you. Like the actual infrastructure. Yeah, exactly. Look at the public park down the
 street or, you know, think about the municipal water system running right beneath your feet.
-Right. Even the paved roads you drive on or the electrical grid that&#x27;s like powering the device
-you&#x27;re using right now to listen to this. The stuff we completely take for granted.
+Right. Even the paved roads you drive on or the electrical grid that's like powering the device
+you're using right now to listen to this. The stuff we completely take for granted.
 Totally. And when we look at all of this infrastructure,
-we almost instinctively assume it&#x27;s the work of, I don&#x27;t know, totally conventional establishment
+we almost instinctively assume it's the work of, I don't know, totally conventional establishment
 figures. Yeah, you picture like very sensible city planners, right, buttoned up engineers.
 Exactly. Just very boring, moderate city councils, just doing the administrative work of running a
-town. Because it&#x27;s the invisible scaffolding of modern life. I mean, it&#x27;s so ubiquitous and
+town. Because it's the invisible scaffolding of modern life. I mean, it's so ubiquitous and
 honestly so mundane that we just assume it was built by the most mainstream political forces
 imaginable. Right. It feels like the ultimate expression of the status quo. He really does.
 But, and this is the whole point of our deep dying today. Yeah. That assumption is completely
-upside down. It&#x27;s a massive historical plot twist. You really is. Because if you actually dig into
+upside down. It's a massive historical plot twist. You really is. Because if you actually dig into
 the history of how these civic foundations were designed and, you know, implemented in the United
 States, you find that the blueprints for these highly practical systems were frequently drafted
 by people who a century ago were considered dangerous radicals, which is just wild to think about.
-Right. We&#x27;re literally living in a civic landscape that was profoundly shaped by early American
+Right. We're literally living in a civic landscape that was profoundly shaped by early American
 socialists. And that fact completely scrambles our modern understanding of that word. I mean,
 political discourse today usually just collapses a whole century of history into a single,
 highly charged label. Yeah. Becomes a total monolith. Exactly. But the reality of this era,
-and we&#x27;re talking roughly in a mid 19th century through the 1930s, was this incredibly complex,
-sometimes entirely contradictory web of movements. It wasn&#x27;t just one thing. Not at all. You had
+and we're talking roughly in a mid 19th century through the 1930s, was this incredibly complex,
+sometimes entirely contradictory web of movements. It wasn't just one thing. Not at all. You had
 utopian dreamers trying to build communes out in the wilderness, right alongside hyper pragmatic
 municipal managers who were literally known as sewer socialists, which is the best political
-label ever. But we&#x27;ll get to that. Oh, we definitely will. But you also had militant union organizers
+label ever. But we'll get to that. Oh, we definitely will. But you also had militant union organizers
 and some of the earliest civil rights advocates. And you really cannot understand the modern American
 city or like the modern American weekend for that matter without separating out these distinct
 histories and looking at what they actually did on a practical level. Right. And to do that,
 we are sorting through a massive stack of historical archives today for this deep dive.
-Some really amazing primary sources. Yeah, we&#x27;ve got materials from the Tamament Library,
-socialist collections at NYU. We&#x27;ve got the personal original writings of figures like Eugene V. Debs.
+Some really amazing primary sources. Yeah, we've got materials from the Tamament Library,
+socialist collections at NYU. We've got the personal original writings of figures like Eugene V. Debs.
 Such a fascinating figure. Incredible stuff. And we also have these incredibly granular
 local histories of places like Los Angeles, Milwaukee, and Redding, Pennsylvania,
 which is where the real nuts and bolts are. Exactly. So our mission today is very specific.
@@ -48,22 +44,22 @@ a language that is intense, partisan, and openly revolutionary. Oh, yeah, these 
 bitter, sometimes violent struggles over the fundamental nature of the American economy.
 Exactly. And just to be absolutely clear as we get into this material,
 because, you know, these sources do contain incredibly charged political rhetoric from all sides,
-our goal here is not to take a political side. No, we&#x27;re not adjudicating century old debates.
+our goal here is not to take a political side. No, we're not adjudicating century old debates.
 Right. Or endorsing some manifesto from 1910. We are just here to impartially look at the original
 texts. Because regardless of where you fall on the political spectrum today,
 understanding the mechanics of how these specific ideas translated into the literal concrete and
-labor laws of this country. It&#x27;s just foundational. Yeah, it&#x27;s foundational to understanding how
-America actually functions. It&#x27;s about tracing cause and effect. How an idea goes from a radical
-pamphlet to the reason your local water supply doesn&#x27;t give you cholera. Exactly that journey.
+labor laws of this country. It's just foundational. Yeah, it's foundational to understanding how
+America actually functions. It's about tracing cause and effect. How an idea goes from a radical
+pamphlet to the reason your local water supply doesn't give you cholera. Exactly that journey.
 For tracking that journey, it feels like we need to start at the very beginning of the timeline
 in these archives, which means we actually have to head out into the woods. Yeah, ironically,
 to figure out how these ideas built city sewer systems, we start in the forest,
 because the early 1800s in America saw this, um, this massive wave of utopian experiments.
-Right. You&#x27;re looking at the period from the 1820s through the 1840s. This is the era of the
-intentional community. And it&#x27;s really a reaction to the shock of the early industrial revolution,
-isn&#x27;t it? Entirely. You have this generation of intellectuals and reformers who are looking at
+Right. You're looking at the period from the 1820s through the 1840s. This is the era of the
+intentional community. And it's really a reaction to the shock of the early industrial revolution,
+isn't it? Entirely. You have this generation of intellectuals and reformers who are looking at
 the new factories, the grueling conditions, the sudden extreme inequality. And their response is
-essentially to say, we&#x27;d opt out. Yeah, let&#x27;s just start from scratch. The instinct isn&#x27;t to fix the
+essentially to say, we'd opt out. Yeah, let's just start from scratch. The instinct isn't to fix the
 factory. The instinct is to run away from the factory as fast as possible. Yes. And the archives
 highlight a couple of really prominent examples of this, like Robert Owen, right?
 Right. He comes over from Great Britain in the 1820s and literally purchases an entire town in
@@ -71,32 +67,32 @@ Indiana, which is wild. Yeah, he buys a town to create the new harmony colony. A
 later, you have the Forreism movement inspired by the French philosopher Charles Forre exactly.
 And that leads to things like the famous Brook Farm experiment in Massachusetts and the 18
 40s, where you had all those major American transcendentalist thinkers hanging out.
-Right. And what&#x27;s really striking about reading the journals and letters from places like Brook Farm
-is just the sheer, unadulterated optimism. It&#x27;s very sweet, almost. It is. It&#x27;s highly emotional.
-It&#x27;s incredibly sympathetic to human suffering, but it&#x27;s also profoundly visionary, almost to the
+Right. And what's really striking about reading the journals and letters from places like Brook Farm
+is just the sheer, unadulterated optimism. It's very sweet, almost. It is. It's highly emotional.
+It's incredibly sympathetic to human suffering, but it's also profoundly visionary, almost to the
 point of naivety. They really believe they could just build a perfect society and a bubble. Yeah,
 they truly believe that if they just bought enough acreage in the wilderness, isolated themselves
 from early industrial capitalism and organized their labor cooperatively that the rest of the
 world would just naturally want to copy that exactly. They called it a cooperative commonwealth.
 I actually found a quote from the residents of Brook Farm from their 1844 Constitution,
 where they literally state their expectation that human life could be developed, quote,
-not in discord and misery, but in harmony and joy. It&#x27;s beautiful on paper. It is. But here is my
-fundamental problem with this. And the question I have, we&#x27;re reading these utopian blueprints.
-What&#x27;s that? It reminds me so much of modern day off the grid, intentional communities. Oh, sure.
+not in discord and misery, but in harmony and joy. It's beautiful on paper. It is. But here is my
+fundamental problem with this. And the question I have, we're reading these utopian blueprints.
+What's that? It reminds me so much of modern day off the grid, intentional communities. Oh, sure.
 I mean, I completely understand the appeal of checking out buying some land and just growing
 your own kale. It sounds relaxing. Right. But growing kale in the woods does not fix the potholes
-in the city you actually live in. No, it doesn&#x27;t. It doesn&#x27;t solve any of the systemic issues of
+in the city you actually live in. No, it doesn't. It doesn't solve any of the systemic issues of
 the society you left behind. And that right there is exactly why every single one of these utopian
 experiments ultimately collapsed. Every single one. Pretty much. They lacked any actual mechanism
 to deal with the broader economic forces of the country because they were just too isolated.
 Highly ideological and completely isolated. So if the broader economy had a panic or if they
 just had a bad harvest and their crops failed, a coming just goes bankrupt. Instantly. They
-didn&#x27;t try to integrate into the political system to change the rules of the game. They just tried
-to outrun the game entirely. And you simply cannot outrun the industrial revolution. You really can&#x27;t.
-It&#x27;s going to catch you. So, okay, if we&#x27;re trading to the woods is a total dead end.
+didn't try to integrate into the political system to change the rules of the game. They just tried
+to outrun the game entirely. And you simply cannot outrun the industrial revolution. You really can't.
+It's going to catch you. So, okay, if we're trading to the woods is a total dead end.
 How does this movement pivot? How do they go from being these lofty dreamers writing poetry
 at Brook Farm to dealing with the gritty hyper industrial reality of American cities?
-Well, the pivot doesn&#x27;t actually come from within the United States.
+Well, the pivot doesn't actually come from within the United States.
 Oh, really?
 No, it arrives on boats from Europe. Specifically, the turning point is the arrival of what historians
 call the German 48ers.
@@ -104,7 +100,7 @@ Okay, we definitely need to explain who the 48ers are because the archives reall
 as a massive cultural injection into American politics.
 It was huge. So in 1848, a massive wave of democratic and early socialist revolutions
 swept across Europe.
-We&#x27;re talking France, the German states, the Austrian Empire.
+We're talking France, the German states, the Austrian Empire.
 Right. The people rose up against the monarchies, but those revolutions were brutally militarily
 crushed. It was a disaster for them.
 Total disaster. And the radicals who survived the crackdowns had to flee for their lives.
@@ -118,15 +114,15 @@ Yeah. When guys like Whiteling arrive, they brought what the historical texts de
 disciplined old guard mentality.
 Because they had literally fought in the streets.
 Exactly. They had face-down absolute monarchs, stood on barricades,
-survived military crackdowns. So they understood that power wasn&#x27;t going to be handed over just
+survived military crackdowns. So they understood that power wasn't going to be handed over just
 because you wrote a nice pamphlet about living in harmony.
-Right. So when they get to America, they look at the utopian communes in the woods and they&#x27;re
+Right. So when they get to America, they look at the utopian communes in the woods and they're
 like, yeah, no, thank you.
-We&#x27;re not doing that.
+We're not doing that.
 They move straight into the rapidly growing industrial centers, places like Milwaukee,
 New York, Chicago.
 And this is where the mechanism of their organizing gets really interesting.
-Yeah, because they didn&#x27;t isolate themselves at all.
+Yeah, because they didn't isolate themselves at all.
 No, the sources detail how they integrated their politics into the everyday lives of
 their communities through these things called Turnerbuns.
 The Turnerbuns are such a fascinating piece of this puzzle.
@@ -135,12 +131,12 @@ To understand a Turnerbun, you kind of have to imagine a modern-day YMCA,
 but combined with a fiercely political debate club.
 And a mutual aid society.
 Yes. They were these German, gymnastic, and athletic clubs.
-But they weren&#x27;t just for exercise.
+But they weren't just for exercise.
 Right. The archives show these were the absolute centers of social life.
 Yeah. You went there to do some gymnastics,
 but then you stayed in the beer hall to listen to a lecture on political economy.
 Or you joined the local singing society attached to the club.
-It&#x27;s so brilliant. And this is the mechanism of the 48er strategy.
+It's so brilliant. And this is the mechanism of the 48er strategy.
 By embedding their political ideas into the daily cultural and social infrastructure of the
 working class, they completely transformed that vague utopianism into disciplined,
 grassroots political action.
@@ -157,14 +153,14 @@ And this brings us to Milwaukee, Wisconsin.
 And perhaps my favorite term in all of political history,
 sewer socialism.
 It really is a phenomenal phrase.
-And you know what&#x27;s funny is that it was originally coined as a bitter insult.
-Wait, really? I didn&#x27;t know that.
+And you know what's funny is that it was originally coined as a bitter insult.
+Wait, really? I didn't know that.
 Who was insulting them?
 The more radical factions of their own movement, actually.
 Oh, wow.
 Yeah. The hard line revolutionaries threw the term sewer socialists at the Milwaukee politicians
 to basically accuse them of being sellouts.
-Like they weren&#x27;t radical enough.
+Like they weren't radical enough.
 Right. The radicals were saying you guys are so obsessed with mundane municipal issues
 like sewers and street sweeping that you have completely lost your revolutionary fire
 to overthrow the capitalist state.
@@ -172,10 +168,10 @@ But the Milwaukee socialists just kind of shrug adopted the term as a badge of h
 and proceeded to basically run the city for the next 40 years.
 They absolutely dominated local politics there.
 Yeah. You have Emile Seidel, who in 1910 becomes the first socialist mayor of a major US city.
-And he&#x27;s followed just a few years later by Daniel Hohen,
+And he's followed just a few years later by Daniel Hohen,
 who serves as mayor of Milwaukee for an astonishing 24 years.
 From 1916 all the way to 1940.
-It&#x27;s incredible. And their sustained success wasn&#x27;t just some fluke.
+It's incredible. And their sustained success wasn't just some fluke.
 It was rooted in a very specific, highly intentional political philosophy.
 Champion by a German theorist named Edward Bernstein, right?
 Yes, Bernstein.
@@ -191,7 +187,7 @@ Yeah. Like it was mathematically inevitable.
 Exactly. And that a violent sudden revolution by the working class was the only way to seize the state.
 Right.
 But Bernstein looked at the data in the late 19th century and said,
-capitalism isn&#x27;t collapsing. It&#x27;s actually adapting.
+capitalism isn't collapsing. It's actually adapting.
 Oh, interesting.
 So he argued waiting around for a violent revolution is a huge mistake.
 So his alternative is to work within the existing democratic system.
@@ -200,26 +196,26 @@ of society through parliamentary politics.
 Just winning elections.
 Winning elections, aggressive trade union organization,
 and steady incremental legislative reform.
-So you don&#x27;t burn the system down on one night?
+So you don't burn the system down on one night?
 No. You win local seats. You change the labor laws. You build public infrastructure.
 You improve the material conditions of the workers step by step.
 Exactly.
-Okay. I want to try an analogy here to see if I&#x27;m grasping the distinction.
-Let&#x27;s hear it.
+Okay. I want to try an analogy here to see if I'm grasping the distinction.
+Let's hear it.
 It sounds kind of like the difference between dealing with a house that has severe structural
 issues. Okay.
 The revolutionary orthodox Marxist wants to just, you know, burn the entire house to the ground,
 clear the rubble and build a completely new perfect mansion from scratch.
 Right.
 But the problem is you have nowhere to sleep while that happens.
-You&#x27;re out in the cold.
+You're out in the cold.
 Yeah.
-So Bernstein&#x27;s gradualism is more like doing a massive room by room remodel of the house
+So Bernstein's gradualism is more like doing a massive room by room remodel of the house
 while you are still actively living in it.
-That&#x27;s a great way to put it.
+That's a great way to put it.
 You fix the plumbing first and you rewire the electrical.
 Then you rebuild the roof.
-It takes way longer. It&#x27;s messy.
+It takes way longer. It's messy.
 But you always have a roof over your head.
 That is an excellent way to conceptualize it.
 The Milwaukee socialists were the ultimate remodelers.
@@ -234,7 +230,7 @@ They cleaned up corruption in City Hall.
 And notoriously built highly modern wastewater and sewer systems.
 Oh, right.
 And look, that all sounds incredibly effective.
-But isn&#x27;t that just basic, competent, good government, city management?
+But isn't that just basic, competent, good government, city management?
 It sounds like a today, yeah.
 Why on earth do they, or anyone else for that matter,
 consider building a functional sewer system to be a socialist project?
@@ -252,15 +248,15 @@ I mean, they operated on patronage, massive kickbacks,
 and most importantly, they allowed private, for-profit monopolies
 to run essential city services.
 Wait, really?
-So the water supply wasn&#x27;t a public utility.
+So the water supply wasn't a public utility.
 Rarely, private corporations owned the waterworks, the gas lines, the street cars.
 Oh, wow.
-And their goal wasn&#x27;t public health, obviously.
+And their goal wasn't public health, obviously.
 Their goal was maximizing profit for their shareholders.
 So they would just charge exorbitant rates.
 Exorbitant rates.
 And they would outright refuse to expand service to poorer neighborhoods
-because it just wasn&#x27;t profitable.
+because it just wasn't profitable.
 And I imagine they were bribing city alderman to keep those monopoly contracts.
 Constantly, the result of the system was rampant disease,
 horrific pollution, and deeply dysfunctional cities.
@@ -284,10 +280,10 @@ So under their model, the city is essentially acting as a cooperatively owned en
 Yes.
 And the citizens are the shareholders receiving the dividends,
 but in the form of clean water and paved streets instead of cash.
-That&#x27;s exactly it.
+That's exactly it.
 It is literally removing the profit motive from basic human needs.
 And that removal of the profit motive?
-That&#x27;s the core socialist principle at play.
+That's the core socialist principle at play.
 Right.
 They just applied it locally to the gas and water lines,
 rather than trying to apply it nationally to every single industry.
@@ -295,20 +291,20 @@ And as the records show, this gas and water socialism was wildly popular.
 Oh, massively popular.
 The sources explicitly note that this pragmatism completely bypassed class lines.
 I mean, the middle class voters in Milwaukee loved it.
-Well, yeah, even if they weren&#x27;t ideological socialists,
+Well, yeah, even if they weren't ideological socialists,
 they were just exhausted by the corruption of the old political machines.
 They just wanted their streets paved.
-They didn&#x27;t want their kids getting cholera from the drinking water.
+They didn't want their kids getting cholera from the drinking water.
 Right.
 And they recognized that guys like Sidel and Hoenn were ruthlessly competent administrators
 who actually balanced the budget.
-But we have to be careful not to generalize Milwaukee&#x27;s success,
+But we have to be careful not to generalize Milwaukee's success,
 because this pragmatic approach did not work everywhere.
 Oh, absolutely not.
 The archives provide a stark contrast when we look at Los Angeles during the exact same period.
 LA is such a fascinating case study in how this can all fall apart.
-Yeah, let&#x27;s dive into that 1911 Los Angeles mayoral campaign,
-because it&#x27;s a huge counter narrative to Milwaukee.
+Yeah, let's dive into that 1911 Los Angeles mayoral campaign,
+because it's a huge counter narrative to Milwaukee.
 Definitely.
 So the socialist candidate in LA was a man named Job Harriman.
 And on paper, his platform looks identical to the sewer socialists.
@@ -317,7 +313,7 @@ Harriman was campaigning on municipal ownership of the Los Angeles aqueduct,
 building public ice plants and establishing public hospitals.
 He even explicitly pointed to Milwaukee in his speeches,
 basically saying, look at Wisconsin, this works.
-It&#x27;s just practical city management.
+It's just practical city management.
 But Harriman was operating in a vastly different political ecosystem
 than Daniel Holland was in Milwaukee.
 Right.
@@ -335,12 +331,12 @@ A half measure.
 Right.
 They believed it was utterly useless to have municipal ownership,
 unless there was a total revolutionary takeover of the government by the working class.
-So they actively undermined Harriman&#x27;s attempt to focus the campaign on pragmatic
+So they actively undermined Harriman's attempt to focus the campaign on pragmatic
 gas and water issues.
 They did.
 And the conservative opposition in Los Angeles capitalized on this internal division brilliantly.
 Oh, they played it perfectly.
-They didn&#x27;t engage Harriman on the merits of a public aqueduct.
+They didn't engage Harriman on the merits of a public aqueduct.
 No, why would they?
 Instead, the conservative establishment pointed to the radical rhetoric
 coming out of the fringes of the socialist movement.
@@ -359,7 +355,7 @@ But the minute the conversation shifted toward overthrowing the capitalist syste
 you completely terrified the moderate voters and lost the election.
 It was a very precarious tightrope that the graduates were walking.
 But this battle over municipal ownership, it was largely confined to dense urban areas.
-Sure, where it&#x27;s easier to organize.
+Sure, where it's easier to organize.
 Yeah, while they were fighting over who should own the streetcars and the ice plants in cities
 like Milwaukee and L.A., and even more massive battle over public ownership,
 was looming just over the horizon.
@@ -390,7 +386,7 @@ calculated the cost of the wire and the wooden poles,
 saw that the farms were too far apart to generate a high volume of paying customers per mile.
 And just determine the return on investment was too low.
 Right.
-If it doesn&#x27;t make a profit for the shareholders, it does not get built.
+If it doesn't make a profit for the shareholders, it does not get built.
 Period.
 Precisely.
 The private market actively decided that electrifying rural America was not a viable business model.
@@ -407,9 +403,9 @@ Right.
 We actually need to explain how a holding company
 structure functioned in this era because it was basically a massive house of cards.
 Right.
-Let&#x27;s break down the mechanics of Insol&#x27;s empire.
+Let's break down the mechanics of Insol's empire.
 Yeah.
-Because it&#x27;s sort of hard to wrap your head around.
+Because it's sort of hard to wrap your head around.
 Okay.
 Imagine Company A is the actual company physically operating the power plant.
 Okay.
@@ -418,7 +414,7 @@ Insol creates Company B, a holding company, which buys just enough stocks,
 like 51% to control Company A.
 Right.
 Then he creates Company C, which buys 51% of Company B.
-It&#x27;s like Russian nesting dolls of debt.
+It's like Russian nesting dolls of debt.
 Exactly.
 He stacks these paper companies on top of each other,
 issuing massive amounts of debt to the public at each level to finance the whole pyramid.
@@ -430,12 +426,12 @@ Yes.
 It requires constant, never-ending growth,
 just to service the debt on all those different layers of paper companies.
 Right. So when a shock hits the system like, say, the Great Depression in 1929,
-the revenue stops flowing, the debt can&#x27;t be paid,
+the revenue stops flowing, the debt can't be paid,
 and the entire pyramid collapses instantly.
 And that is exactly what happened.
 F-tacularly.
-When Insol&#x27;s empire imploded in the early 30s,
-it wasn&#x27;t just a corporate bankruptcy.
+When Insol's empire imploded in the early 30s,
+it wasn't just a corporate bankruptcy.
 It wiped out the life savings of hundreds of thousands of everyday middle-class shareholders.
 People who had bought his bonds believing they were safe utility investments.
 Because they were utilities.
@@ -448,7 +444,7 @@ And this is when the federal government finally steps in.
 Yes. You have Congress passing the Public Utility Holding Company Act in 1935.
 Which literally took a sledgehammer to these massive utility monopolies.
 It outlawed the pyramid structures and broke them up into smaller regulated companies.
-But the punitive regulation wasn&#x27;t enough to solve the core problem.
+But the punitive regulation wasn't enough to solve the core problem.
 Right. The farms were still in the dark.
 Exactly. The real game changer and perhaps one of the most successful
 infrastructural shifts in American history was the Rural Electrification Act,
@@ -465,25 +461,25 @@ But by the late 1950s, that number had jumped from 11 percent to 97 percent.
 It is one of the most rapid, universally transformative,
 infrastructural projects in human history.
 So how did they actually execute this? I mean, logistically?
-Well, they certainly didn&#x27;t do it by subsidizing the private companies
+Well, they certainly didn't do it by subsidizing the private companies
 who had refused to do the work in the first place.
-Right. They didn&#x27;t just hand-clashed the monopolies.
+Right. They didn't just hand-clashed the monopolies.
 No. The mechanism of the REA was entirely different.
 The federal government facilitated the creation of rural electric cooperatives.
-Okay. Let&#x27;s look at the logistics of a cooperative.
+Okay. Let's look at the logistics of a cooperative.
 How does a group of isolated farmers with very little capital actually build a power grid?
 It was intensely grassroots.
 The REA provided low interest federal loans,
-but they didn&#x27;t just hand the money out to anyone.
+but they didn't just hand the money out to anyone.
 They had to prove it was viable.
 Exactly. The farmers in a county had to organize themselves.
 They would literally go door-to-door down dirt roads,
 convincing their neighbors to pay a $5 membership fee to join the cooperative.
 Wow.
 Once they had enough members to prove viability, they secured the federal loan.
-But then they didn&#x27;t just hire a massive private contractor to do the work, did they?
+But then they didn't just hire a massive private contractor to do the work, did they?
 No. The farmers themselves often provided the physical labor.
-That&#x27;s crazy. Digging the holes, raising the poles,
+That's crazy. Digging the holes, raising the poles,
 and stringing the wire across their own land just to save money.
 So the people who physically consumed the power and whose land the poles sat on
 were the exclusive owners of the power company?
@@ -491,7 +487,7 @@ Yes. It was a nonprofit member-owned entity.
 And this connects directly back to that early socialist concept
 of the cooperative commonwealth that we saw with utopian dreamers back at Brook Farm,
 but applied with ruthless bureaucratic efficiency.
-Exactly. It&#x27;s the utopian dream made practical.
+Exactly. It's the utopian dream made practical.
 But wait, I have to play skeptic here for a second.
 Okay, play skeptic.
 They are taking massive loans from a capitalist federal government,
@@ -500,18 +496,18 @@ Right.
 Is this actually socialism? Or is it just heavily subsidized capitalism
 designed to fix a specific market failure?
 It is a hybrid, which is exactly why it was so successful in America.
-It wasn&#x27;t total state ownership of the means of production.
-The federal government didn&#x27;t own the grid the local farmers did,
+It wasn't total state ownership of the means of production.
+The federal government didn't own the grid the local farmers did,
 but it was a deliberate structural circumvention of profit-driven capitalism.
 They utilized a cooperative nonprofit model to deliver a vital public good,
 specifically because the private capitalist market had explicitly calculated
 that these people were not worth serving.
-It&#x27;s honestly wild to think about the legacy of this.
+It's honestly wild to think about the legacy of this.
 It really is.
 Today, you know, you flip a switch in a farmhouse in Iowa,
 or a cabinet in upstate New York, and the lights instantly come on.
 It feels like the most normalized, deeply mundane infrastructure imaginable.
-We don&#x27;t even think about it.
+We don't even think about it.
 Not for a second.
 But the very existence of that light bulb is rooted in these fierce,
 century-old ideological battles over public ownership,
@@ -532,17 +528,17 @@ are incredibly deep and completely intertwined in these sources.
 They are inseparable.
 If we pull up the archives from places like Reading, Pennsylvania,
 you get a perfect microcosm of how this operated on the ground.
-And fun historical fact, reading was known as the world&#x27;s hosiery capital at the time.
-They made the country&#x27;s socks.
+And fun historical fact, reading was known as the world's hosiery capital at the time.
+They made the country's socks.
 They made the socks.
 And reading a fantastic case study.
 The artifact that really illuminates their strategy is their local newspaper,
 the labor advocate.
 Yes, this was a joint publication run by both the local labor unions
 and the local socialist party.
-Right, they weren&#x27;t separate entities cooperating.
+Right, they weren't separate entities cooperating.
 They were essentially sharing a brain.
-The labor advocate wasn&#x27;t just a political newsletter discussing abstract Marxist theory.
+The labor advocate wasn't just a political newsletter discussing abstract Marxist theory.
 It was the functional nervous system for the local working class.
 What kind of stuff was in it?
 If you open an issue, you see reports on upcoming union meetings,
@@ -557,7 +553,7 @@ and we are talking about major umbrella organizations like the Knights of Later,
 the American Federation of Labor, the FTC.
 The historical texts list out what they were striking over.
 And honestly, their radical demands just sound like the baseline reality of modern American life.
-Let&#x27;s actually go through that list because it is striking to realize these were once considered
+Let's actually go through that list because it is striking to realize these were once considered
 radical system destroying ideas.
 Right.
 They were demanding the establishment of an eight hour work day.
@@ -570,15 +566,15 @@ And they were demanding employer liability and worker compensation laws.
 Meaning if you lost an arm in a factory machine,
 the factory owner had to financially support you rather than just firing you and letting you starve.
 I mean, I have to point out the incredible irony in the rhetoric versus the reality here.
-Oh, it&#x27;s immense.
-Let&#x27;s look at Eugene V. Debs.
+Oh, it's immense.
+Let's look at Eugene V. Debs.
 He runs for president on the socialist ticket in 1912.
 And he wins nearly 900,000 votes,
 which is a massive chunk of the electorate at the time.
 Huge turnout.
-And if you listen to transcripts of Debs&#x27; campaign speeches,
+And if you listen to transcripts of Debs' campaign speeches,
 he is speaking in these soaring apocalyptic revolutionary terms.
-Oh, he&#x27;s a firebrand.
+Oh, he's a firebrand.
 He is railing on stage against the evils of industrial slavery.
 He is denouncing the capitalist masters.
 He is calling for the total emancipation of the working class from the chains of wage labor.
@@ -588,9 +584,9 @@ But then you turn the page in the archive and you look at his actual official 19
 The literal laws he wanted to pass.
 Yes.
 The laws he actually promised to pass, if elected.
-It&#x27;s a demand for a national minimum wage scale.
-It&#x27;s a demand for a graduated income tax.
-It&#x27;s a call for democratic reforms like the initiative,
+It's a demand for a national minimum wage scale.
+It's a demand for a graduated income tax.
+It's a call for democratic reforms like the initiative,
 referendum, and recall.
 Very practical stuff.
 I am stealing an analogy here, but it perfectly captures the dynamic.
@@ -601,12 +597,12 @@ And then you look at his menu.
 Yes.
 You look at the menu and his most popular dish is just a really well-made, highly sensible
 turkey sandwich.
-It is a perfect analogy because it highlights the fundamental tension of the movement that we&#x27;ve
+It is a perfect analogy because it highlights the fundamental tension of the movement that we've
 been tracking.
 They had this ultimate revolutionary horizon, the total overthrow of capitalism.
 But their immediate day-to-day demands were highly pragmatic.
 Perky sandwich reforms designed to stop people from dying in factories.
-But there is a very shrewd strategic reason for focusing on the turkey sandwich, isn&#x27;t there?
+But there is a very shrewd strategic reason for focusing on the turkey sandwich, isn't there?
 Absolutely.
 The unions provided the sheer demographic numbers,
 the massive voter base required to actually win an election.
@@ -618,13 +614,13 @@ striking for wages and safety.
 And the Socialist took that exact same fight into City Hall in the state legislature,
 trying to codify those demands into permanent law.
 Exactly.
-The sources even mentioned a militant pretzel workers&#x27; union in Reading.
+The sources even mentioned a militant pretzel workers' union in Reading.
 The pretzel workers.
 It shows how granular this got.
 Even the pretzel bakers were organized and radicalized.
 Which demonstrates how deeply embedded this movement was in the specific,
 hyper-local economies of these industrial cities.
-They weren&#x27;t organizing a theoretical working class.
+They weren't organizing a theoretical working class.
 They were organizing the specific people making the socks and baking the pretzels
 in their specific town.
 But, and this is where the history gets incredibly complex,
@@ -689,16 +685,16 @@ They nominated a black candidate for the city council, which was highly unusual 
 Very unusual.
 And the archives show they deliberately set aside a specific budget of $1,400 entirely
 for campaign organizing in African-American neighborhoods.
-And we should know that this kind of racial outreach wasn&#x27;t just isolated to Los Angeles.
+And we should know that this kind of racial outreach wasn't just isolated to Los Angeles.
 No, not at all.
 As the movement progressed nationally, they engaged in some genuinely ground-breaking
 and incredibly dangerous efforts regarding racial solidarity.
 The sources highlight the Southern Tenet Farmers Union in the 1930s.
-That&#x27;s a great example.
+That's a great example.
 This was an organization that did the incredibly perilous work of uniting both
 black and white sharecroppers in the deep south to demand better conditions from landowners,
 openly defying the violent segregation of the Jim Crow era.
-And you also have the Workers&#x27; Defense League,
+And you also have the Workers' Defense League,
 which led a massive national campaign to save Odell Waller,
 a black sharecropper in Virginia who had been sentenced to death by an all-white
 jury at her highly dubious circumstances.
@@ -706,12 +702,12 @@ So those later national efforts represent moments where the movement truly lived
 to its rhetoric of universal solidarity.
 But if we go back to the 1911 LA election,
 their demographic calculations regarding a different group specifically,
-their strategy regarding women&#x27;s suffrage ended up causing a totally unforeseen and
+their strategy regarding women's suffrage ended up causing a totally unforeseen and
 devastating political backfire.
 We have to unpack the mechanics of this backfire,
 because it is one of the most fascinating political insights in these archives.
-It&#x27;s crazy.
-So the socialists in California were highly aggressive champions of women&#x27;s suffrage.
+It's crazy.
+So the socialists in California were highly aggressive champions of women's suffrage.
 Yes, they believed in it ideologically, but they also believed in it strategically.
 Right.
 So in October 1911, the suffrage movement wins,
@@ -729,7 +725,7 @@ A working class woman would automatically vote for the working class party.
 Exactly.
 So did the socialists just have a massive fatal blind spot regarding intersectionality?
 Did they genuinely assume that independent gender solidarity or middle class organizational
-networks just didn&#x27;t exist?
+networks just didn't exist?
 They profoundly misunderstood the existing organizational landscape of women at that
 specific historical moment.
 How so?
@@ -748,20 +744,20 @@ It is nearly double the turnout in the conservative areas.
 Almost exactly double.
 What explains that massive disparity in registration rates?
 Why did the working class women stay home while the middle class women flooded the registrar?
-Because having the right ideas or even championing the right cause doesn&#x27;t matter if the other side
+Because having the right ideas or even championing the right cause doesn't matter if the other side
 has a better ground game.
-It wasn&#x27;t just about political preference.
+It wasn't just about political preference.
 It was entirely about existing social infrastructure.
 Middle class women in California at this time were already highly intricately organized into
 various civic groups.
 Like what?
-You had the women&#x27;s Christian Temperance Union, the Civic League,
-and numerous affluent women&#x27;s clubs.
+You had the women's Christian Temperance Union, the Civic League,
+and numerous affluent women's clubs.
 These groups had been informally lobbying local government for years regarding moral reforms
 and city beautification.
 I see the mechanism.
 When they suddenly got the legal right to vote,
-they didn&#x27;t have to build a political machine from scratch.
+they didn't have to build a political machine from scratch.
 They already had the activist network bill.
 They already had the leadership structures, the clipboards, the mailing lists,
 and most importantly, the free time to actually go canvas.
@@ -779,16 +775,16 @@ Exactly.
 Furthermore, many foreign-born working-class women who were eligible for citizenship
 had never actually bothered to go through the lengthy naturalization process.
 Because until 1911, there was absolutely no benefit to doing so.
-They couldn&#x27;t vote anyway.
+They couldn't vote anyway.
 So they were legally shut out of this specific election.
 The irony is just brutal.
-It&#x27;s devastated.
+It's devastated.
 The socialists actively thought to enfranchise the very demographic that turned around
 and immediately defeated them.
 The middle-class women voters overwhelmingly swept the conservative ticket into power,
 and Job Harriman lost the election.
 It is such a harsh lesson in the physical mechanics of politics.
-Ideology means nothing if you don&#x27;t have the clipboard and the infrastructure to register the voters.
+Ideology means nothing if you don't have the clipboard and the infrastructure to register the voters.
 It is a devastating realization for the movement.
 And this local defeat in Los Angeles was really just a harbinger of much darker things to come.
 Oh, definitely.
@@ -798,10 +794,10 @@ the more fiercely and ruthlessly the American establishment fought back.
 Which brings us to the final and most turbulent phase outlined in the archives.
 The backlash, the systemic repression, and the ultimate internal collapse of the movement.
 The pushback they faced was severe.
-And it&#x27;s important to note that it wasn&#x27;t just happening at the ballot box through
+And it's important to note that it wasn't just happening at the ballot box through
 normal Democratic competition.
 It was deeply systemic, legally dubious, and frequently violent.
-Let&#x27;s look at the legal repression first.
+Let's look at the legal repression first.
 Because there is an event in New York in 1920 that completely shocked me.
 The assembly expulsion?
 Yes. You have August Clussins and four other socialist assemblymen.
@@ -814,7 +810,7 @@ events in American Democratic history.
 They traveled to Albany to take their legally one seats.
 But the state assembly, which was totally swept up in the hysterical fervor of the first
 red scare following the Russian Revolution, explicitly informally expels them from the legislature.
-And they didn&#x27;t expel them because they committed a crime or took a bribe or committed election
+And they didn't expel them because they committed a crime or took a bribe or committed election
 fraud?
 No.
 The assembly expelled them entirely on the grounds that their mere affiliation with the socialist
@@ -853,7 +849,7 @@ The Justice Department raided socialist offices across the country.
 They used the Postmaster General to ban socialist newspapers and publications from the federal mail.
 Which instantly destroys their ability to communicate or raise funds.
 Exactly.
-And they arrested the party&#x27;s top leadership.
+And they arrested the party's top leadership.
 Eugene V. Debs himself, the man who had won 900,000 votes for president just a few years earlier,
 was sentenced to 10 years in federal prison.
 10 years.
@@ -866,9 +862,9 @@ The mob violence was brutal.
 The sources explicitly mention incidents like Ku Klux Klan floggings of
 socialist labor organizers in the south.
 The establishment, both the formal government and informal vigilante networks,
-was using every single tool available to crush the movement&#x27;s momentum.
-If we synthesize what&#x27;s happening to the movement during this period,
-it&#x27;s a dual strangulation.
+was using every single tool available to crush the movement's momentum.
+If we synthesize what's happening to the movement during this period,
+it's a dual strangulation.
 It is.
 On the outside, you have this severe state repression.
 They are jailing the charismatic leaders,
@@ -876,10 +872,10 @@ expelling legally elected officials, turning a blind eye to vigilante violence.
 Right.
 But simultaneously, on the inside, the party is completely tearing itself apart through
 bitter, relentless ideological purity tests.
-It&#x27;s the classic tragic trope of the leftist circular firing squad.
+It's the classic tragic trope of the leftist circular firing squad.
 When the pressure gets high, they turn on each other.
 The archives document a dizzying array of internal fractures.
-You have Daniel Delion&#x27;s radical uncompromising socialist labor party,
+You have Daniel Delion's radical uncompromising socialist labor party,
 splitting from Morris Hill quits more moderate faction,
 who were mockingly referred to as the kangaroos.
 And then the absolute earthquake hits, the 1917 Bolshevik Revolution in Russia.
@@ -896,7 +892,7 @@ The traditional socialists remain fiercely anti-communist,
 constantly denouncing the brutal authoritarianism and lack of democracy in the Soviet Union.
 Meanwhile, the communists relentlessly attacked the socialists as weak
 bourgeois frauds and traitors to the global working class.
-And infighting didn&#x27;t stop there.
+And infighting didn't stop there.
 Of course not.
 And even within the depleted ranks of the remaining socialist party in the 1930s,
 you had vicious, factional clashes.
@@ -907,7 +903,7 @@ It is genuinely tragic when you step back and look at the big picture.
 It really is.
 Here is a movement facing the combined crushing weight of the federal government,
 the legal system, and massive industrial monopolies.
-And instead of unifying, they&#x27;re spending massive amounts of time and energy
+And instead of unifying, they're spending massive amounts of time and energy
 viciously fighting each other over obscure doctrinal points and committee assignments.
 But as we reach the end of the timeline in these archives,
 there is one final ultimate nail in the electoral coffin for the Socialist Party.
@@ -919,10 +915,10 @@ The Great Depression hits in 1929.
 The capitalist system is seemingly in a state of total,
 unrecoverable collapse.
 Millions are unemployed, banks are failing.
-By all Orthodox Marxist logic, this should have been the socialist&#x27;s ultimate moment of triumph.
+By all Orthodox Marxist logic, this should have been the socialist's ultimate moment of triumph.
 The revolution was at hand.
 But instead, FDR steps into the White House, looks at the crisis,
-and essentially co-ops the socialist&#x27;s most popular pragmatic demands.
+and essentially co-ops the socialist's most popular pragmatic demands.
 He implements Social Security to protect the elderly.
 He passes the Wagner Act to federally protect labor unions.
 He launches massive public works programs to employ the jobless.
@@ -935,7 +931,7 @@ He looked at the socialist menu,
 ordered the most popular items, and served them under a Democratic Party label.
 He gave the American workers just enough of what the socialists had been promising
 to completely render the Socialist Party electorally obsolete.
-The voters didn&#x27;t need to risk a radical revolution when FDR
+The voters didn't need to risk a radical revolution when FDR
 was offering them a pension and a union card within the existing system,
 which brings our historical journey to its conclusion.
 The archives show how a movement that was once so deeply embedded in the daily fabric
@@ -956,7 +952,7 @@ the abolition of child labor, and the weekend.
 They left an indelible mark on the physical and legal landscape of the country,
 even as their specific political party faded from electoral relevance.
 Which leaves us with a final lingering thought to maul over as we close out these archives.
-I&#x27;m ready for it.
+I'm ready for it.
 If the ultimate fiercely stated goal of the early American socialists
 was to completely overthrow the capitalist system
 and replace it with a utopian cooperative commonwealth,
@@ -975,5 +971,4 @@ Next time you turn on your tap, clip on a light switch,
 or take a walk through a public park on a Saturday afternoon.
 Thank you for joining us on this deep dive into the archives.
 Take a little closer look at the mundane civic infrastructure of your own hometown today.
-You might be very surprised by the radical blueprints hiding just beneath the surface.</div></section></main>
-<footer>Created with Gemini Notebook. The conversation and voices in each episode were generated with Gemini Notebook.</footer></body></html>
+You might be very surprised by the radical blueprints hiding just beneath the surface.

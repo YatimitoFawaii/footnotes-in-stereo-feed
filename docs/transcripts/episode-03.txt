@@ -1,21 +1,17 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>E3: Photoshop from Darkrooms to Generative Fill | Footnotes in Stereo</title><link rel="stylesheet" href="../site.css"></head>
-<body><header class="site-header"><a class="brand" href="../"><img src="../art/cover.jpg" alt="Footnotes in Stereo"><span>Footnotes in Stereo<small>Fake voices, real facts.</small></span></a></header>
-<main class="episode-page"><a class="back" href="../">All episodes</a><div class="episode-hero"><img src="../episodes/art/episode-03.png" alt="Episode 3 titlecard"><div><span class="eyebrow">Episode 3 · Public episode</span><h1>Photoshop from Darkrooms to Generative Fill</h1><p>Before Photoshop became a verb, it was a chain of darkroom habits, image-repair problems, interface choices, and business bets. Mira and Theo trace the path from the Knoll brothers&#x27; early code to content-aware repair, Creative Cloud backlash, archival restoration, and newer fill tools that extend a long tradition of photographic manipulation. Created with Gemini Notebook.</p><div class="actions"><a class="button" href="https://www.patreon.com/ZeldaReySkywalker/posts/photoshop-from-162772241">Listen on Patreon</a><a class="button secondary" href="https://www.youtube.com/shorts/YJf1v1lxEhc">Watch the Short</a></div></div></div>
-<section><h2>Sources</h2><ol class="sources"><li><a href="https://www.retouchingzone.com/history-of-adobe-photoshop/">History of Adobe Photoshop (1987-2026)</a></li><li><a href="https://tapflare.com/articles/technical-history-adobe-photoshop">The Origins and Technical History of Adobe Photoshop | Tapflare</a></li><li><a href="https://www.versionmuseum.com/history-of/adobe-photoshop">36 Years of Adobe Photoshop Design History - Version Museum</a></li><li><a href="https://rapidphoto.app/blog/history-of-photoshop/">A Brief History of Photoshop and How It Changed the World - Rapid Photo</a></li><li><a href="https://aandmedu.in/all-you-need-to-know-about-photoshop/">All you need to know about Photoshop | A and M Education</a></li><li><a href="https://tapflare.com/articles/pdfs/adobe-subscription-model-case-study.pdf">Case Study: Adobe&#x27;s Transition to a Subscription Model | Tapflare</a></li><li><a href="https://journal.code4lib.org/articles/12542">Countering Stryker&#x27;s Punch: Algorithmically Filling the Black Hole - The Code4Lib Journal</a></li><li><a href="https://www.designsociety.org/publication/47201/exploring_the_synergy_of_ai_generative_fill_in_photoshop_and_the_creative_design_process_utilising_informal_learning">Exploring the Synergy of Generative Fill in Photoshop and the Creative Design Process Utilising Informal Learning - The Design Society</a></li><li><a href="https://helpx.adobe.com/photoshop/desktop/whats-new/photoshop-on-desktop-release-notes.html">Adobe Photoshop on desktop release notes</a></li><li><a href="https://tricky-photoshop.com/misc/how-adobe-photoshop-has-changed-the-history-of-photography-16724/">How Adobe Photoshop Has Changed the History of Photography - TrickyPhotoshop</a></li></ol></section>
-<section><h2>Transcript</h2><p class="transcript-note">Machine transcript; lightly formatted and subject to correction.</p><div class="transcript">You know that feeling when you&#x27;re staring at a perfectly edited image online and you
-just catch yourself wondering what&#x27;s actually real and what&#x27;s just pixel?
+You know that feeling when you're staring at a perfectly edited image online and you
+just catch yourself wondering what's actually real and what's just pixel?
 Oh, yeah, absolutely.
-It&#x27;s like a daily occurrence at this point.
+It's like a daily occurrence at this point.
 Right.
 Well, welcome to the deep dive.
 Today we are unpacking the sweeping history and the honestly mind bending
 future of Adobe Photoshop.
-It&#x27;s quite a story.
+It's quite a story.
 It really is.
-We&#x27;ve got a great stack of sources for this one, including, you know, historical
+We've got a great stack of sources for this one, including, you know, historical
 accounts, software evolution timelines, some amazing vintage software demos and
 recent investigations into the workflow values of modern creative professionals.
-There&#x27;s a lot of ground to cover.
+There's a lot of ground to cover.
 There is.
 And our mission for this deep drive is to trace how image editing transformed from
 this painstaking physical craft in a chemical darkroom to digital work around
@@ -24,7 +20,7 @@ Yeah.
 And we really need to understand how this massive shift is impacting the pride, the
 creativity and just the values of the people sitting behind the screen.
 Exactly.
-Okay, let&#x27;s unpack this.
+Okay, let's unpack this.
 We have to start at the physical roots, right?
 Yeah, because to really grasp the gravity of an artificial intelligence generating a
 cityscape from a text prompt, we have to look backward.
@@ -37,7 +33,7 @@ Smelling all those chemicals.
 Oh, exactly.
 Just manually manipulating how photons interacted with the silver halides that
 were coated on photographic paper.
-And the terms we still use today, like dodging and burning, those weren&#x27;t just
+And the terms we still use today, like dodging and burning, those weren't just
 software metaphors, they were intense physical actions, correct?
 Very physical.
 So if a photographer had a print and wanted to lighten a shadowy area, they would use
@@ -50,19 +46,19 @@ that area would react less, leaving it lighter on the final print.
 Oh, wow.
 Yeah, and conversely, if they wanted to darken an overexposed sky, they would do
 the opposite, which was called burning.
-They&#x27;d use a piece of cardboard with a small hole in it to funnel extra light onto
+They'd use a piece of cardboard with a small hole in it to funnel extra light onto
 just one specific patch of the paper.
 Man, that sounds like an incredibly unforgiving workflow.
 I mean, you make a test strip, you guess how many seconds to wave the cardboard over
 the paper, you drop it in the developer bath and you just wait.
 And if you mess up.
 Right.
-If you expose it for one second too long, you can&#x27;t just hit command Z.
+If you expose it for one second too long, you can't just hit command Z.
 You throw the paper in the trash, turn the enlarger back on and start the entire
 process completely from scratch.
 It demanded a massive amount of patience and honestly, material waste to achieve
 mastery, but the bizarre irony of this whole story is that the digital software
-that replaced all of this intensive labor didn&#x27;t originate from some grand
+that replaced all of this intensive labor didn't originate from some grand
 corporate master plan to revolutionize photography.
 No, it came from something much more relatable.
 Right.
@@ -70,9 +66,9 @@ It owes its existence to a very mundane human habit, academic procrastination.
 I love this part.
 So the year is 1987 and we have a PhD student at the University of Michigan
 named Thomas Knoll, and he is supposed to be writing his heavy academic dissertation
-on digital image processing, but he didn&#x27;t want to know as he later freely admitted.
+on digital image processing, but he didn't want to know as he later freely admitted.
 He absolutely despised writing papers, a feeling known to graduate students everywhere.
-I&#x27;m sure exactly.
+I'm sure exactly.
 So he has this Macintosh plus computer sitting on his desk and at the time that
 machine featured a stark monochrome monitor.
 It could only display pixels that were purely black or purely white.
@@ -94,7 +90,7 @@ likely would have just remained a forgotten grayscale hack on a floppy disk, if 
 his brother, John Knoll.
 And John had a pretty interesting job, right?
 He did.
-John was working at Industrial Light and Magic, which was George Lucas&#x27;s visual
+John was working at Industrial Light and Magic, which was George Lucas's visual
 effects studio.
 He saw what his brother had built to avoid writing his paper and immediately
 recognized the commercial potential.
@@ -102,7 +98,7 @@ Of course he did, working in film.
 Exactly.
 He pushed Thomas to stop treating these scattered image utilities as a distraction
 and combine them into a single cohesive application.
-And what&#x27;s fascinating here is how they translated their father&#x27;s physical basement
+And what's fascinating here is how they translated their father's physical basement
 darkroom techniques into digital sliders.
 Wait, their dad was a photographer?
 Well, he was a nuclear engineering professor, actually.
@@ -112,13 +108,13 @@ down there learning those exact chemical processes we talked about earlier.
 Oh, that makes so much sense.
 Right.
 So when it came time to build the digital interface, they literally translated their
-father&#x27;s physical tools into the software.
+father's physical tools into the software.
 If you open Photoshop today, look at the tool panel.
 The dodging tool icon looks like a small physical paddle or spoon on a wire.
 Oh my gosh, it does.
 And the burning tool icon looks like a human hand curled into an O shape to let a narrow
 beam of light through.
-Those aren&#x27;t abstract text symbols.
+Those aren't abstract text symbols.
 They are literal digital monuments to the physical tools their father used to manipulate
 light.
 That is incredible.
@@ -128,7 +124,7 @@ torture for the user.
 Oh, absolutely.
 Before we get into the torture, how did they actually prove to executives that this thing
 worked?
-I mean, consumer digital cameras didn&#x27;t even exist yet.
+I mean, consumer digital cameras didn't even exist yet.
 Well, they needed a demonstration image, something compelling enough to sell the concept.
 So Thomas Knoll took a printed photograph of his girlfriend, Jennifer, who later became his
 wife, sitting on a beach in Bora Bora, the famous Jennifer in Paradise photo.
@@ -153,7 +149,7 @@ foundational concept of modern graphic design where you stack elements on top of
 independently.
 They did not exist.
 Not at all.
-Layers wouldn&#x27;t arrive until version 3.0 in 1994.
+Layers wouldn't arrive until version 3.0 in 1994.
 Everything in version 1.0 happened on a single flat destructible canvas.
 And you had exactly one level of undo.
 Just one.
@@ -162,7 +158,7 @@ But if you painted two brushstrokes, that first one was permanently baked into t
 Your only escape hatch was to abandon your progress and revert to the last saved version of
 the entire file.
 The absolute nightmare scenario, though, was the text tool.
-If you wanted to add typography to a poster, you couldn&#x27;t just click on the canvas and start
+If you wanted to add typography to a poster, you couldn't just click on the canvas and start
 typing.
 You had to open a separate blank dialog box, a completely disconnected box.
 Yeah.
@@ -175,8 +171,8 @@ If you misspelled a word or you dropped the text a quarter of an inch too far to
 finger slipped and you clicked away, de-selecting that floating text, those black text
 pixels permanently replaced the image pixels beneath them.
 They refused forever.
-You couldn&#x27;t double click to edit the spelling.
-You couldn&#x27;t drag it over.
+You couldn't double click to edit the spelling.
+You couldn't drag it over.
 You just ruined the entire image.
 So I have to push back on the business logic here.
 If the software was this stressful, if you had one undo, no layers, de-selecting is death, and you
@@ -198,10 +194,10 @@ Okay, that fundamentally changes the perspective.
 Suddenly, $895 is a bargain.
 It was a revolution.
 It was the quintessential killer app.
-It was a piece of software so financially beneficial to an agency&#x27;s bottom line that it
+It was a piece of software so financially beneficial to an agency's bottom line that it
 justified the cost of upgrading all their studio hardware.
 It effectively democratized high end image manipulation, pulling it out of those specialized
-Cytex labs and putting it directly onto the designer&#x27;s desk.
+Cytex labs and putting it directly onto the designer's desk.
 Okay, so we travel from that era of incredibly manual, stressful pixel pushing across three
 decades.
 The software balloons from roughly a 100,000 lines of code to over 10 million lines today.
@@ -210,7 +206,7 @@ Completely changes.
 We transition from manually manipulating existing pixels to relying on algorithmic
 prediction.
 We go from being an editor to becoming a director.
-And here&#x27;s where it gets really interesting because we&#x27;re talking about the massive leap to
+And here's where it gets really interesting because we're talking about the massive leap to
 generative AI.
 The technological leap is staggering when you break it down.
 In the early days, we relied on tools like the magic wand, which just used basic math to look
@@ -222,17 +218,17 @@ By 2010, we saw the introduction of content aware fill where the algorithm becam
 smarter.
 It could analyze the texture pattern surrounding an object you wanted to remove and
 mathematically patch the hole with existing textures from the same image.
-But today with generative AI, we aren&#x27;t patching pixels at all.
+But today with generative AI, we aren't patching pixels at all.
 We are predicting entirely new ones.
-We are talking about tools powered by Adobe&#x27;s AI engine, specifically the Firefly models
+We are talking about tools powered by Adobe's AI engine, specifically the Firefly models
 and a feature called generative fill.
 Like if a photographer shoots a vertical portrait of a model, but the client suddenly
-decides they need a horizontal banner for a website, the photographer doesn&#x27;t have to
+decides they need a horizontal banner for a website, the photographer doesn't have to
 rebuild the set and reshoot.
 They just expand the digital canvas.
 Exactly.
 They type a text prompt and the AI hallucinate the rest in the room.
-But how is it actually doing that because it isn&#x27;t just stretching the background, right?
+But how is it actually doing that because it isn't just stretching the background, right?
 No, not at all.
 It relies on diffusion models operating in what computer scientists call a latent space.
 The AI has been trained on hundreds of millions of images, learning the statistical
@@ -258,7 +254,7 @@ Many popular AI image generators simply scrape the open Internet, absorbing bill
 copyrighted paintings, photographs and illustrations without the consent or compensation of the
 original artists.
 Adobe recognized the legal and ethical liability there, particularly for enterprise clients.
-Because companies don&#x27;t want to get sued.
+Because companies don't want to get sued.
 Right.
 So their Firefly models are trained almost exclusively on professional grade, licensed images
 from their own Adobe Stock Library, along with openly licensed and public domain content.
@@ -281,14 +277,14 @@ In the design world right now, the most glaring tension is between productivity 
 Well, the productivity boost is mathematically undeniable.
 We are seeing firsthand accounts from professional retouchers who state that generative fill has literally
 turned a grueling 10 hour work day into a breezy two hour work day.
-It&#x27;s massive for efficiency.
+It's massive for efficiency.
 They are increasing their profit margins because they are no longer losing hours of their life
 painstakingly using the clone stamp tool to manually rebuild a brick wall behind a removed subject.
 But let me push back a bit here.
-Doesn&#x27;t this democratization ultimately elevate the art form?
+Doesn't this democratization ultimately elevate the art form?
 In what way?
-Well, if you dramatically lower the barrier to entry so that someone doesn&#x27;t need to spend 10 years
-memorizing keyboard shortcuts and Bezier curve mechanics, doesn&#x27;t that free the human mind to focus
+Well, if you dramatically lower the barrier to entry so that someone doesn't need to spend 10 years
+memorizing keyboard shortcuts and Bezier curve mechanics, doesn't that free the human mind to focus
 purely on creative vision rather than getting bogged down in the tedious execution?
 It certainly lowers the barrier for ideation, but for the dedicated professional, the complete
 elimination of friction cheapens the resulting craft.
@@ -309,35 +305,35 @@ connection to the work. Typing a sterile text prompt bypasses the lived experien
 It essentially severs the final piece of artwork from its physical anchor in the real world.
 It is the difference between reading the chemical breakdown of a meal on a spreadsheet versus
 actually tasting the food.
-That&#x27;s a perfect way to put it.
+That's a perfect way to put it.
 And the second major tension is the mourning of home skills.
 For decades, high end retouching was an arduous craft.
 Managing complex lighting scenarios and executing seamless color grading required a deep specialized
 expertise. People spent years learning that.
 And they derived immense self worth from their ability to solve those visual puzzles.
 Now, researchers are interviewing creatives who admit they feel empty when they finish a project
-because in their own words, it&#x27;s just so easy.
+because in their own words, it's just so easy.
 The underlying anxiety is that as these generative tools become ubiquitous, society will lose its
 ability to distinguish between a prompt and authentic human effort.
 The fear is the devaluation of the human struggle itself.
-And that internal struggle doesn&#x27;t just stay with the artist sitting at their desk.
+And that internal struggle doesn't just stay with the artist sitting at their desk.
 It bleeds out into society at large.
 Because if editing reality is now completely effortless, practically instantaneous and
 visually undetectable, how do we protect the truth of what we see on our screen?
-It&#x27;s a huge issue.
+It's a huge issue.
 Which brings us to the historical precedent of manipulation because the sources have some
 really interesting politically charged examples here.
-And just as a quick note for you listening, we&#x27;re sharing these examples straight from the
+And just as a quick note for you listening, we're sharing these examples straight from the
 sources to show how manipulation has been used historically.
-We aren&#x27;t taking any political asides here or endorsing these views, just impartially
+We aren't taking any political asides here or endorsing these views, just impartially
 reporting the history.
 Right. And the weaponization of photography has a long pedigree.
-For instance, the sources detail how Joseph Stalin&#x27;s regime during the Great Purge used state
+For instance, the sources detail how Joseph Stalin's regime during the Great Purge used state
 retouchers to literally alter reality.
 Yeah, they would execute political rivals like Nikolai Yezhov or Leon Trotsky and then
 erase them from history entirely.
 Exactly. A team would take an official photograph, sit down with scalpels, airbrushes and
-magnifying glasses and spend days painstakingly scraping a person&#x27;s likeness off the
+magnifying glasses and spend days painstakingly scraping a person's likeness off the
 physical negative, artificially extending the background scenery to cover the empty space.
 And on the flip side, the sources contrast this with a German artist named John
 Hartfield. During the rise of the Nazi Party in the 1930s, he pioneered the use of photo
@@ -348,13 +344,13 @@ Hartfield used physical manipulation not to hide the truth, but to aggressively 
 It proves that the power to alter an image is inherently neutral.
 The morality is dictated entirely by the hands wielding the tool.
 But the terrifying difference today is the velocity in the scale.
-Without a doubt. I mean, what took Stalin&#x27;s team days to do with a scalpel, a 14 year old
+Without a doubt. I mean, what took Stalin's team days to do with a scalpel, a 14 year old
 waiting for the school bus can achieve in three seconds using nothing but a thumb and a
 smartphone screen. And this raises an important question.
 How do we verify reality when the tools of deception are universally accessible?
 The technology sector is attempting to solve this technological problem with a technological
 solution, primarily through an initiative called content credentials.
-Right. I&#x27;ve seen this compared to a nutrition label for digital media.
+Right. I've seen this compared to a nutrition label for digital media.
 What is the actual mechanism making that label secure?
 It relies on an open standard backed by cryptographic hashing.
 The idea is to embed metadata directly into the image file at the moment of creation.
@@ -371,7 +367,7 @@ It is an attempt to force transparency back onto the viewer.
 But even with brilliant cryptographic solutions, implementing algorithmic guardrails in the
 real world is incredibly messy.
 We see this tension clearly in how safety censorship is currently functioning.
-Oh, it&#x27;s very messy.
+Oh, it's very messy.
 Adobe rightly put strict safety guidelines in place to prevent the software from generating
 deepfakes or illicit explicit content of real people.
 But an algorithm is a blunt instrument, struggles immensely with artistic nuance.
@@ -386,11 +382,11 @@ expression when an unfeeling algorithm is the final arbiter of what is appropria
 It is an incredibly fragile tightrope.
 It really is. The journey we have taken today is just staggering.
 We started with a PhD student procrastinating by writing an algorithm to dither black and white
-pixels on a tiny monochrome monitor, actively translating his father&#x27;s basement chemical dark
+pixels on a tiny monochrome monitor, actively translating his father's basement chemical dark
 room into a digital interface.
-And we&#x27;ve arrived in an era where an AI powerhouse literally forces us to question the
+And we've arrived in an era where an AI powerhouse literally forces us to question the
 nature of authenticity, the value of human effort and the very fabric of visual truth.
-It&#x27;s a remarkable technological transformation.
+It's a remarkable technological transformation.
 But underneath the millions of lines of code and the diffusion models, it remains a deeply
 human story about our relentless desire to shape and control the world we see.
 Absolutely. I want you to hold on to this thought.
@@ -406,7 +402,6 @@ As algorithms make achieving absolute visual perfection effortless, instantaneou
 cheap, will human mistakes, physical imperfections and the visible struggle of the
 craft become the new premium standard for art?
 Will we one day value a photograph precisely because it is flawed?
-It&#x27;s something to think about.
+It's something to think about.
 Thank you for joining us on this deep dive.
-Keep exploring, keep looking closely and always question the digital world around you.</div></section></main>
-<footer>Created with Gemini Notebook. The conversation and voices in each episode were generated with Gemini Notebook.</footer></body></html>
+Keep exploring, keep looking closely and always question the digital world around you.
