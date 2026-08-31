@@ -1,0 +1,596 @@
+[
+  {
+    "number": 13,
+    "patreon_url": "https://www.patreon.com/ZeldaReySkywalker/posts/163730548",
+    "member_release": "2026-08-28 00:00:00-07:00",
+    "public_release": null,
+    "exclusive": true,
+    "title": "Large Hadron Collider Science and Doomsday Myths",
+    "description": "The Large Hadron Collider is one of the most ambitious machines ever built, and also one of the easiest to mythologize. Mira and Theo trace its superconducting magnets, particle beams, detectors, Higgs-era discoveries, safety review, the 2008 electrical failure, black-hole fears, and conspiracy narratives while keeping real engineering risks separate from imagined catastrophe. Created with Gemini Notebook. The conversation and voices in this episode were generated with Gemini Notebook.",
+    "sources": [
+      {
+        "title": "Large Hadron Collider - CERN",
+        "url": "https://home.cern/resources/faqs/large-hadron-collider-dangerous"
+      },
+      {
+        "title": "CERN releases analysis of LHC incident - CERN",
+        "url": "https://home.cern/cern-releases-analysis-of-lhc-incident/"
+      },
+      {
+        "title": "Pulling together: Superconducting electromagnets - CERN",
+        "url": "https://home.cern/science/engineering/pulling-together-superconducting-electromagnets/"
+      },
+      {
+        "title": "Review of the safety of LHC collisions - CERN",
+        "url": "https://home.cern/sites/default/files/2018-07/CERN-Brochure-2017-002-Eng_0.pdf"
+      }
+    ],
+    "slug": "episode-13-large-hadron-collider-science-and-doomsday-myths",
+    "youtube_url": "",
+    "art": "episodes/art/episode-13.png"
+  },
+  {
+    "number": 12,
+    "patreon_url": "https://www.patreon.com/ZeldaReySkywalker/posts/from-james-to-163645380",
+    "member_release": "2026-08-26 00:00:00-07:00",
+    "public_release": "2026-08-26 00:00:00-07:00",
+    "exclusive": false,
+    "title": "From James Madison to the Football Field",
+    "description": "Religion has never been simply absent from American public life, and the law has never treated it as one simple thing. Mira and Theo trace Madison's arguments, the ban on religious tests, the First Amendment, Reynolds, free-exercise disputes, establishment doctrine, and Kennedy v. Bremerton to ask how legal ideas about belief, coercion, equality, and public institutions keep changing. Created with Gemini Notebook. The conversation and voices in this episode were generated with Gemini Notebook.",
+    "sources": [
+      {
+        "title": "James Madison, Memorial and Remonstrance against Religious Assessments - University of Chicago",
+        "url": "https://press-pubs.uchicago.edu/founders/documents/amendI_religions43.html"
+      },
+      {
+        "title": "Interpretation of Religious Test Clause - Constitution Annotated",
+        "url": "https://constitution.congress.gov/browse/essay/artVI-C3-2-2/ALDE_00013639"
+      },
+      {
+        "title": "Reynolds v. United States, 98 U.S. 145 (1879) - Library of Congress",
+        "url": "https://www.loc.gov/item/usrep098145/"
+      },
+      {
+        "title": "Kennedy v. Bremerton School District, 597 U.S. 507 (2022) - Supreme Court of the United States",
+        "url": "https://www.supremecourt.gov/opinions/21pdf/21-418_k4l8.pdf"
+      }
+    ],
+    "slug": "episode-12-from-james-madison-to-the-football-field",
+    "youtube_url": "",
+    "art": "episodes/art/episode-12.png"
+  },
+  {
+    "number": 11,
+    "patreon_url": "https://www.patreon.com/ZeldaReySkywalker/posts/how-sewer-built-163645230",
+    "member_release": "2026-08-21 00:00:00-07:00",
+    "public_release": null,
+    "exclusive": true,
+    "title": "How Sewer Socialists Built Modern America",
+    "description": "Before the Red Scares turned socialism into a national political alarm, American socialists were trying to run cities. Mira and Theo follow Milwaukee's sewer socialists, the Socialist Party, Eugene V. Debs, public ownership, sanitation, water, parks, labor, newspapers, and municipal elections to ask what it meant to make radical politics practical. Created with Gemini Notebook. The conversation and voices in this episode were generated with Gemini Notebook.",
+    "sources": [
+      {
+        "title": "How To Build A Socialist Government: Milwaukee and The Sewer Socialists - DigitalCommons@Macalester College",
+        "url": "https://digitalcommons.macalester.edu/cgi/viewcontent.cgi?article=1212&context=tapestries"
+      },
+      {
+        "title": "The Canton Speech: With Statements to the Jury and the Court - Eugene V. Debs Foundation",
+        "url": "https://debsfoundation.org/pdf/canton-and-court.pdf"
+      },
+      {
+        "title": "Socialist Party of America Papers: A Resource Guide - ProQuest",
+        "url": "https://about.proquest.com/globalassets/proquest/files/pdf-files/brochures/13943_socialist-party_resourceguide_web.pdf"
+      },
+      {
+        "title": "The Reading Labor Advocate and Socialist Power in Pennsylvania - Marxists Internet Archive",
+        "url": "https://www.marxists.org/history/usa/pubs/reading-labor-advocate/index.htm"
+      }
+    ],
+    "slug": "episode-11-how-sewer-socialists-built-modern-america",
+    "youtube_url": "",
+    "art": "episodes/art/episode-11.png"
+  },
+  {
+    "number": 10,
+    "patreon_url": "https://www.patreon.com/ZeldaReySkywalker/posts/how-humanity-163644980",
+    "member_release": "2026-08-14 00:00:00-07:00",
+    "public_release": "2026-08-19 00:00:00-07:00",
+    "exclusive": false,
+    "title": "How Humanity Maps the Afterlife",
+    "description": "What would have to persist for a person to have an afterlife: a soul, a body, a memory, a relationship, or something else entirely? Mira and Theo follow paradise, resurrection, dualism, materialism, divine justice, and the competing maps people have drawn beyond death. Created with Gemini Notebook.",
+    "sources": [
+      {
+        "title": "Afterlife - Stanford Encyclopedia of Philosophy",
+        "url": "https://plato.stanford.edu/archives/sum2025/entries/afterlife/"
+      },
+      {
+        "title": "Heaven and Hell in Christian Thought - Stanford Encyclopedia of Philosophy",
+        "url": "https://plato.stanford.edu/entries/heaven-hell/"
+      },
+      {
+        "title": "Hell - Internet Encyclopedia of Philosophy",
+        "url": "https://iep.utm.edu/hell/"
+      }
+    ],
+    "slug": "episode-10-how-humanity-maps-the-afterlife",
+    "youtube_url": "https://www.youtube.com/shorts/OU1K7U80A5Y",
+    "art": "episodes/art/episode-10.png"
+  },
+  {
+    "number": 9,
+    "patreon_url": "https://www.patreon.com/ZeldaReySkywalker/posts/how-hell-became-163641314",
+    "member_release": "2026-08-07 00:00:00-07:00",
+    "public_release": "2026-08-12 00:00:00-07:00",
+    "exclusive": false,
+    "title": "How Hell Became a Torture Chamber",
+    "description": "Hell did not arrive in history as one fixed image. Mira and Theo trace the changing vocabulary of Sheol, Hades, Gehenna, judgment, fire, punishment, separation, free will, and reconciliation, asking how an underworld became a moral architecture and why its meanings remain contested. Created with Gemini Notebook.",
+    "sources": [
+      {
+        "title": "Heaven and Hell in Christian Thought - Stanford Encyclopedia of Philosophy",
+        "url": "https://plato.stanford.edu/entries/heaven-hell/"
+      },
+      {
+        "title": "Hell - Internet Encyclopedia of Philosophy",
+        "url": "https://iep.utm.edu/hell/"
+      },
+      {
+        "title": "Hell - Encyclopedia.com",
+        "url": "https://www.encyclopedia.com/philosophy-and-religion/bible/bible-general/hell"
+      }
+    ],
+    "slug": "episode-09-how-hell-became-a-torture-chamber",
+    "youtube_url": "https://www.youtube.com/shorts/S5nJJoRqBp8",
+    "art": "episodes/art/episode-09.png"
+  },
+  {
+    "number": 8,
+    "patreon_url": "https://www.patreon.com/ZeldaReySkywalker/posts/from-music-boxes-163194512",
+    "member_release": "2026-07-31 00:00:00-07:00",
+    "public_release": "2026-08-05 00:00:00-07:00",
+    "exclusive": false,
+    "title": "From Music Boxes to Jazz Robots",
+    "description": "Long before playlists and sequencers, machines were already learning how to play: pinned cylinders, music boxes, barrel organs, automata, player pianos, punch rolls, robotic marimbas, and full mechanical ensembles. Mira and Theo follow the strange, beautiful history of music that performs itself, from domestic parlor technology to modern robotic musicianship. Created with Gemini Notebook.",
+    "sources": [
+      {
+        "title": "A History of the Music Box",
+        "url": "https://www.themusicboxcompany.com/a-history-of-the-music-box/"
+      },
+      {
+        "title": "DIGITIZING NORTH INDIAN MUSIC: Preservation and Extension using Multimodal Sensor Systems, Machine Learning and Robotics - Mistic",
+        "url": "https://mistic.mit.edu/projects/digitizing-north-indian-music"
+      },
+      {
+        "title": "Interactive Improvisation with a Robotic Marimba Player - Guy Hoffman",
+        "url": "https://guyhoffman.com/publications/Hoffman_Interactive_Improvisation_with_a_Robotic_Marimba_Player.pdf"
+      },
+      {
+        "title": "Mechanical Music - The Musical Box Society of Great Britain",
+        "url": "https://mbsgb.org.uk/mechanical-music/"
+      },
+      {
+        "title": "Mechanical organ - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mechanical_organ"
+      },
+      {
+        "title": "Morris Steinert Collection of Musical Instruments | Yale School of Music",
+        "url": "https://music.yale.edu/collections/morris-steinert-collection"
+      },
+      {
+        "title": "Pat Metheny: One Man's Band - Profile - All About Jazz",
+        "url": "https://www.allaboutjazz.com/pat-metheny-one-mans-band-pat-metheny-by-john-kelman"
+      },
+      {
+        "title": "The Biomorphic Automata of the 18th Century. Mechanical Artworks as Objects of Technical Fascination and Epistemological Exhibit",
+        "url": "https://journals.openedition.org/miranda/33486"
+      },
+      {
+        "title": "Ulysses Pianola | Penn English",
+        "url": "https://web.sas.upenn.edu/ulysses-pianola/"
+      },
+      {
+        "title": "\"This Will Play Your Piano\": Automation, Amateur Musicianship, and the Player Piano - Cornell eCommons",
+        "url": "https://ecommons.cornell.edu/items/2ade8167-4b7b-4f66-8d95-5792f4674a59"
+      }
+    ],
+    "slug": "episode-08-from-music-boxes-to-jazz-robots",
+    "youtube_url": "https://www.youtube.com/shorts/1-PyGqH5UrU",
+    "art": "episodes/art/episode-08.png"
+  },
+  {
+    "number": 7,
+    "patreon_url": "https://www.patreon.com/ZeldaReySkywalker/posts/how-digital-163191816",
+    "member_release": "2026-07-24 00:00:00-07:00",
+    "public_release": "2026-07-29 00:00:00-07:00",
+    "exclusive": false,
+    "title": "How the Digital Revolution Rewired Music",
+    "description": "Recorded music used to move through records, radio, stores, studios, and labels. Then DAWs, MP3s, Napster, iTunes, streaming catalogs, recommendation systems, TikTok, and direct-to-fan tools rearranged the whole circuit. Mira and Theo trace how the internet changed who could make music, who could find it, and who got paid when listening became data. Created with Gemini Notebook.",
+    "sources": [
+      {
+        "title": "A&M Records, Inc. v. Napster, Inc., 239 F.3d 1004 (9th Cir. 2001) - Copyright",
+        "url": "https://law.justia.com/cases/federal/appellate-courts/F3/239/1004/636740/"
+      },
+      {
+        "title": "Digital Performer - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Digital_Performer"
+      },
+      {
+        "title": "Digital audio workstation - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Digital_audio_workstation"
+      },
+      {
+        "title": "HOW THE INTERNET HAS CHANGED THE MUSIC INDUSTRY - Recording Connection",
+        "url": "https://recordingconnection.com/reference-library/how-the-internet-has-changed-the-music-industry/"
+      },
+      {
+        "title": "Hours after TikTok being Shut Down... - Reddit",
+        "url": "https://www.reddit.com/r/Fauxmoi/comments/1i51a11/hours_after_tiktok_being_shut_down_singer_halsey/"
+      },
+      {
+        "title": "Music Genome Project - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Music_Genome_Project"
+      },
+      {
+        "title": "The Evolution of the Music Industry in the Digital Age: From Records to Streaming - Clausius Scientific Press",
+        "url": "https://www.clausiuspress.com/article/15594.html"
+      },
+      {
+        "title": "The Impact of Digital File Sharing on the Music Industry: An Empirical Analysis - RIAA",
+        "url": "https://www.riaa.com/wp-content/uploads/2015/09/2012_SSRN-id2132307.pdf"
+      },
+      {
+        "title": "The Impact of Technology on the Music Industry - Southern Utah University",
+        "url": "https://www.suu.edu/hss/comm/masters/capstone/thesis/brough-r.pdf"
+      },
+      {
+        "title": "The Resounding Impact of Napster, Inc. An Analysis of A & M Records, Inc. v. Napster, Inc. - Scholarship @ Claremont",
+        "url": "https://scholarship.claremont.edu/cgi/viewcontent.cgi?article=1473&context=cmc_theses"
+      }
+    ],
+    "slug": "episode-07-how-the-digital-revolution-rewired-music",
+    "youtube_url": "https://www.youtube.com/shorts/3T4bVHmFGgI",
+    "art": "episodes/art/episode-07.png"
+  },
+  {
+    "number": 6,
+    "patreon_url": "https://www.patreon.com/ZeldaReySkywalker/posts/dada-from-to-163096965",
+    "member_release": "2026-07-17 09:55:00-07:00",
+    "public_release": "2026-07-22 00:00:00-07:00",
+    "exclusive": false,
+    "title": "Dada from the Trenches to Internet Memes",
+    "description": "Dada begins as anti-art in the wreckage of the First World War, but it keeps escaping its own moment. Mira and Theo follow Cabaret Voltaire, Hugo Ball, Tristan Tzara, readymades, photomontage, Neo-Dada, punk graphics, classroom provocations, and meme culture to ask how absurdity became a durable modern tool for attacking stale systems of meaning. Created with Gemini Notebook.",
+    "sources": [
+      {
+        "title": "A brief history of Dada - Christie's",
+        "url": "https://www.christies.com/en/stories/a-brief-history-of-dada-2750621118d343b2b011cef2027d3de3"
+      },
+      {
+        "title": "Dada Graphic Design: A Guide to the Art of Anti-Art & Rebellion - Mew Design Docs",
+        "url": "https://docs.mew.design/blog/dada-design-style/"
+      },
+      {
+        "title": "Neo-Dada Movement Overview - The Art Story",
+        "url": "https://www.theartstory.org/movement/neo-dada/"
+      },
+      {
+        "title": "The Birth of Dada - History Today",
+        "url": "https://www.historytoday.com/archive/months-past/birth-dada"
+      },
+      {
+        "title": "The Dada And Punk Movements - UKEssays.com",
+        "url": "https://www.ukessays.com/essays/music/the-dada-and-punk-movements.php"
+      },
+      {
+        "title": "What's the Difference Between Dadaism and Surrealism? - TheCollector",
+        "url": "https://www.thecollector.com/whats-the-difference-between-dadaism-and-surrealism/"
+      },
+      {
+        "title": "Using Avant-garde Art to Foster Active Learning in the Classroom - SUNY Open Access Repository",
+        "url": "https://soar.suny.edu/bitstreams/1a7f6c1d-73f7-4a88-9b3a-b536c72bacbd/download"
+      },
+      {
+        "title": "University of Tennessee PDF source captured by Gemini Notebook",
+        "url": "https://voljournals.utk.edu/cgi/viewcontent.cgi?article=2743&context=utk_chanhonoproj"
+      }
+    ],
+    "slug": "episode-06-dada-from-the-trenches-to-internet-memes",
+    "youtube_url": "https://www.youtube.com/shorts/jgQkNHCqfXI",
+    "art": "episodes/art/episode-06.png"
+  },
+  {
+    "number": 5,
+    "patreon_url": "https://www.patreon.com/ZeldaReySkywalker/posts/copy-of-why-is-162822416",
+    "member_release": "2026-07-11 08:00:00-07:00",
+    "public_release": "2026-07-13 08:00:00-07:00",
+    "exclusive": false,
+    "title": "Why Division Is Cheaper Than Unity",
+    "description": "Culture wars did not begin with social media, but platforms changed the price, speed, and rewards of political conflict. Mira and Theo trace how identity, moral outrage, engagement incentives, misinformation, microtargeting, elections, activism, and polarized media ecosystems can turn disagreement into durable political machinery, while keeping the causal story careful. Created with Gemini Notebook.",
+    "sources": [
+      {
+        "title": "'Network Propaganda' takes a closer look at media and American politics",
+        "url": "https://hls.harvard.edu/today/network-propaganda-takes-a-closer-look-at-media-and-american-politics/"
+      },
+      {
+        "title": "Algorithm-Driven Identity Politics: Role of Social Media in Polarisation and Mobilisation",
+        "url": "https://bcpublication.org/index.php/SSH/article/view/7911"
+      },
+      {
+        "title": "Beyond True and False: Fake News and the Digital Epistemic Divide",
+        "url": "https://repository.law.umich.edu/mtlr/vol29/iss1/3/"
+      },
+      {
+        "title": "How tech platforms fuel U.S. political polarization and what government can do about it - Brookings Institution",
+        "url": "https://www.brookings.edu/articles/how-tech-platforms-fuel-u-s-political-polarization-and-what-government-can-do-about-it/"
+      },
+      {
+        "title": "Information Fiduciaries and Political Microtargeting: A Legal Framework for Regulating Political Advertising on Digital Platforms",
+        "url": "https://scholarlycommons.law.northwestern.edu/cgi/viewcontent.cgi?article=1460&context=nulr"
+      },
+      {
+        "title": "Moral Grandstanding in Public Discourse: Status-Seeking Motives as a Potential Explanatory Mechanism in Predicting Conflict",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0223749"
+      },
+      {
+        "title": "Political Polarization and Moral Outrage on Social Media",
+        "url": "https://digitalcommons.lib.uconn.edu/law_review/454/"
+      },
+      {
+        "title": "Social Media Seen as Mostly Good for Democracy Across Many Nations, But U.S. is a Major Outlier",
+        "url": "https://www.pewresearch.org/global/2022/12/06/social-media-seen-as-mostly-good-for-democracy-across-many-nations-but-u-s-is-a-major-outlier/"
+      },
+      {
+        "title": "The Algorithmic Management of Polarization and Violence on Social Media",
+        "url": "https://knightcolumbia.org/content/the-algorithmic-management-of-polarization-and-violence-on-social-media"
+      },
+      {
+        "title": "Misinformation exploits outrage to spread online",
+        "url": "https://www.science.org/doi/10.1126/science.adl2829"
+      },
+      {
+        "title": "Threats to American Democracy Ahead of an Unprecedented Presidential Election - PRRI",
+        "url": "https://prri.org/research/threats-to-american-democracy-ahead-of-an-unprecedented-presidential-election/"
+      },
+      {
+        "title": "Using AI Agents to Automate Black-Box Audits of Personalization Algorithms at Scale",
+        "url": "https://arxiv.org/abs/2606.30801"
+      }
+    ],
+    "slug": "episode-05-why-division-is-cheaper-than-unity",
+    "youtube_url": "https://www.youtube.com/shorts/ze-vRMNtVEM",
+    "art": "episodes/art/episode-05.png"
+  },
+  {
+    "number": 4,
+    "patreon_url": "https://www.patreon.com/ZeldaReySkywalker/posts/did-old-masters-162772462",
+    "member_release": "2026-07-08 08:00:00-07:00",
+    "public_release": "2026-07-08 08:00:00-07:00",
+    "exclusive": false,
+    "title": "Did the Old Masters Use Tracing Machines?",
+    "description": "What counts as authorship when artists use lenses, mirrors, projections, assistants, archives, and systems? Mira and Theo start with the Hockney-Falco thesis and its critics, then follow the argument through Vermeer, photography, museum datasets, and modern debates over tools, skill, and creative labor. Created with Gemini Notebook.",
+    "sources": [
+      {
+        "title": "Hockney-Falco thesis - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hockney%E2%80%93Falco_thesis"
+      },
+      {
+        "title": "Why David Hockney Should Not Be Taken Seriously - Art Renewal Center",
+        "url": "https://www.artrenewal.org/Article/Title/why-david-hockney-should-not-be-taken-seriously"
+      },
+      {
+        "title": "Reverse-Engineering a Genius (Has a Vermeer Mystery Been Solved?)",
+        "url": "https://www.harrywalker.com/media/2084/andersen-kurt_vanityaffair_11-29-13.pdf"
+      },
+      {
+        "title": "AI and the Arts: How Machine Learning is Changing Creative Work - Oxford Internet Institute",
+        "url": "https://www.oii.ox.ac.uk/news-events/reports/ai-the-arts/"
+      },
+      {
+        "title": "Integrating GenAI in Filmmaking: From Co-Creativity to Distributed Creativity - arXiv",
+        "url": "https://arxiv.org/pdf/2603.23415"
+      },
+      {
+        "title": "Photography - CSUN",
+        "url": "https://www.csun.edu/sites/default/files/Media05--Photo.pdf"
+      },
+      {
+        "title": "The Algorithmic Gaze: Deconstructing Authorship and Aesthetics in Generative Artificial Intelligence Art - Enigma in Cultural",
+        "url": "https://enigma.or.id/index.php/cultural/article/view/106"
+      },
+      {
+        "title": "Refik Anadol: Unsupervised - MoMA",
+        "url": "https://www.moma.org/calendar/exhibitions/5535"
+      },
+      {
+        "title": "Is AI a Medium? - The Journal of Aesthetics and Art Criticism",
+        "url": "https://academic.oup.com/jaac/advance-article/doi/10.1093/jaac/kpag028/8698899?searchresult=1&login=false"
+      },
+      {
+        "title": "The Ethical and Legal Implications of AI in the Arts and Creative Industries - Oxford University Research Archive",
+        "url": "https://ora.ox.ac.uk/objects/uuid:a803ecc0-c8cc-42a0-be17-848334dc3cf5/files/r5d86p1015"
+      }
+    ],
+    "slug": "episode-04-did-the-old-masters-use-tracing-machines",
+    "youtube_url": "https://www.youtube.com/shorts/VUNGd9b-h-g",
+    "art": "episodes/art/episode-04.png"
+  },
+  {
+    "number": 3,
+    "patreon_url": "https://www.patreon.com/ZeldaReySkywalker/posts/photoshop-from-162772241",
+    "member_release": "2026-07-06 08:00:00-07:00",
+    "public_release": "2026-07-08 08:00:00-07:00",
+    "exclusive": false,
+    "title": "Photoshop from Darkrooms to Generative Fill",
+    "description": "Before Photoshop became a verb, it was a chain of darkroom habits, image-repair problems, interface choices, and business bets. Mira and Theo trace the path from the Knoll brothers' early code to content-aware repair, Creative Cloud backlash, archival restoration, and newer fill tools that extend a long tradition of photographic manipulation. Created with Gemini Notebook.",
+    "sources": [
+      {
+        "title": "History of Adobe Photoshop (1987-2026)",
+        "url": "https://www.retouchingzone.com/history-of-adobe-photoshop/"
+      },
+      {
+        "title": "The Origins and Technical History of Adobe Photoshop | Tapflare",
+        "url": "https://tapflare.com/articles/technical-history-adobe-photoshop"
+      },
+      {
+        "title": "36 Years of Adobe Photoshop Design History - Version Museum",
+        "url": "https://www.versionmuseum.com/history-of/adobe-photoshop"
+      },
+      {
+        "title": "A Brief History of Photoshop and How It Changed the World - Rapid Photo",
+        "url": "https://rapidphoto.app/blog/history-of-photoshop/"
+      },
+      {
+        "title": "All you need to know about Photoshop | A and M Education",
+        "url": "https://aandmedu.in/all-you-need-to-know-about-photoshop/"
+      },
+      {
+        "title": "Case Study: Adobe's Transition to a Subscription Model | Tapflare",
+        "url": "https://tapflare.com/articles/pdfs/adobe-subscription-model-case-study.pdf"
+      },
+      {
+        "title": "Countering Stryker's Punch: Algorithmically Filling the Black Hole - The Code4Lib Journal",
+        "url": "https://journal.code4lib.org/articles/12542"
+      },
+      {
+        "title": "Exploring the Synergy of Generative Fill in Photoshop and the Creative Design Process Utilising Informal Learning - The Design Society",
+        "url": "https://www.designsociety.org/publication/47201/exploring_the_synergy_of_ai_generative_fill_in_photoshop_and_the_creative_design_process_utilising_informal_learning"
+      },
+      {
+        "title": "Adobe Photoshop on desktop release notes",
+        "url": "https://helpx.adobe.com/photoshop/desktop/whats-new/photoshop-on-desktop-release-notes.html"
+      },
+      {
+        "title": "How Adobe Photoshop Has Changed the History of Photography - TrickyPhotoshop",
+        "url": "https://tricky-photoshop.com/misc/how-adobe-photoshop-has-changed-the-history-of-photography-16724/"
+      }
+    ],
+    "slug": "episode-03-photoshop-from-darkrooms-to-generative-fill",
+    "youtube_url": "https://www.youtube.com/shorts/YJf1v1lxEhc",
+    "art": "episodes/art/episode-03.png"
+  },
+  {
+    "number": 2,
+    "patreon_url": "https://www.patreon.com/ZeldaReySkywalker/posts/sophisticated-of-162771918",
+    "member_release": "2026-07-04 08:00:00-07:00",
+    "public_release": "2026-07-06 08:00:00-07:00",
+    "exclusive": false,
+    "title": "The Sophisticated Architectural Matrix of Genesis",
+    "description": "Genesis is often treated as a beginning, but this episode treats it as an intricate architecture of text, transmission, commentary, translation, and literary design. Mira and Theo move between rabbinic commentary, modern literary analysis, manuscript traditions, chiasmus, and translation debates to ask how the book's structure carries meaning across time. Created with Gemini Notebook.",
+    "sources": [
+      {
+        "title": "Bereshit Rabbah | Sefaria Library",
+        "url": "https://www.sefaria.org/Bereshit_Rabbah"
+      },
+      {
+        "title": "Genesis Translation and Commentary / Robert Alter",
+        "url": "https://www.staff.ces.funai.edu.ng/papersCollection/Resources/HomePages/genesis_translation_and_commentary.pdf"
+      },
+      {
+        "title": "Exegesis of Genesis - Asbury Theological Seminary",
+        "url": "https://place.asburyseminary.edu/cgi/viewcontent.cgi?article=4174&context=syllabi"
+      },
+      {
+        "title": "Ramban on Genesis | Sefaria Library",
+        "url": "https://www.sefaria.org/Ramban_on_Genesis"
+      },
+      {
+        "title": "Genesis and Exodus - Reformed Theological Seminary",
+        "url": "https://cdn.rts.edu/wp-content/uploads/2019/08/2009_01_2OT711_Genesis_and_Exodus.pdf"
+      },
+      {
+        "title": "Literary Analysis (Genesis) - Academia.edu",
+        "url": "https://www.academia.edu/3787216/Literary_Analysis_Genesis_"
+      },
+      {
+        "title": "The Theory of Evolution - A Jewish Perspective - Rambam Maimonides Medical Journal",
+        "url": "https://www.rmmj.org.il/userimages/9/0/PublishFiles/9Article.pdf"
+      },
+      {
+        "title": "Rashi on the Torah: What Kind of Commentary Is It? - TheTorah.com",
+        "url": "https://www.thetorah.com/article/rashi-on-the-torah-what-kind-of-commentary-is-it"
+      },
+      {
+        "title": "Chiasmus in the Book of Genesis - BYU ScholarsArchive",
+        "url": "https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=5113&context=byusq"
+      },
+      {
+        "title": "The Theology of the Book of Genesis - Cambridge University Press",
+        "url": "https://assets.cambridge.org/97805216/85382/frontmatter/9780521685382_frontmatter.pdf"
+      },
+      {
+        "title": "The Biblical Qumran Scrolls - Eugene Ulrich",
+        "url": "https://archive.org/download/TheBiblicalQumranScrolls/61301866-The-Biblical-Qumran-Scrolls-Eugene-Charles-Ulrich.pdf"
+      },
+      {
+        "title": "Septuagint vs. Masoretic: Which Is More Authentic?",
+        "url": "https://stjohnpanamacity.church/wp-content/uploads/Septuagint-vs.-Masoretic.pdf"
+      },
+      {
+        "title": "Documentary hypothesis - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Documentary_hypothesis"
+      },
+      {
+        "title": "The Genre, Historical Context, and Purpose of Genesis 1-11 - Resurrecting Orthodoxy",
+        "url": "https://www.joeledmundanderson.com/the-genre-historical-context-and-purpose-of-genesis-1-11/"
+      },
+      {
+        "title": "Rethinking Genesis 1: How Translators Changed the First Verse | Genesis Analysis Ep. 1",
+        "url": "https://www.youtube.com/results?search_query=Rethinking+Genesis+1+How+Translators+Changed+the+First+Verse"
+      }
+    ],
+    "slug": "episode-02-the-sophisticated-architectural-matrix-of-genesis",
+    "youtube_url": "https://www.youtube.com/shorts/zx8nX8PuVso",
+    "art": "episodes/art/episode-02.png"
+  },
+  {
+    "number": 1,
+    "patreon_url": "https://www.patreon.com/ZeldaReySkywalker/posts/how-physics-and-162770841",
+    "member_release": "2026-07-03 08:00:00-07:00",
+    "public_release": "2026-07-03 08:00:00-07:00",
+    "exclusive": false,
+    "title": "How Physics and Railroads Built the Circus",
+    "description": "How did a circular horse ring, rail logistics, clown traditions, and three-ring staging turn circus into a portable technology of spectacle? Mira and Theo follow Philip Astley's ring, Joseph Grimaldi's whiteface legacy, Dan Rice's political clowning, Barnum & Bailey's scale, and the railroad systems that made the American circus sprawl possible. Created with Gemini Notebook.",
+    "sources": [
+      {
+        "title": "The story of circus - V&A",
+        "url": "https://www.vam.ac.uk/articles/the-story-of-circus"
+      },
+      {
+        "title": "Circus clown - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Circus_clown"
+      },
+      {
+        "title": "Joseph Grimaldi: King of the clowns | London Museum",
+        "url": "https://www.londonmuseum.org.uk/collections/london-stories/joseph-grimaldi-king-clowns/"
+      },
+      {
+        "title": "History of Clown - iClown",
+        "url": "https://i-clown.com/history-of-clown/"
+      },
+      {
+        "title": "Dan Rice - The Circus Ring of Fame",
+        "url": "https://www.circusringoffame.org/inductees/dan-rice/"
+      },
+      {
+        "title": "Why Does a Circus Have Three Rings? | The Children's Museum of Indianapolis",
+        "url": "https://www.childrensmuseum.org/blog/why-does-circus-have-three-rings"
+      },
+      {
+        "title": "Barnum and Bailey Circus history and Photos",
+        "url": "https://www.m.circusesandsideshows.com/circuses/barnum-bailey-circus.html"
+      },
+      {
+        "title": "Reconstruction, Railroads, and Race (Chapter 2) - The Cambridge Companion to the Circus",
+        "url": "https://www.cambridge.org/core/books/abs/cambridge-companion-to-the-circus/reconstruction-railroads-and-race/2FA5CD8D754984B0D53C946D26569748"
+      },
+      {
+        "title": "The American Circus in All Its Glory | National Endowment for the Humanities",
+        "url": "https://www.neh.gov/article/american-circus-all-its-glory"
+      },
+      {
+        "title": "It's a Three-Ring Circus: How Morally Educative Practices Are Undermined by Institutions - Cambridge University Press & Assessment",
+        "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/4E1E2C3A0A7430DB5B9CC009812E2541/S1052150X24000010a.pdf/its_a_threering_circus_how_morally_educative_practices_are_undermined_by_institutions.pdf"
+      }
+    ],
+    "slug": "episode-01-how-physics-and-railroads-built-the-circus",
+    "youtube_url": "https://www.youtube.com/shorts/tuwygTciYks",
+    "art": "episodes/art/episode-01.png"
+  }
+]

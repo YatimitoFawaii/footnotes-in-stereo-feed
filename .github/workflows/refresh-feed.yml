@@ -21,7 +21,9 @@ jobs:
           sudo apt-get update -qq
           sudo apt-get install --yes ffmpeg
       - name: Rebuild feed mirror
-        run: python scripts/build_feed.py
+        run: |
+          python scripts/build_feed.py
+          python scripts/build_site.py
       - name: Commit refreshed feed
         run: |
           git config user.name "github-actions[bot]"
