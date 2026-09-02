@@ -1,5 +1,43 @@
 [
   {
+    "number": 14,
+    "patreon_url": "https://www.patreon.com/ZeldaReySkywalker/posts/accidental-birth-164944160",
+    "member_release": "2026-09-02 08:00:00-07:00",
+    "public_release": "2026-09-02 08:00:00-07:00",
+    "exclusive": false,
+    "title": "The Accidental Birth of the Cruise Ship",
+    "description": "Cruising did not begin as a floating theme park. Mira and Theo trace how underused ocean liners, Albert Ballin's off-season experiment, the Prinzessin Victoria Luise, steamship competition, Caribbean leisure routes, and modern cruise corporations turned sea travel from transportation into a designed vacation system. Created with Gemini Notebook. The conversation and voices in this episode were generated with Gemini Notebook.",
+    "sources": [
+      {
+        "title": "About - Norwegian Cruise Line Holdings Ltd.",
+        "url": "https://www.nclhltd.com/about"
+      },
+      {
+        "title": "Albert Ballin and Hapag PDF - Hapag-Lloyd",
+        "url": "https://www.hapag-lloyd.com/content/dam/website/downloads/pdf/Brochure_Albert_Ballin_and_Hapag_5_2025.pdf"
+      },
+      {
+        "title": "Royal Caribbean Group",
+        "url": "https://www.royalcaribbeangroup.com/"
+      },
+      {
+        "title": "Sea Travel and Leisure | Encyclopedia.com",
+        "url": "https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/sea-travel-and-leisure"
+      },
+      {
+        "title": "The First Cruise Vessel, S.S. Prinzessin Victoria (1900) | Port Economics, Management and Policy",
+        "url": "https://porteconomicsmanagement.org/pemp/contents/part7_1/ports-and-cruise-shipping/the-first-ever-cruise-vessel-s-s-prinzessin-victoria-1900/"
+      },
+      {
+        "title": "The History of the World's First Cruise Ship Built Solely for Luxurious Travel | Smithsonian Magazine",
+        "url": "https://www.smithsonianmag.com/history/history-worlds-first-cruise-ship-built-solely-luxurious-travel-180978254/"
+      }
+    ],
+    "slug": "episode-14-the-accidental-birth-of-the-cruise-ship",
+    "youtube_url": "",
+    "art": "art/cover.jpg"
+  },
+  {
     "number": 13,
     "patreon_url": "https://www.patreon.com/ZeldaReySkywalker/posts/163730548",
     "member_release": "2026-08-28 00:00:00-07:00",
