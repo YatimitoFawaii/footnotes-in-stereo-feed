@@ -1,5 +1,59 @@
 [
   {
+    "number": 15,
+    "patreon_url": "https://www.patreon.com/ZeldaReySkywalker/posts/global-gender-to-164949307",
+    "member_release": "2026-09-04 08:00:00-07:00",
+    "public_release": null,
+    "exclusive": true,
+    "title": "Global Gender Variance from Hijras to Stonewall",
+    "description": "This episode follows transgender and gender-variant history through archives, culturally specific third-gender roles, Stonewall-era activism, Sylvia Rivera, Marsha P. Johnson, STAR, and the problem of reading older records with modern identity language. Mira and Theo keep the history global without flattening the people, places, and terms that make it specific. Created with Gemini Notebook. The conversation and voices in this episode were generated with Gemini Notebook.",
+    "sources": [
+      {
+        "title": "\"Hell Hath No Fury like a Drag Queen Scorned\": Sylvia Rivera's Activism, Resistance, and Resilience | OutHistory",
+        "url": "https://outhistory.org/exhibits/show/tgi-bios/sylvia-rivera"
+      },
+      {
+        "title": "Award-winning Digital Transgender Archive makes often hidden yet sprawling trans history accessible | Northeastern University",
+        "url": "https://cssh.northeastern.edu/award-winning-digital-transgender-archive-makes-often-hidden-yet-sprawling-trans-history-accessible/"
+      },
+      {
+        "title": "Gathering History: The Digital Transgender Archive | American Experience | PBS",
+        "url": "https://www.pbs.org/wgbh/americanexperience/features/gathering-history-digital-transgender-archive/"
+      },
+      {
+        "title": "Stonewall National Monument Cultural Landscape Inventory PDF | National Park Service",
+        "url": "https://parkplanning.nps.gov/showFile.cfm?projectID=75123&sfid=311315"
+      },
+      {
+        "title": "Marsha \"Pay it no Mind\" Johnson | OutHistory",
+        "url": "https://outhistory.org/exhibits/show/tgi-bios/marsha-p-johnson"
+      },
+      {
+        "title": "Gay Liberation in New York City, 1969-1973: Gay Liberation Front Page One | OutHistory",
+        "url": "https://outhistory.org/exhibits/show/gay-liberation-in-new-york-cit/glf/pg-1"
+      },
+      {
+        "title": "Gay Liberation in New York City, 1969-1973: STAR Page One | OutHistory",
+        "url": "https://outhistory.org/exhibits/show/gay-liberation-in-new-york-cit/star/pg-1"
+      },
+      {
+        "title": "Stonewall National Monument Cultural Landscape | National Park Service",
+        "url": "https://www.nps.gov/articles/000/stonewall-national-monument-landscape-976163.htm"
+      },
+      {
+        "title": "The Third Gender and Hijras | Religion and Public Life, Harvard Divinity School",
+        "url": "https://rpl.hds.harvard.edu/religion-context/case-studies/gender/third-gender-and-hijras"
+      },
+      {
+        "title": "Marsha P. Johnson & Sylvia Rivera Collection | Digital Transgender Archive",
+        "url": "https://www.digitaltransgenderarchive.net/col/j96020977"
+      }
+    ],
+    "slug": "episode-15-global-gender-variance-from-hijras-to-stonewall",
+    "youtube_url": "",
+    "art": "art/cover.jpg"
+  },
+  {
     "number": 14,
     "patreon_url": "https://www.patreon.com/ZeldaReySkywalker/posts/accidental-birth-164944160",
     "member_release": "2026-09-02 08:00:00-07:00",
