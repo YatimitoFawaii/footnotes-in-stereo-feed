@@ -1,0 +1,407 @@
+You know that feeling when you're staring at a perfectly edited image online and you
+just catch yourself wondering what's actually real and what's just pixel?
+Oh, yeah, absolutely.
+It's like a daily occurrence at this point.
+Right.
+Well, welcome to the deep dive.
+Today we are unpacking the sweeping history and the honestly mind bending
+future of Adobe Photoshop.
+It's quite a story.
+It really is.
+We've got a great stack of sources for this one, including, you know, historical
+accounts, software evolution timelines, some amazing vintage software demos and
+recent investigations into the workflow values of modern creative professionals.
+There's a lot of ground to cover.
+There is.
+And our mission for this deep drive is to trace how image editing transformed from
+this painstaking physical craft in a chemical darkroom to digital work around
+and finally to, well, an AI powered co-pilot.
+Yeah.
+And we really need to understand how this massive shift is impacting the pride, the
+creativity and just the values of the people sitting behind the screen.
+Exactly.
+Okay, let's unpack this.
+We have to start at the physical roots, right?
+Yeah, because to really grasp the gravity of an artificial intelligence generating a
+cityscape from a text prompt, we have to look backward.
+I mean, we have to understand the intense physical reality of the craft that was
+eventually digitized long before computers entered the studio.
+Editing was a highly skilled, incredibly toxic chemical process happening in
+dark rooms.
+Photographers spent, you know, hours bathed in the glow of red safe lights.
+Smelling all those chemicals.
+Oh, exactly.
+Just manually manipulating how photons interacted with the silver halides that
+were coated on photographic paper.
+And the terms we still use today, like dodging and burning, those weren't just
+software metaphors, they were intense physical actions, correct?
+Very physical.
+So if a photographer had a print and wanted to lighten a shadowy area, they would use
+a technique called dodging.
+How did that actually work?
+Well, they would take a piece of cardboard on a thin wire and literally wave it over
+the paper while the enlarger light was shining down.
+By physically blocking the light from hitting a specific spot, the chemicals in
+that area would react less, leaving it lighter on the final print.
+Oh, wow.
+Yeah, and conversely, if they wanted to darken an overexposed sky, they would do
+the opposite, which was called burning.
+They'd use a piece of cardboard with a small hole in it to funnel extra light onto
+just one specific patch of the paper.
+Man, that sounds like an incredibly unforgiving workflow.
+I mean, you make a test strip, you guess how many seconds to wave the cardboard over
+the paper, you drop it in the developer bath and you just wait.
+And if you mess up.
+Right.
+If you expose it for one second too long, you can't just hit command Z.
+You throw the paper in the trash, turn the enlarger back on and start the entire
+process completely from scratch.
+It demanded a massive amount of patience and honestly, material waste to achieve
+mastery, but the bizarre irony of this whole story is that the digital software
+that replaced all of this intensive labor didn't originate from some grand
+corporate master plan to revolutionize photography.
+No, it came from something much more relatable.
+Right.
+It owes its existence to a very mundane human habit, academic procrastination.
+I love this part.
+So the year is 1987 and we have a PhD student at the University of Michigan
+named Thomas Knoll, and he is supposed to be writing his heavy academic dissertation
+on digital image processing, but he didn't want to know as he later freely admitted.
+He absolutely despised writing papers, a feeling known to graduate students everywhere.
+I'm sure exactly.
+So he has this Macintosh plus computer sitting on his desk and at the time that
+machine featured a stark monochrome monitor.
+It could only display pixels that were purely black or purely white.
+There was absolutely zero capability to show the smooth, nuanced transitions of grayscale.
+Right.
+It was just on or off.
+Yeah.
+And instead of writing his thesis, he gets annoyed by this limitation.
+So he writes a small personal workaround program called display.
+He essentially figured out a way to force the machine to simulate grayscale by writing
+an algorithm that rapidly diddered the black and white pixels, turning them on and off
+in specific patterns to trick the human eye into perceiving shades of gray.
+Yes.
+And I think this is like the equivalent of avoiding your homework by deciding you
+absolutely need to wash the dishes, but in the process of scrubbing a plate, you
+accidentally invent the modern mechanical dishwasher.
+The analogy holds up perfectly, especially considering what happened next, because display
+likely would have just remained a forgotten grayscale hack on a floppy disk, if not for
+his brother, John Knoll.
+And John had a pretty interesting job, right?
+He did.
+John was working at Industrial Light and Magic, which was George Lucas's visual
+effects studio.
+He saw what his brother had built to avoid writing his paper and immediately
+recognized the commercial potential.
+Of course he did, working in film.
+Exactly.
+He pushed Thomas to stop treating these scattered image utilities as a distraction
+and combine them into a single cohesive application.
+And what's fascinating here is how they translated their father's physical basement
+darkroom techniques into digital sliders.
+Wait, their dad was a photographer?
+Well, he was a nuclear engineering professor, actually.
+But his deep passion was amateur photography.
+He built a dark room, the family basement, and Thomas and John spent their childhoods
+down there learning those exact chemical processes we talked about earlier.
+Oh, that makes so much sense.
+Right.
+So when it came time to build the digital interface, they literally translated their
+father's physical tools into the software.
+If you open Photoshop today, look at the tool panel.
+The dodging tool icon looks like a small physical paddle or spoon on a wire.
+Oh my gosh, it does.
+And the burning tool icon looks like a human hand curled into an O shape to let a narrow
+beam of light through.
+Those aren't abstract text symbols.
+They are literal digital monuments to the physical tools their father used to manipulate
+light.
+That is incredible.
+Mimicking physical tools in a digital space is brilliant for getting people to adopt it.
+But paradoxically, placing those tools on a 1990s desktop created a completely new kind of
+torture for the user.
+Oh, absolutely.
+Before we get into the torture, how did they actually prove to executives that this thing
+worked?
+I mean, consumer digital cameras didn't even exist yet.
+Well, they needed a demonstration image, something compelling enough to sell the concept.
+So Thomas Knoll took a printed photograph of his girlfriend, Jennifer, who later became his
+wife, sitting on a beach in Bora Bora, the famous Jennifer in Paradise photo.
+Yes, he managed to digitize this photo and he took this file into Adobe headquarters,
+booted up the software and proceeded to just wow the executives by digitally isolating parts of the
+beach, cloning pixels to remove background elements and manipulating the scenery right in
+front of their eyes.
+It must have looked like pure magic to them.
+It really did.
+So Adobe sees the magic trick.
+They buy the rights and in February 1990, Photoshop 1.0 ships to the world.
+But we have to ground you, the listener, in the reality of what version 1.0 actually felt like to
+use because the limitations were staggering.
+It shipped on a single 800 kilobyte floppy disk and to even get it to run without crashing, your
+computer needed 64 megabytes of RAM, which sounds like nothing today.
+Right today, your smartphone has thousands of times more memory than that.
+But in 1990, the average personal computer shipped with maybe one or two megabytes of RAM.
+Finding a machine with 64 megabytes meant you were sitting in front of a vastly expensive
+cutting edge workstation.
+And even if you had the hardware, the software itself was brutal, like layers, the entire
+foundational concept of modern graphic design where you stack elements on top of each other
+independently.
+They did not exist.
+Not at all.
+Layers wouldn't arrive until version 3.0 in 1994.
+Everything in version 1.0 happened on a single flat destructible canvas.
+And you had exactly one level of undo.
+Just one.
+If you painted a brushstroke and hated it, you could hit undo.
+But if you painted two brushstrokes, that first one was permanently baked into the image.
+Your only escape hatch was to abandon your progress and revert to the last saved version of
+the entire file.
+The absolute nightmare scenario, though, was the text tool.
+If you wanted to add typography to a poster, you couldn't just click on the canvas and start
+typing.
+You had to open a separate blank dialog box, a completely disconnected box.
+Yeah.
+And you typed your words blindly into this box, took a wild guess at the font size, guessed the
+spacing and hit OK.
+The software would then drop your text onto the image as a floating selection of pixels.
+And this brings us to the terrifying golden rule of early Photoshop de-selecting is deaf.
+The rasterization process was entirely unforgiving.
+If you misspelled a word or you dropped the text a quarter of an inch too far to the left and your
+finger slipped and you clicked away, de-selecting that floating text, those black text
+pixels permanently replaced the image pixels beneath them.
+They refused forever.
+You couldn't double click to edit the spelling.
+You couldn't drag it over.
+You just ruined the entire image.
+So I have to push back on the business logic here.
+If the software was this stressful, if you had one undo, no layers, de-selecting is death, and you
+had to buy a massively expensive computer just to run it, why on earth was anyone dropping
+$895 to buy this box of floppy disks?
+Because you have to measure it against the agonizing alternatives of the era.
+Before this software, if a design agency needed to do professional photo retouching, color
+correction, or translate an image from RGB light into CMYK ink for a magazine printer,
+personal computers were completely useless.
+What did they use instead?
+They had to create physical film separations or they had to rent time on machines called
+Cytex workstations.
+These were proprietary computers the size of refrigerators attached to massive mechanical
+drum scanners.
+What was the hourly rate to rent a refrigerator sized drum scanner?
+Upwards of $300 an hour.
+Oh, wow.
+Okay, that fundamentally changes the perspective.
+Suddenly, $895 is a bargain.
+It was a revolution.
+It was the quintessential killer app.
+It was a piece of software so financially beneficial to an agency's bottom line that it
+justified the cost of upgrading all their studio hardware.
+It effectively democratized high end image manipulation, pulling it out of those specialized
+Cytex labs and putting it directly onto the designer's desk.
+Okay, so we travel from that era of incredibly manual, stressful pixel pushing across three
+decades.
+The software balloons from roughly a 100,000 lines of code to over 10 million lines today.
+And as the code base grows, the fundamental mechanism of how we edit changes.
+Completely changes.
+We transition from manually manipulating existing pixels to relying on algorithmic
+prediction.
+We go from being an editor to becoming a director.
+And here's where it gets really interesting because we're talking about the massive leap to
+generative AI.
+The technological leap is staggering when you break it down.
+In the early days, we relied on tools like the magic wand, which just used basic math to look
+for contrast and select neighboring pixels of similar color values.
+Right.
+It was pretty dumb.
+Very basic.
+By 2010, we saw the introduction of content aware fill where the algorithm became slightly
+smarter.
+It could analyze the texture pattern surrounding an object you wanted to remove and
+mathematically patch the hole with existing textures from the same image.
+But today with generative AI, we aren't patching pixels at all.
+We are predicting entirely new ones.
+We are talking about tools powered by Adobe's AI engine, specifically the Firefly models
+and a feature called generative fill.
+Like if a photographer shoots a vertical portrait of a model, but the client suddenly
+decides they need a horizontal banner for a website, the photographer doesn't have to
+rebuild the set and reshoot.
+They just expand the digital canvas.
+Exactly.
+They type a text prompt and the AI hallucinate the rest in the room.
+But how is it actually doing that because it isn't just stretching the background, right?
+No, not at all.
+It relies on diffusion models operating in what computer scientists call a latent space.
+The AI has been trained on hundreds of millions of images, learning the statistical
+relationships between visual concepts.
+So it understands what things are supposed to look like.
+Right.
+It knows how light falls across a leather chair.
+It knows the architectural perspective of a window.
+When you ask it to expand the room, it starts with a canvas of pure digital static random noise.
+Then over dozens of microscopic steps, it denoises that static, organizing the pixels until
+they align with its mathematical understanding of what a room should look like.
+And it perfectly matches the lighting and perspective of your original photo.
+Perfectly.
+You can highlight a power line and type remove or highlight an empty patch of grass and type
+add a golden retriever.
+And the diffusion model just weaves the dog into the scene in seconds, complete with accurate
+shadows.
+And if we connect this to the bigger picture, the mechanism of how those models are trained
+brings up a massive point of contention in the tech world right now.
+Yeah, the data safety angle.
+Exactly.
+Many popular AI image generators simply scrape the open Internet, absorbing billions of
+copyrighted paintings, photographs and illustrations without the consent or compensation of the
+original artists.
+Adobe recognized the legal and ethical liability there, particularly for enterprise clients.
+Because companies don't want to get sued.
+Right.
+So their Firefly models are trained almost exclusively on professional grade, licensed images
+from their own Adobe Stock Library, along with openly licensed and public domain content.
+Which makes the output commercially safe.
+An advertising agency can use generative fill without the lingering fear that the AI just plagiarized the
+background from a copyrighted Disney film, inviting a massive intellectual property lawsuit.
+Precisely.
+It removes the legal friction from the professional workflow.
+But removing friction brings us to the core conflict of this entire journey.
+I mean, we understand the technological leap from a toxic chemical bath to a text prompt.
+So what does this all mean for the people actually doing the work?
+The psychological toll is very real.
+Researchers are pointing out some intense internal conflicts among the creative professionals using these
+tools every single day.
+What kind of conflicts?
+Well, the academic term for this phenomenon is value tensions.
+A value tension occurs when a disruptive new technology fiercely supports one of your deeply held
+professional values, but simultaneously crushes another.
+In the design world right now, the most glaring tension is between productivity and pride.
+Well, the productivity boost is mathematically undeniable.
+We are seeing firsthand accounts from professional retouchers who state that generative fill has literally
+turned a grueling 10 hour work day into a breezy two hour work day.
+It's massive for efficiency.
+They are increasing their profit margins because they are no longer losing hours of their life
+painstakingly using the clone stamp tool to manually rebuild a brick wall behind a removed subject.
+But let me push back a bit here.
+Doesn't this democratization ultimately elevate the art form?
+In what way?
+Well, if you dramatically lower the barrier to entry so that someone doesn't need to spend 10 years
+memorizing keyboard shortcuts and Bezier curve mechanics, doesn't that free the human mind to focus
+purely on creative vision rather than getting bogged down in the tedious execution?
+It certainly lowers the barrier for ideation, but for the dedicated professional, the complete
+elimination of friction cheapens the resulting craft.
+This introduces a profound psychological dissonance, primarily seen in the loss of what
+phenomenological philosophy calls the lived body experience.
+OK, break that concept down for us because it feels central to why artists are so frustrated right now.
+What does the lived body actually mean in the context of sitting at a computer?
+Phenomenology argues that human consciousness and our perception of the world are entirely rooted in
+our physical form, our bodies interacting with the environment.
+OK.
+So if an art director needs a campaign set in a dense rainforest, they can now type rainforest canopy at
+dawn into a prompt box and receive a photorealistic stunning image in five seconds.
+But if the same director travels to an actual rainforest for a location shoot, they experience the
+oppressive humidity, they smell the decaying vegetation, they feel the mud on their boots.
+They watch how the ambient light physically strikes the camera lens.
+Exactly. That lived sensory experience provides a wellspring of authentic inspiration and emotional
+connection to the work. Typing a sterile text prompt bypasses the lived experience entirely.
+It essentially severs the final piece of artwork from its physical anchor in the real world.
+It is the difference between reading the chemical breakdown of a meal on a spreadsheet versus
+actually tasting the food.
+That's a perfect way to put it.
+And the second major tension is the mourning of home skills.
+For decades, high end retouching was an arduous craft.
+Managing complex lighting scenarios and executing seamless color grading required a deep specialized
+expertise. People spent years learning that.
+And they derived immense self worth from their ability to solve those visual puzzles.
+Now, researchers are interviewing creatives who admit they feel empty when they finish a project
+because in their own words, it's just so easy.
+The underlying anxiety is that as these generative tools become ubiquitous, society will lose its
+ability to distinguish between a prompt and authentic human effort.
+The fear is the devaluation of the human struggle itself.
+And that internal struggle doesn't just stay with the artist sitting at their desk.
+It bleeds out into society at large.
+Because if editing reality is now completely effortless, practically instantaneous and
+visually undetectable, how do we protect the truth of what we see on our screen?
+It's a huge issue.
+Which brings us to the historical precedent of manipulation because the sources have some
+really interesting politically charged examples here.
+And just as a quick note for you listening, we're sharing these examples straight from the
+sources to show how manipulation has been used historically.
+We aren't taking any political asides here or endorsing these views, just impartially
+reporting the history.
+Right. And the weaponization of photography has a long pedigree.
+For instance, the sources detail how Joseph Stalin's regime during the Great Purge used state
+retouchers to literally alter reality.
+Yeah, they would execute political rivals like Nikolai Yezhov or Leon Trotsky and then
+erase them from history entirely.
+Exactly. A team would take an official photograph, sit down with scalpels, airbrushes and
+magnifying glasses and spend days painstakingly scraping a person's likeness off the
+physical negative, artificially extending the background scenery to cover the empty space.
+And on the flip side, the sources contrast this with a German artist named John
+Hartfield. During the rise of the Nazi Party in the 1930s, he pioneered the use of photo
+montage cutting and combining photos as anti-fascist resistance art.
+Yes. To critique the Nazis, he created a famously striking image of Adolf Hitler with an
+X-ray view of his torso depicting him swallowing gold coins and spouting junk.
+Hartfield used physical manipulation not to hide the truth, but to aggressively expose it.
+It proves that the power to alter an image is inherently neutral.
+The morality is dictated entirely by the hands wielding the tool.
+But the terrifying difference today is the velocity in the scale.
+Without a doubt. I mean, what took Stalin's team days to do with a scalpel, a 14 year old
+waiting for the school bus can achieve in three seconds using nothing but a thumb and a
+smartphone screen. And this raises an important question.
+How do we verify reality when the tools of deception are universally accessible?
+The technology sector is attempting to solve this technological problem with a technological
+solution, primarily through an initiative called content credentials.
+Right. I've seen this compared to a nutrition label for digital media.
+What is the actual mechanism making that label secure?
+It relies on an open standard backed by cryptographic hashing.
+The idea is to embed metadata directly into the image file at the moment of creation.
+If you capture a photo with a supported camera or if you alter an image using an AI tool like
+generative fill, a secure digital signature is attached to the file.
+So it travels with the file.
+Exactly. When a user views that image online, they can click a small icon to read the content
+credentials. It shows a verifiable chain of custody.
+Was this captured by a physical lens?
+Was it edited by a human or was it hallucinated by an algorithm?
+Because it uses cryptography, bad actors cannot easily strip that metadata without breaking the
+signature and flagging the image as tampered.
+It is an attempt to force transparency back onto the viewer.
+But even with brilliant cryptographic solutions, implementing algorithmic guardrails in the
+real world is incredibly messy.
+We see this tension clearly in how safety censorship is currently functioning.
+Oh, it's very messy.
+Adobe rightly put strict safety guidelines in place to prevent the software from generating
+deepfakes or illicit explicit content of real people.
+But an algorithm is a blunt instrument, struggles immensely with artistic nuance.
+Those exact same safety guidelines are creating enormous hurdles for legitimate
+professionals. Like fine art painters.
+Right. Artists working with classical nude models or fine art painters trying to extend a
+classical museum piece find their workflows constantly halted by violation warnings.
+The AI cannot reliably distinguish between a malicious deepfake and a digital restoration of a
+Renaissance painting.
+It really highlights the immense difficulty of balancing societal safety with freedom of
+expression when an unfeeling algorithm is the final arbiter of what is appropriate.
+It is an incredibly fragile tightrope.
+It really is. The journey we have taken today is just staggering.
+We started with a PhD student procrastinating by writing an algorithm to dither black and white
+pixels on a tiny monochrome monitor, actively translating his father's basement chemical dark
+room into a digital interface.
+And we've arrived in an era where an AI powerhouse literally forces us to question the
+nature of authenticity, the value of human effort and the very fabric of visual truth.
+It's a remarkable technological transformation.
+But underneath the millions of lines of code and the diffusion models, it remains a deeply
+human story about our relentless desire to shape and control the world we see.
+Absolutely. I want you to hold on to this thought.
+Every single image you scroll past today, every billboard, every political ad, every
+flawless photo in your feed, it is all the culmination of this massive evolution.
+Everything you see has been shaped by choices, choices of what to highlight, what to
+hallucinate and what to erase entirely.
+The tools have evolved from scalpels to algorithms, but the profound power of the image
+remains unchanged.
+So as we wrap up this deep dive, I want to leave you with a final provocative thought to
+mull over as you navigate this highly polished AI-generated reality.
+As algorithms make achieving absolute visual perfection effortless, instantaneous and
+cheap, will human mistakes, physical imperfections and the visible struggle of the
+craft become the new premium standard for art?
+Will we one day value a photograph precisely because it is flawed?
+It's something to think about.
+Thank you for joining us on this deep dive.
+Keep exploring, keep looking closely and always question the digital world around you.

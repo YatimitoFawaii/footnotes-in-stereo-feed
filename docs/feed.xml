@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Footnotes in Stereo</title>
+    <link>https://www.patreon.com/collection/2250512</link>
+    <description>Footnotes in Stereo is a series of conversational research deep dives hosted by Mira Vale and Theo Arlen. Each episode follows a stack of sources into a different corner of culture, technology, art, religion, and history: the arguments, inventions, translations, and practical details that changed how people make meaning. Public episodes arrive Wednesdays, and Patreon subscribers receive an additional bonus episode every Friday. Created with Gemini Notebook. The conversations and voices are generated with Gemini Notebook.</description>
+    <atom:link href="https://yatimitofawaii.github.io/footnotes-in-stereo-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <itunes:owner>
+      <itunes:name>Footnotes in Stereo</itunes:name>
+      <itunes:email>ZeldaReySkywalker+footnotesinstereo@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:type>episodic</itunes:type>
+    <itunes:author>Mira Vale and Theo Arlen</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://yatimitofawaii.github.io/footnotes-in-stereo-feed/art/cover.jpg" />
+    <itunes:category text="Education" />
+    <language>en-US</language>
+    <copyright>2026 Zelda Rey Skywalker</copyright>
+    <pubDate>Sat, 12 Sep 2026 05:44:16 +0000</pubDate>
+    <lastBuildDate>Sat, 12 Sep 2026 05:44:16 +0000</lastBuildDate>
+    <generator>Footnotes in Stereo feed mirror</generator>
+    <image>
+      <url>https://yatimitofawaii.github.io/footnotes-in-stereo-feed/art/cover.jpg</url>
+      <title>Footnotes in Stereo</title>
+      <link>https://www.patreon.com/collection/2250512</link>
+    </image>
+    <itunes:summary>Footnotes in Stereo is a series of conversational research deep dives hosted by Mira Vale and Theo Arlen. Each episode follows a stack of sources into a different corner of culture, technology, art, religion, and history: the arguments, inventions, translations, and practical details that changed how people make meaning. Public episodes arrive Wednesdays, and Patreon subscribers receive an additional bonus episode every Friday. Created with Gemini Notebook. The conversations and voices are generated with Gemini Notebook.</itunes:summary>
+    <itunes:subtitle>Conversational research deep dives with Mira Vale and Theo Arlen.</itunes:subtitle>
+    <item>
+      <title>Why Our Recorded Music Is Melting</title>
+      <link>https://www.patreon.com/ZeldaReySkywalker/posts/why-our-recorded-164949781</link>
+      <itunes:episode>16</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>3151</itunes:duration>
+      <description>Music reproduction is a chain of copies: notation, mechanical instruments, cylinders, discs, tape, CDs, MP3 files, streaming libraries, rights systems, and preservation problems. Mira and Theo follow how each format changed who could hear music, who could sell it, who could copy it, and what survives when the medium decays. Created with Gemini Notebook. The conversation and voices in this episode were generated with Gemini Notebook.
+Sources cited:
+- A Brief History of Music Publishing | Songtrust: https://blog.songtrust.com/brief-history-of-the-music-publishing
+- About This Program | National Recording Preservation Plan | Library of Congress: https://www.loc.gov/programs/national-recording-preservation-plan/about-this-program/
+- Timeline | National Recording Preservation Plan | Library of Congress: https://www.loc.gov/programs/national-recording-preservation-plan/tools-and-resources/historical-background/timeline/
+- Historical Background | National Recording Preservation Plan | Library of Congress: https://www.loc.gov/programs/national-recording-preservation-plan/tools-and-resources/historical-background/
+- History of Recorded Sound | Center for Popular Music: https://popmusic.mtsu.edu/includes-historyofrecordedsound/
+- Preservation of Digitally Recorded Sound | CLIR: https://www.clir.org/pubs/reports/pub106/sound/
+- RIAA Reports: US Recorded Music Annual Revenue Achieves New High of $11.5 Billion in 2025: https://www.riaa.com/riaa-reports-us-recorded-music-annual-revenue-achieves-new-high-of-11-5-billion-in-2025/
+Gemini Notebook still listed three sources as `Just a moment...`; they are not cited above.</description>
+      <enclosure url="https://yatimitofawaii.github.io/footnotes-in-stereo-feed/audio/why-our-recorded-music-is-melting.m4a" length="32820076" type="audio/mp4" />
+      <guid isPermaLink="false">164949781</guid>
+      <pubDate>Wed, 09 Sep 2026 15:00:03 +0000</pubDate>
+      <itunes:summary>Music reproduction is a chain of copies: notation, mechanical instruments, cylinders, discs, tape, CDs, MP3 files, streaming libraries, rights systems, and preservation problems. Mira and Theo follow how each format changed who could hear music, who could sell it, who could copy it, and what survives when the medium decays. Created with Gemini Notebook. The conversation and voices in this episode were generated with Gemini Notebook.
+Sources cited:
+- A Brief History of Music Publishing | Songtrust: https://blog.songtrust.com/brief-history-of-the-music-publishing
+- About This Program | National Recording Preservation Plan | Library of Congress: https://www.loc.gov/programs/national-recording-preservation-plan/about-this-program/
+- Timeline | National Recording Preservation Plan | Library of Congress: https://www.loc.gov/programs/national-recording-preservation-plan/tools-and-resources/historical-background/timeline/
+- Historical Background | National Recording Preservation Plan | Library of Congress: https://www.loc.gov/programs/national-recording-preservation-plan/tools-and-resources/historical-background/
+- History of Recorded Sound | Center for Popular Music: https://popmusic.mtsu.edu/includes-historyofrecordedsound/
+- Preservation of Digitally Recorded Sound | CLIR: https://www.clir.org/pubs/reports/pub106/sound/
+- RIAA Reports: US Recorded Music Annual Revenue Achieves New High of $11.5 Billion in 2025: https://www.riaa.com/riaa-reports-us-recorded-music-annual-revenue-achieves-new-high-of-11-5-billion-in-2025/
+Gemini Notebook still listed three sources as `Just a moment...`; they are not cited above.</itunes:summary>
+      <itunes:subtitle>Music reproduction is a chain of copies: notation, mechanical instruments, cylinders, discs, tape, CDs, MP3 files, streaming libraries, rights systems, and preservation problems. Mira and Theo follow how each format changed who could hear music, who could</itunes:subtitle>
+      <content:encoded>Music reproduction is a chain of copies: notation, mechanical instruments, cylinders, discs, tape, CDs, MP3 files, streaming libraries, rights systems, and preservation problems. Mira and Theo follow how each format changed who could hear music, who could sell it, who could copy it, and what survives when the medium decays. Created with Gemini Notebook. The conversation and voices in this episode were generated with Gemini Notebook.
+Sources cited:
+- A Brief History of Music Publishing | Songtrust: https://blog.songtrust.com/brief-history-of-the-music-publishing
+- About This Program | National Recording Preservation Plan | Library of Congress: https://www.loc.gov/programs/national-recording-preservation-plan/about-this-program/
+- Timeline | National Recording Preservation Plan | Library of Congress: https://www.loc.gov/programs/national-recording-preservation-plan/tools-and-resources/historical-background/timeline/
+- Historical Background | National Recording Preservation Plan | Library of Congress: https://www.loc.gov/programs/national-recording-preservation-plan/tools-and-resources/historical-background/
+- History of Recorded Sound | Center for Popular Music: https://popmusic.mtsu.edu/includes-historyofrecordedsound/
+- Preservation of Digitally Recorded Sound | CLIR: https://www.clir.org/pubs/reports/pub106/sound/
+- RIAA Reports: US Recorded Music Annual Revenue Achieves New High of $11.5 Billion in 2025: https://www.riaa.com/riaa-reports-us-recorded-music-annual-revenue-achieves-new-high-of-11-5-billion-in-2025/
+Gemini Notebook still listed three sources as `Just a moment...`; they are not cited above.</content:encoded>
+      <itunes:author>Mira Vale and Theo Arlen</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Accidental Birth of the Cruise Ship</title>
+      <link>https://www.patreon.com/ZeldaReySkywalker/posts/accidental-birth-164944160</link>
+      <itunes:episode>14</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>3774</itunes:duration>
+      <description>Cruising did not begin as a floating theme park. Mira and Theo trace how underused ocean liners, Albert Ballin's off-season experiment, the Prinzessin Victoria Luise, steamship competition, Caribbean leisure routes, and modern cruise corporations turned sea travel from transportation into a designed vacation system. Created with Gemini Notebook. The conversation and voices in this episode were generated with Gemini Notebook.
+Sources cited:
+- About - Norwegian Cruise Line Holdings Ltd.: https://www.nclhltd.com/about
+- Albert Ballin and Hapag PDF - Hapag-Lloyd: https://www.hapag-lloyd.com/content/dam/website/downloads/pdf/Brochure_Albert_Ballin_and_Hapag_5_2025.pdf
+- Royal Caribbean Group: https://www.royalcaribbeangroup.com/
+- Sea Travel and Leisure | Encyclopedia.com: https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/sea-travel-and-leisure
+- The First Cruise Vessel, S.S. Prinzessin Victoria (1900) | Port Economics, Management and Policy: https://porteconomicsmanagement.org/pemp/contents/part7_1/ports-and-cruise-shipping/the-first-ever-cruise-vessel-s-s-prinzessin-victoria-1900/
+- The History of the World's First Cruise Ship Built Solely for Luxurious Travel | Smithsonian Magazine: https://www.smithsonianmag.com/history/history-worlds-first-cruise-ship-built-solely-luxurious-travel-180978254/
+Gemini Notebook also listed one source as `Attention Required! | Cloudflare`; it is not cited above.</description>
+      <enclosure url="https://yatimitofawaii.github.io/footnotes-in-stereo-feed/audio/the-accidental-birth-of-the-cruise-ship.m4a" length="39255182" type="audio/mp4" />
+      <guid isPermaLink="false">164944160</guid>
+      <pubDate>Wed, 02 Sep 2026 15:00:04 +0000</pubDate>
+      <itunes:summary>Cruising did not begin as a floating theme park. Mira and Theo trace how underused ocean liners, Albert Ballin's off-season experiment, the Prinzessin Victoria Luise, steamship competition, Caribbean leisure routes, and modern cruise corporations turned sea travel from transportation into a designed vacation system. Created with Gemini Notebook. The conversation and voices in this episode were generated with Gemini Notebook.
+Sources cited:
+- About - Norwegian Cruise Line Holdings Ltd.: https://www.nclhltd.com/about
+- Albert Ballin and Hapag PDF - Hapag-Lloyd: https://www.hapag-lloyd.com/content/dam/website/downloads/pdf/Brochure_Albert_Ballin_and_Hapag_5_2025.pdf
+- Royal Caribbean Group: https://www.royalcaribbeangroup.com/
+- Sea Travel and Leisure | Encyclopedia.com: https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/sea-travel-and-leisure
+- The First Cruise Vessel, S.S. Prinzessin Victoria (1900) | Port Economics, Management and Policy: https://porteconomicsmanagement.org/pemp/contents/part7_1/ports-and-cruise-shipping/the-first-ever-cruise-vessel-s-s-prinzessin-victoria-1900/
+- The History of the World's First Cruise Ship Built Solely for Luxurious Travel | Smithsonian Magazine: https://www.smithsonianmag.com/history/history-worlds-first-cruise-ship-built-solely-luxurious-travel-180978254/
+Gemini Notebook also listed one source as `Attention Required! | Cloudflare`; it is not cited above.</itunes:summary>
+      <itunes:subtitle>Cruising did not begin as a floating theme park. Mira and Theo trace how underused ocean liners, Albert Ballin's off-season experiment, the Prinzessin Victoria Luise, steamship competition, Caribbean leisure routes, and modern cruise corporations turned s</itunes:subtitle>
+      <content:encoded>Cruising did not begin as a floating theme park. Mira and Theo trace how underused ocean liners, Albert Ballin's off-season experiment, the Prinzessin Victoria Luise, steamship competition, Caribbean leisure routes, and modern cruise corporations turned sea travel from transportation into a designed vacation system. Created with Gemini Notebook. The conversation and voices in this episode were generated with Gemini Notebook.
+Sources cited:
+- About - Norwegian Cruise Line Holdings Ltd.: https://www.nclhltd.com/about
+- Albert Ballin and Hapag PDF - Hapag-Lloyd: https://www.hapag-lloyd.com/content/dam/website/downloads/pdf/Brochure_Albert_Ballin_and_Hapag_5_2025.pdf
+- Royal Caribbean Group: https://www.royalcaribbeangroup.com/
+- Sea Travel and Leisure | Encyclopedia.com: https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/sea-travel-and-leisure
+- The First Cruise Vessel, S.S. Prinzessin Victoria (1900) | Port Economics, Management and Policy: https://porteconomicsmanagement.org/pemp/contents/part7_1/ports-and-cruise-shipping/the-first-ever-cruise-vessel-s-s-prinzessin-victoria-1900/
+- The History of the World's First Cruise Ship Built Solely for Luxurious Travel | Smithsonian Magazine: https://www.smithsonianmag.com/history/history-worlds-first-cruise-ship-built-solely-luxurious-travel-180978254/
+Gemini Notebook also listed one source as `Attention Required! | Cloudflare`; it is not cited above.</content:encoded>
+      <itunes:author>Mira Vale and Theo Arlen</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>From James Madison to the Football Field</title>
+      <link>https://www.patreon.com/ZeldaReySkywalker/posts/from-james-to-163645380</link>
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2889</itunes:duration>
+      <description>Religion has never been simply absent from American public life, and the law has never treated it as one simple thing. Mira and Theo trace Madison's arguments, the ban on religious tests, the First Amendment, Reynolds, free-exercise disputes, establishment doctrine, and Kennedy v. Bremerton to ask how legal ideas about belief, coercion, equality, and public institutions keep changing. Created with Gemini Notebook. The conversation and voices in this episode were generated with Gemini Notebook.
+Sources cited:
+- James Madison, Memorial and Remonstrance against Religious Assessments - University of Chicago: https://press-pubs.uchicago.edu/founders/documents/amendI_religions43.html
+- Interpretation of Religious Test Clause - Constitution Annotated: https://constitution.congress.gov/browse/essay/artVI-C3-2-2/ALDE_00013639
+- Reynolds v. United States, 98 U.S. 145 (1879) - Library of Congress: https://www.loc.gov/item/usrep098145/
+- Kennedy v. Bremerton School District, 597 U.S. 507 (2022) - Supreme Court of the United States: https://www.supremecourt.gov/opinions/21pdf/21-418_k4l8.pdf</description>
+      <enclosure url="https://yatimitofawaii.github.io/footnotes-in-stereo-feed/audio/from-james-madison-to-the-football-field.m4a" length="30371702" type="audio/mp4" />
+      <guid isPermaLink="false">163645380</guid>
+      <pubDate>Wed, 26 Aug 2026 07:00:05 +0000</pubDate>
+      <itunes:summary>Religion has never been simply absent from American public life, and the law has never treated it as one simple thing. Mira and Theo trace Madison's arguments, the ban on religious tests, the First Amendment, Reynolds, free-exercise disputes, establishment doctrine, and Kennedy v. Bremerton to ask how legal ideas about belief, coercion, equality, and public institutions keep changing. Created with Gemini Notebook. The conversation and voices in this episode were generated with Gemini Notebook.
+Sources cited:
+- James Madison, Memorial and Remonstrance against Religious Assessments - University of Chicago: https://press-pubs.uchicago.edu/founders/documents/amendI_religions43.html
+- Interpretation of Religious Test Clause - Constitution Annotated: https://constitution.congress.gov/browse/essay/artVI-C3-2-2/ALDE_00013639
+- Reynolds v. United States, 98 U.S. 145 (1879) - Library of Congress: https://www.loc.gov/item/usrep098145/
+- Kennedy v. Bremerton School District, 597 U.S. 507 (2022) - Supreme Court of the United States: https://www.supremecourt.gov/opinions/21pdf/21-418_k4l8.pdf</itunes:summary>
+      <itunes:subtitle>Religion has never been simply absent from American public life, and the law has never treated it as one simple thing. Mira and Theo trace Madison's arguments, the ban on religious tests, the First Amendment, Reynolds, free-exercise disputes, establishmen</itunes:subtitle>
+      <content:encoded>Religion has never been simply absent from American public life, and the law has never treated it as one simple thing. Mira and Theo trace Madison's arguments, the ban on religious tests, the First Amendment, Reynolds, free-exercise disputes, establishment doctrine, and Kennedy v. Bremerton to ask how legal ideas about belief, coercion, equality, and public institutions keep changing. Created with Gemini Notebook. The conversation and voices in this episode were generated with Gemini Notebook.
+Sources cited:
+- James Madison, Memorial and Remonstrance against Religious Assessments - University of Chicago: https://press-pubs.uchicago.edu/founders/documents/amendI_religions43.html
+- Interpretation of Religious Test Clause - Constitution Annotated: https://constitution.congress.gov/browse/essay/artVI-C3-2-2/ALDE_00013639
+- Reynolds v. United States, 98 U.S. 145 (1879) - Library of Congress: https://www.loc.gov/item/usrep098145/
+- Kennedy v. Bremerton School District, 597 U.S. 507 (2022) - Supreme Court of the United States: https://www.supremecourt.gov/opinions/21pdf/21-418_k4l8.pdf</content:encoded>
+      <itunes:author>Mira Vale and Theo Arlen</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>How Humanity Maps the Afterlife</title>
+      <link>https://www.patreon.com/ZeldaReySkywalker/posts/how-humanity-163644980</link>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>3028</itunes:duration>
+      <description>What would have to persist for a person to have an afterlife: a soul, a body, a memory, a relationship, or something else entirely? Mira and Theo follow paradise, resurrection, dualism, materialism, divine justice, and the competing maps people have drawn beyond death. Created with NotebookLM.
+
+Sources cited:
+- Afterlife - Stanford Encyclopedia of Philosophy: https://plato.stanford.edu/archives/sum2025/entries/afterlife/
+- Heaven and Hell in Christian Thought - Stanford Encyclopedia of Philosophy: https://plato.stanford.edu/entries/heaven-hell/
+- Hell - Internet Encyclopedia of Philosophy: https://iep.utm.edu/hell/</description>
+      <enclosure url="https://yatimitofawaii.github.io/footnotes-in-stereo-feed/audio/how-humanity-maps-the-afterlife.m4a" length="31793033" type="audio/mp4" />
+      <guid isPermaLink="false">163644980</guid>
+      <pubDate>Fri, 14 Aug 2026 07:00:03 +0000</pubDate>
+      <itunes:summary>What would have to persist for a person to have an afterlife: a soul, a body, a memory, a relationship, or something else entirely? Mira and Theo follow paradise, resurrection, dualism, materialism, divine justice, and the competing maps people have drawn beyond death. Created with NotebookLM.
+
+Sources cited:
+- Afterlife - Stanford Encyclopedia of Philosophy: https://plato.stanford.edu/archives/sum2025/entries/afterlife/
+- Heaven and Hell in Christian Thought - Stanford Encyclopedia of Philosophy: https://plato.stanford.edu/entries/heaven-hell/
+- Hell - Internet Encyclopedia of Philosophy: https://iep.utm.edu/hell/</itunes:summary>
+      <itunes:subtitle>What would have to persist for a person to have an afterlife: a soul, a body, a memory, a relationship, or something else entirely? Mira and Theo follow paradise, resurrection, dualism, materialism, divine justice, and the competing maps people have drawn</itunes:subtitle>
+      <content:encoded>What would have to persist for a person to have an afterlife: a soul, a body, a memory, a relationship, or something else entirely? Mira and Theo follow paradise, resurrection, dualism, materialism, divine justice, and the competing maps people have drawn beyond death. Created with NotebookLM.
+
+Sources cited:
+- Afterlife - Stanford Encyclopedia of Philosophy: https://plato.stanford.edu/archives/sum2025/entries/afterlife/
+- Heaven and Hell in Christian Thought - Stanford Encyclopedia of Philosophy: https://plato.stanford.edu/entries/heaven-hell/
+- Hell - Internet Encyclopedia of Philosophy: https://iep.utm.edu/hell/</content:encoded>
+      <itunes:author>Mira Vale and Theo Arlen</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>How Hell Became a Torture Chamber</title>
+      <link>https://www.patreon.com/ZeldaReySkywalker/posts/how-hell-became-163641314</link>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>3248</itunes:duration>
+      <description>Hell did not arrive in history as one fixed image. Mira and Theo trace the changing vocabulary of Sheol, Hades, Gehenna, judgment, fire, punishment, separation, free will, and reconciliation, asking how an underworld became a moral architecture and why its meanings remain contested. Created with NotebookLM.
+
+Sources cited:
+- Heaven and Hell in Christian Thought - Stanford Encyclopedia of Philosophy: https://plato.stanford.edu/entries/heaven-hell/
+- Hell - Internet Encyclopedia of Philosophy: https://iep.utm.edu/hell/
+- Hell - Encyclopedia.com: https://www.encyclopedia.com/philosophy-and-religion/bible/bible-general/hell</description>
+      <enclosure url="https://yatimitofawaii.github.io/footnotes-in-stereo-feed/audio/how-hell-became-a-torture-chamber.m4a" length="34159284" type="audio/mp4" />
+      <guid isPermaLink="false">163641314</guid>
+      <pubDate>Fri, 07 Aug 2026 07:00:05 +0000</pubDate>
+      <itunes:summary>Hell did not arrive in history as one fixed image. Mira and Theo trace the changing vocabulary of Sheol, Hades, Gehenna, judgment, fire, punishment, separation, free will, and reconciliation, asking how an underworld became a moral architecture and why its meanings remain contested. Created with NotebookLM.
+
+Sources cited:
+- Heaven and Hell in Christian Thought - Stanford Encyclopedia of Philosophy: https://plato.stanford.edu/entries/heaven-hell/
+- Hell - Internet Encyclopedia of Philosophy: https://iep.utm.edu/hell/
+- Hell - Encyclopedia.com: https://www.encyclopedia.com/philosophy-and-religion/bible/bible-general/hell</itunes:summary>
+      <itunes:subtitle>Hell did not arrive in history as one fixed image. Mira and Theo trace the changing vocabulary of Sheol, Hades, Gehenna, judgment, fire, punishment, separation, free will, and reconciliation, asking how an underworld became a moral architecture and why it</itunes:subtitle>
+      <content:encoded>Hell did not arrive in history as one fixed image. Mira and Theo trace the changing vocabulary of Sheol, Hades, Gehenna, judgment, fire, punishment, separation, free will, and reconciliation, asking how an underworld became a moral architecture and why its meanings remain contested. Created with NotebookLM.
+
+Sources cited:
+- Heaven and Hell in Christian Thought - Stanford Encyclopedia of Philosophy: https://plato.stanford.edu/entries/heaven-hell/
+- Hell - Internet Encyclopedia of Philosophy: https://iep.utm.edu/hell/
+- Hell - Encyclopedia.com: https://www.encyclopedia.com/philosophy-and-religion/bible/bible-general/hell</content:encoded>
+      <itunes:author>Mira Vale and Theo Arlen</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>From Music Boxes to Jazz Robots</title>
+      <link>https://www.patreon.com/ZeldaReySkywalker/posts/from-music-boxes-163194512</link>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2629</itunes:duration>
+      <description>Long before playlists and sequencers, machines were already learning how to play: pinned cylinders, music boxes, barrel organs, automata, player pianos, punch rolls, robotic marimbas, and full mechanical ensembles. Mira and Theo follow the strange, beautiful history of music that performs itself, from domestic parlor technology to modern robotic musicianship. Created with NotebookLM.
+Sources cited:
+- A History of the Music Box: https://www.themusicboxcompany.com/a-history-of-the-music-box/
+- DIGITIZING NORTH INDIAN MUSIC: Preservation and Extension using Multimodal Sensor Systems, Machine Learning and Robotics - Mistic: https://mistic.mit.edu/projects/digitizing-north-indian-music
+- Interactive Improvisation with a Robotic Marimba Player - Guy Hoffman: https://guyhoffman.com/publications/Hoffman_Interactive_Improvisation_with_a_Robotic_Marimba_Player.pdf
+- Mechanical Music - The Musical Box Society of Great Britain: https://mbsgb.org.uk/mechanical-music/
+- Mechanical organ - Wikipedia: https://en.wikipedia.org/wiki/Mechanical_organ
+- Morris Steinert Collection of Musical Instruments | Yale School of Music: https://music.yale.edu/collections/morris-steinert-collection
+- Pat Metheny: One Man's Band - Profile - All About Jazz: https://www.allaboutjazz.com/pat-metheny-one-mans-band-pat-metheny-by-john-kelman
+- The Biomorphic Automata of the 18th Century. Mechanical Artworks as Objects of Technical Fascination and Epistemological Exhibit: https://journals.openedition.org/miranda/33486
+- Ulysses Pianola | Penn English: https://web.sas.upenn.edu/ulysses-pianola/
+- "This Will Play Your Piano": Automation, Amateur Musicianship, and the Player Piano - Cornell eCommons: https://ecommons.cornell.edu/items/2ade8167-4b7b-4f66-8d95-5792f4674a59</description>
+      <enclosure url="https://yatimitofawaii.github.io/footnotes-in-stereo-feed/audio/from-music-boxes-to-jazz-robots.m4a" length="84582712" type="audio/mp4" />
+      <guid isPermaLink="false">163194512</guid>
+      <pubDate>Fri, 31 Jul 2026 07:00:04 +0000</pubDate>
+      <itunes:summary>Long before playlists and sequencers, machines were already learning how to play: pinned cylinders, music boxes, barrel organs, automata, player pianos, punch rolls, robotic marimbas, and full mechanical ensembles. Mira and Theo follow the strange, beautiful history of music that performs itself, from domestic parlor technology to modern robotic musicianship. Created with NotebookLM.
+Sources cited:
+- A History of the Music Box: https://www.themusicboxcompany.com/a-history-of-the-music-box/
+- DIGITIZING NORTH INDIAN MUSIC: Preservation and Extension using Multimodal Sensor Systems, Machine Learning and Robotics - Mistic: https://mistic.mit.edu/projects/digitizing-north-indian-music
+- Interactive Improvisation with a Robotic Marimba Player - Guy Hoffman: https://guyhoffman.com/publications/Hoffman_Interactive_Improvisation_with_a_Robotic_Marimba_Player.pdf
+- Mechanical Music - The Musical Box Society of Great Britain: https://mbsgb.org.uk/mechanical-music/
+- Mechanical organ - Wikipedia: https://en.wikipedia.org/wiki/Mechanical_organ
+- Morris Steinert Collection of Musical Instruments | Yale School of Music: https://music.yale.edu/collections/morris-steinert-collection
+- Pat Metheny: One Man's Band - Profile - All About Jazz: https://www.allaboutjazz.com/pat-metheny-one-mans-band-pat-metheny-by-john-kelman
+- The Biomorphic Automata of the 18th Century. Mechanical Artworks as Objects of Technical Fascination and Epistemological Exhibit: https://journals.openedition.org/miranda/33486
+- Ulysses Pianola | Penn English: https://web.sas.upenn.edu/ulysses-pianola/
+- "This Will Play Your Piano": Automation, Amateur Musicianship, and the Player Piano - Cornell eCommons: https://ecommons.cornell.edu/items/2ade8167-4b7b-4f66-8d95-5792f4674a59</itunes:summary>
+      <itunes:subtitle>Long before playlists and sequencers, machines were already learning how to play: pinned cylinders, music boxes, barrel organs, automata, player pianos, punch rolls, robotic marimbas, and full mechanical ensembles. Mira and Theo follow the strange, beauti</itunes:subtitle>
+      <content:encoded>Long before playlists and sequencers, machines were already learning how to play: pinned cylinders, music boxes, barrel organs, automata, player pianos, punch rolls, robotic marimbas, and full mechanical ensembles. Mira and Theo follow the strange, beautiful history of music that performs itself, from domestic parlor technology to modern robotic musicianship. Created with NotebookLM.
+Sources cited:
+- A History of the Music Box: https://www.themusicboxcompany.com/a-history-of-the-music-box/
+- DIGITIZING NORTH INDIAN MUSIC: Preservation and Extension using Multimodal Sensor Systems, Machine Learning and Robotics - Mistic: https://mistic.mit.edu/projects/digitizing-north-indian-music
+- Interactive Improvisation with a Robotic Marimba Player - Guy Hoffman: https://guyhoffman.com/publications/Hoffman_Interactive_Improvisation_with_a_Robotic_Marimba_Player.pdf
+- Mechanical Music - The Musical Box Society of Great Britain: https://mbsgb.org.uk/mechanical-music/
+- Mechanical organ - Wikipedia: https://en.wikipedia.org/wiki/Mechanical_organ
+- Morris Steinert Collection of Musical Instruments | Yale School of Music: https://music.yale.edu/collections/morris-steinert-collection
+- Pat Metheny: One Man's Band - Profile - All About Jazz: https://www.allaboutjazz.com/pat-metheny-one-mans-band-pat-metheny-by-john-kelman
+- The Biomorphic Automata of the 18th Century. Mechanical Artworks as Objects of Technical Fascination and Epistemological Exhibit: https://journals.openedition.org/miranda/33486
+- Ulysses Pianola | Penn English: https://web.sas.upenn.edu/ulysses-pianola/
+- "This Will Play Your Piano": Automation, Amateur Musicianship, and the Player Piano - Cornell eCommons: https://ecommons.cornell.edu/items/2ade8167-4b7b-4f66-8d95-5792f4674a59</content:encoded>
+      <itunes:author>Mira Vale and Theo Arlen</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>How the Digital Revolution Rewired Music</title>
+      <link>https://www.patreon.com/ZeldaReySkywalker/posts/how-digital-163191816</link>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>3254</itunes:duration>
+      <description>Recorded music used to move through records, radio, stores, studios, and labels. Then DAWs, MP3s, Napster, iTunes, streaming catalogs, recommendation systems, TikTok, and direct-to-fan tools rearranged the whole circuit. Mira and Theo trace how the internet changed who could make music, who could find it, and who got paid when listening became data. Created with Gemini Notebook.
+
+Sources cited:
+- A&amp;M Records, Inc. v. Napster, Inc., 239 F.3d 1004 (9th Cir. 2001) - Copyright: https://law.justia.com/cases/federal/appellate-courts/F3/239/1004/636740/
+- Digital Performer - Wikipedia: https://en.wikipedia.org/wiki/Digital_Performer
+- Digital audio workstation - Wikipedia: https://en.wikipedia.org/wiki/Digital_audio_workstation
+- HOW THE INTERNET HAS CHANGED THE MUSIC INDUSTRY - Recording Connection: https://recordingconnection.com/reference-library/how-the-internet-has-changed-the-music-industry/
+- Hours after TikTok being Shut Down... - Reddit: https://www.reddit.com/r/Fauxmoi/comments/1i51a11/hours_after_tiktok_being_shut_down_singer_halsey/
+- Music Genome Project - Wikipedia: https://en.wikipedia.org/wiki/Music_Genome_Project
+- The Evolution of the Music Industry in the Digital Age: From Records to Streaming - Clausius Scientific Press: https://www.clausiuspress.com/article/15594.html
+- The Impact of Digital File Sharing on the Music Industry: An Empirical Analysis - RIAA: https://www.riaa.com/wp-content/uploads/2015/09/2012_SSRN-id2132307.pdf
+- The Impact of Technology on the Music Industry - Southern Utah University: https://www.suu.edu/hss/comm/masters/capstone/thesis/brough-r.pdf
+- The Resounding Impact of Napster, Inc. An Analysis of A &amp; M Records, Inc. v. Napster, Inc. - Scholarship @ Claremont: https://scholarship.claremont.edu/cgi/viewcontent.cgi?article=1473&amp;context=cmc_theses</description>
+      <enclosure url="https://yatimitofawaii.github.io/footnotes-in-stereo-feed/audio/how-the-digital-revolution-rewired-music.m4a" length="34310084" type="audio/mp4" />
+      <guid isPermaLink="false">163191816</guid>
+      <pubDate>Fri, 24 Jul 2026 07:00:06 +0000</pubDate>
+      <itunes:summary>Recorded music used to move through records, radio, stores, studios, and labels. Then DAWs, MP3s, Napster, iTunes, streaming catalogs, recommendation systems, TikTok, and direct-to-fan tools rearranged the whole circuit. Mira and Theo trace how the internet changed who could make music, who could find it, and who got paid when listening became data. Created with Gemini Notebook.
+
+Sources cited:
+- A&amp;M Records, Inc. v. Napster, Inc., 239 F.3d 1004 (9th Cir. 2001) - Copyright: https://law.justia.com/cases/federal/appellate-courts/F3/239/1004/636740/
+- Digital Performer - Wikipedia: https://en.wikipedia.org/wiki/Digital_Performer
+- Digital audio workstation - Wikipedia: https://en.wikipedia.org/wiki/Digital_audio_workstation
+- HOW THE INTERNET HAS CHANGED THE MUSIC INDUSTRY - Recording Connection: https://recordingconnection.com/reference-library/how-the-internet-has-changed-the-music-industry/
+- Hours after TikTok being Shut Down... - Reddit: https://www.reddit.com/r/Fauxmoi/comments/1i51a11/hours_after_tiktok_being_shut_down_singer_halsey/
+- Music Genome Project - Wikipedia: https://en.wikipedia.org/wiki/Music_Genome_Project
+- The Evolution of the Music Industry in the Digital Age: From Records to Streaming - Clausius Scientific Press: https://www.clausiuspress.com/article/15594.html
+- The Impact of Digital File Sharing on the Music Industry: An Empirical Analysis - RIAA: https://www.riaa.com/wp-content/uploads/2015/09/2012_SSRN-id2132307.pdf
+- The Impact of Technology on the Music Industry - Southern Utah University: https://www.suu.edu/hss/comm/masters/capstone/thesis/brough-r.pdf
+- The Resounding Impact of Napster, Inc. An Analysis of A &amp; M Records, Inc. v. Napster, Inc. - Scholarship @ Claremont: https://scholarship.claremont.edu/cgi/viewcontent.cgi?article=1473&amp;context=cmc_theses</itunes:summary>
+      <itunes:subtitle>Recorded music used to move through records, radio, stores, studios, and labels. Then DAWs, MP3s, Napster, iTunes, streaming catalogs, recommendation systems, TikTok, and direct-to-fan tools rearranged the whole circuit. Mira and Theo trace how the intern</itunes:subtitle>
+      <content:encoded>Recorded music used to move through records, radio, stores, studios, and labels. Then DAWs, MP3s, Napster, iTunes, streaming catalogs, recommendation systems, TikTok, and direct-to-fan tools rearranged the whole circuit. Mira and Theo trace how the internet changed who could make music, who could find it, and who got paid when listening became data. Created with Gemini Notebook.
+
+Sources cited:
+- A&amp;M Records, Inc. v. Napster, Inc., 239 F.3d 1004 (9th Cir. 2001) - Copyright: https://law.justia.com/cases/federal/appellate-courts/F3/239/1004/636740/
+- Digital Performer - Wikipedia: https://en.wikipedia.org/wiki/Digital_Performer
+- Digital audio workstation - Wikipedia: https://en.wikipedia.org/wiki/Digital_audio_workstation
+- HOW THE INTERNET HAS CHANGED THE MUSIC INDUSTRY - Recording Connection: https://recordingconnection.com/reference-library/how-the-internet-has-changed-the-music-industry/
+- Hours after TikTok being Shut Down... - Reddit: https://www.reddit.com/r/Fauxmoi/comments/1i51a11/hours_after_tiktok_being_shut_down_singer_halsey/
+- Music Genome Project - Wikipedia: https://en.wikipedia.org/wiki/Music_Genome_Project
+- The Evolution of the Music Industry in the Digital Age: From Records to Streaming - Clausius Scientific Press: https://www.clausiuspress.com/article/15594.html
+- The Impact of Digital File Sharing on the Music Industry: An Empirical Analysis - RIAA: https://www.riaa.com/wp-content/uploads/2015/09/2012_SSRN-id2132307.pdf
+- The Impact of Technology on the Music Industry - Southern Utah University: https://www.suu.edu/hss/comm/masters/capstone/thesis/brough-r.pdf
+- The Resounding Impact of Napster, Inc. An Analysis of A &amp; M Records, Inc. v. Napster, Inc. - Scholarship @ Claremont: https://scholarship.claremont.edu/cgi/viewcontent.cgi?article=1473&amp;context=cmc_theses</content:encoded>
+      <itunes:author>Mira Vale and Theo Arlen</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Dada from the Trenches to Internet Memes</title>
+      <link>https://www.patreon.com/ZeldaReySkywalker/posts/dada-from-to-163096965</link>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>3269</itunes:duration>
+      <description>Dada begins as anti-art in the wreckage of the First World War, but it keeps escaping its own moment. Mira and Theo follow Cabaret Voltaire, Hugo Ball, Tristan Tzara, readymades, photomontage, Neo-Dada, punk graphics, classroom provocations, and meme culture to ask how absurdity became a durable modern tool for attacking stale systems of meaning. Created with NotebookLM.
+Sources cited:
+- A brief history of Dada - Christie's: https://www.christies.com/en/stories/a-brief-history-of-dada-2750621118d343b2b011cef2027d3de3
+- Dada Graphic Design: A Guide to the Art of Anti-Art &amp; Rebellion - Mew Design Docs: https://docs.mew.design/blog/dada-design-style/
+- Neo-Dada Movement Overview - The Art Story: https://www.theartstory.org/movement/neo-dada/
+- The Birth of Dada - History Today: https://www.historytoday.com/archive/months-past/birth-dada
+- The Dada And Punk Movements - UKEssays.com: https://www.ukessays.com/essays/music/the-dada-and-punk-movements.php
+- What's the Difference Between Dadaism and Surrealism? - TheCollector: https://www.thecollector.com/whats-the-difference-between-dadaism-and-surrealism/
+- Using Avant-garde Art to Foster Active Learning in the Classroom - SUNY Open Access Repository: https://soar.suny.edu/bitstreams/1a7f6c1d-73f7-4a88-9b3a-b536c72bacbd/download
+- University of Tennessee PDF source captured by NotebookLM: https://voljournals.utk.edu/cgi/viewcontent.cgi?article=2743&amp;context=utk_chanhonoproj
+NotebookLM showed 10 sources for the Dada notebook. One visible source label was only "Just a moment...", so it is not cited here as an article source.</description>
+      <enclosure url="https://yatimitofawaii.github.io/footnotes-in-stereo-feed/audio/dada-from-the-trenches-to-internet-memes.m4a" length="34426631" type="audio/mp4" />
+      <guid isPermaLink="false">163096965</guid>
+      <pubDate>Fri, 17 Jul 2026 16:55:00 +0000</pubDate>
+      <itunes:summary>Dada begins as anti-art in the wreckage of the First World War, but it keeps escaping its own moment. Mira and Theo follow Cabaret Voltaire, Hugo Ball, Tristan Tzara, readymades, photomontage, Neo-Dada, punk graphics, classroom provocations, and meme culture to ask how absurdity became a durable modern tool for attacking stale systems of meaning. Created with NotebookLM.
+Sources cited:
+- A brief history of Dada - Christie's: https://www.christies.com/en/stories/a-brief-history-of-dada-2750621118d343b2b011cef2027d3de3
+- Dada Graphic Design: A Guide to the Art of Anti-Art &amp; Rebellion - Mew Design Docs: https://docs.mew.design/blog/dada-design-style/
+- Neo-Dada Movement Overview - The Art Story: https://www.theartstory.org/movement/neo-dada/
+- The Birth of Dada - History Today: https://www.historytoday.com/archive/months-past/birth-dada
+- The Dada And Punk Movements - UKEssays.com: https://www.ukessays.com/essays/music/the-dada-and-punk-movements.php
+- What's the Difference Between Dadaism and Surrealism? - TheCollector: https://www.thecollector.com/whats-the-difference-between-dadaism-and-surrealism/
+- Using Avant-garde Art to Foster Active Learning in the Classroom - SUNY Open Access Repository: https://soar.suny.edu/bitstreams/1a7f6c1d-73f7-4a88-9b3a-b536c72bacbd/download
+- University of Tennessee PDF source captured by NotebookLM: https://voljournals.utk.edu/cgi/viewcontent.cgi?article=2743&amp;context=utk_chanhonoproj
+NotebookLM showed 10 sources for the Dada notebook. One visible source label was only "Just a moment...", so it is not cited here as an article source.</itunes:summary>
+      <itunes:subtitle>Dada begins as anti-art in the wreckage of the First World War, but it keeps escaping its own moment. Mira and Theo follow Cabaret Voltaire, Hugo Ball, Tristan Tzara, readymades, photomontage, Neo-Dada, punk graphics, classroom provocations, and meme cult</itunes:subtitle>
+      <content:encoded>Dada begins as anti-art in the wreckage of the First World War, but it keeps escaping its own moment. Mira and Theo follow Cabaret Voltaire, Hugo Ball, Tristan Tzara, readymades, photomontage, Neo-Dada, punk graphics, classroom provocations, and meme culture to ask how absurdity became a durable modern tool for attacking stale systems of meaning. Created with NotebookLM.
+Sources cited:
+- A brief history of Dada - Christie's: https://www.christies.com/en/stories/a-brief-history-of-dada-2750621118d343b2b011cef2027d3de3
+- Dada Graphic Design: A Guide to the Art of Anti-Art &amp; Rebellion - Mew Design Docs: https://docs.mew.design/blog/dada-design-style/
+- Neo-Dada Movement Overview - The Art Story: https://www.theartstory.org/movement/neo-dada/
+- The Birth of Dada - History Today: https://www.historytoday.com/archive/months-past/birth-dada
+- The Dada And Punk Movements - UKEssays.com: https://www.ukessays.com/essays/music/the-dada-and-punk-movements.php
+- What's the Difference Between Dadaism and Surrealism? - TheCollector: https://www.thecollector.com/whats-the-difference-between-dadaism-and-surrealism/
+- Using Avant-garde Art to Foster Active Learning in the Classroom - SUNY Open Access Repository: https://soar.suny.edu/bitstreams/1a7f6c1d-73f7-4a88-9b3a-b536c72bacbd/download
+- University of Tennessee PDF source captured by NotebookLM: https://voljournals.utk.edu/cgi/viewcontent.cgi?article=2743&amp;context=utk_chanhonoproj
+NotebookLM showed 10 sources for the Dada notebook. One visible source label was only "Just a moment...", so it is not cited here as an article source.</content:encoded>
+      <itunes:author>Mira Vale and Theo Arlen</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Why Division Is Cheaper Than Unity</title>
+      <link>https://www.patreon.com/ZeldaReySkywalker/posts/why-division-is-162822416</link>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2527</itunes:duration>
+      <description>Culture wars did not begin with social media, but platforms changed the price, speed, and rewards of political conflict. Mira and Theo trace how identity, moral outrage, engagement incentives, misinformation, microtargeting, elections, activism, and polarized media ecosystems can turn disagreement into durable political machinery, while keeping the causal story careful. Created with Gemini Notebook.
+
+Sources cited:
+- 'Network Propaganda' takes a closer look at media and American politics: https://hls.harvard.edu/today/network-propaganda-takes-a-closer-look-at-media-and-american-politics/
+- Algorithm-Driven Identity Politics: Role of Social Media in Polarisation and Mobilisation: https://bcpublication.org/index.php/SSH/article/view/7911
+- Beyond True and False: Fake News and the Digital Epistemic Divide: https://repository.law.umich.edu/mtlr/vol29/iss1/3/
+- How tech platforms fuel U.S. political polarization and what government can do about it - Brookings Institution: https://www.brookings.edu/articles/how-tech-platforms-fuel-u-s-political-polarization-and-what-government-can-do-about-it/
+- Information Fiduciaries and Political Microtargeting: A Legal Framework for Regulating Political Advertising on Digital Platforms: https://scholarlycommons.law.northwestern.edu/cgi/viewcontent.cgi?article=1460&amp;context=nulr
+- Moral Grandstanding in Public Discourse: Status-Seeking Motives as a Potential Explanatory Mechanism in Predicting Conflict: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0223749
+- Political Polarization and Moral Outrage on Social Media: https://digitalcommons.lib.uconn.edu/law_review/454/
+- Social Media Seen as Mostly Good for Democracy Across Many Nations, But U.S. is a Major Outlier: https://www.pewresearch.org/global/2022/12/06/social-media-seen-as-mostly-good-for-democracy-across-many-nations-but-u-s-is-a-major-outlier/
+- The Algorithmic Management of Polarization and Violence on Social Media: https://knightcolumbia.org/content/the-algorithmic-management-of-polarization-and-violence-on-social-media
+- Misinformation exploits outrage to spread online: https://www.science.org/doi/10.1126/science.adl2829
+- Threats to American Democracy Ahead of an Unprecedented Presidential Election - PRRI: https://prri.org/research/threats-to-american-democracy-ahead-of-an-unprecedented-presidential-election/
+- Using AI Agents to Automate Black-Box Audits of Personalization Algorithms at Scale: https://arxiv.org/abs/2606.30801</description>
+      <enclosure url="https://yatimitofawaii.github.io/footnotes-in-stereo-feed/audio/why-division-is-cheaper-than-unity.m4a" length="81313258" type="audio/mp4" />
+      <guid isPermaLink="false">162822416</guid>
+      <pubDate>Sat, 11 Jul 2026 15:00:07 +0000</pubDate>
+      <itunes:summary>Culture wars did not begin with social media, but platforms changed the price, speed, and rewards of political conflict. Mira and Theo trace how identity, moral outrage, engagement incentives, misinformation, microtargeting, elections, activism, and polarized media ecosystems can turn disagreement into durable political machinery, while keeping the causal story careful. Created with Gemini Notebook.
+
+Sources cited:
+- 'Network Propaganda' takes a closer look at media and American politics: https://hls.harvard.edu/today/network-propaganda-takes-a-closer-look-at-media-and-american-politics/
+- Algorithm-Driven Identity Politics: Role of Social Media in Polarisation and Mobilisation: https://bcpublication.org/index.php/SSH/article/view/7911
+- Beyond True and False: Fake News and the Digital Epistemic Divide: https://repository.law.umich.edu/mtlr/vol29/iss1/3/
+- How tech platforms fuel U.S. political polarization and what government can do about it - Brookings Institution: https://www.brookings.edu/articles/how-tech-platforms-fuel-u-s-political-polarization-and-what-government-can-do-about-it/
+- Information Fiduciaries and Political Microtargeting: A Legal Framework for Regulating Political Advertising on Digital Platforms: https://scholarlycommons.law.northwestern.edu/cgi/viewcontent.cgi?article=1460&amp;context=nulr
+- Moral Grandstanding in Public Discourse: Status-Seeking Motives as a Potential Explanatory Mechanism in Predicting Conflict: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0223749
+- Political Polarization and Moral Outrage on Social Media: https://digitalcommons.lib.uconn.edu/law_review/454/
+- Social Media Seen as Mostly Good for Democracy Across Many Nations, But U.S. is a Major Outlier: https://www.pewresearch.org/global/2022/12/06/social-media-seen-as-mostly-good-for-democracy-across-many-nations-but-u-s-is-a-major-outlier/
+- The Algorithmic Management of Polarization and Violence on Social Media: https://knightcolumbia.org/content/the-algorithmic-management-of-polarization-and-violence-on-social-media
+- Misinformation exploits outrage to spread online: https://www.science.org/doi/10.1126/science.adl2829
+- Threats to American Democracy Ahead of an Unprecedented Presidential Election - PRRI: https://prri.org/research/threats-to-american-democracy-ahead-of-an-unprecedented-presidential-election/
+- Using AI Agents to Automate Black-Box Audits of Personalization Algorithms at Scale: https://arxiv.org/abs/2606.30801</itunes:summary>
+      <itunes:subtitle>Culture wars did not begin with social media, but platforms changed the price, speed, and rewards of political conflict. Mira and Theo trace how identity, moral outrage, engagement incentives, misinformation, microtargeting, elections, activism, and polar</itunes:subtitle>
+      <content:encoded>Culture wars did not begin with social media, but platforms changed the price, speed, and rewards of political conflict. Mira and Theo trace how identity, moral outrage, engagement incentives, misinformation, microtargeting, elections, activism, and polarized media ecosystems can turn disagreement into durable political machinery, while keeping the causal story careful. Created with Gemini Notebook.
+
+Sources cited:
+- 'Network Propaganda' takes a closer look at media and American politics: https://hls.harvard.edu/today/network-propaganda-takes-a-closer-look-at-media-and-american-politics/
+- Algorithm-Driven Identity Politics: Role of Social Media in Polarisation and Mobilisation: https://bcpublication.org/index.php/SSH/article/view/7911
+- Beyond True and False: Fake News and the Digital Epistemic Divide: https://repository.law.umich.edu/mtlr/vol29/iss1/3/
+- How tech platforms fuel U.S. political polarization and what government can do about it - Brookings Institution: https://www.brookings.edu/articles/how-tech-platforms-fuel-u-s-political-polarization-and-what-government-can-do-about-it/
+- Information Fiduciaries and Political Microtargeting: A Legal Framework for Regulating Political Advertising on Digital Platforms: https://scholarlycommons.law.northwestern.edu/cgi/viewcontent.cgi?article=1460&amp;context=nulr
+- Moral Grandstanding in Public Discourse: Status-Seeking Motives as a Potential Explanatory Mechanism in Predicting Conflict: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0223749
+- Political Polarization and Moral Outrage on Social Media: https://digitalcommons.lib.uconn.edu/law_review/454/
+- Social Media Seen as Mostly Good for Democracy Across Many Nations, But U.S. is a Major Outlier: https://www.pewresearch.org/global/2022/12/06/social-media-seen-as-mostly-good-for-democracy-across-many-nations-but-u-s-is-a-major-outlier/
+- The Algorithmic Management of Polarization and Violence on Social Media: https://knightcolumbia.org/content/the-algorithmic-management-of-polarization-and-violence-on-social-media
+- Misinformation exploits outrage to spread online: https://www.science.org/doi/10.1126/science.adl2829
+- Threats to American Democracy Ahead of an Unprecedented Presidential Election - PRRI: https://prri.org/research/threats-to-american-democracy-ahead-of-an-unprecedented-presidential-election/
+- Using AI Agents to Automate Black-Box Audits of Personalization Algorithms at Scale: https://arxiv.org/abs/2606.30801</content:encoded>
+      <itunes:author>Mira Vale and Theo Arlen</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Did the Old Masters Use Tracing Machines?</title>
+      <link>https://www.patreon.com/ZeldaReySkywalker/posts/did-old-masters-162772462</link>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>3624</itunes:duration>
+      <description>What counts as authorship when artists use lenses, mirrors, projections, assistants, archives, and systems? Mira and Theo start with the Hockney-Falco thesis and its critics, then follow the argument through Vermeer, photography, museum datasets, and modern debates over tools, skill, and creative labor. Created with Gemini Notebook.
+
+Sources cited:
+- Hockney-Falco thesis - Wikipedia: https://en.wikipedia.org/wiki/Hockney%E2%80%93Falco_thesis
+- Why David Hockney Should Not Be Taken Seriously - Art Renewal Center: https://www.artrenewal.org/Article/Title/why-david-hockney-should-not-be-taken-seriously
+- Reverse-Engineering a Genius (Has a Vermeer Mystery Been Solved?): https://www.harrywalker.com/media/2084/andersen-kurt_vanityaffair_11-29-13.pdf
+- AI and the Arts: How Machine Learning is Changing Creative Work - Oxford Internet Institute: https://www.oii.ox.ac.uk/news-events/reports/ai-the-arts/
+- Integrating GenAI in Filmmaking: From Co-Creativity to Distributed Creativity - arXiv: https://arxiv.org/pdf/2603.23415
+- Photography - CSUN: https://www.csun.edu/sites/default/files/Media05--Photo.pdf
+- The Algorithmic Gaze: Deconstructing Authorship and Aesthetics in Generative Artificial Intelligence Art - Enigma in Cultural: https://enigma.or.id/index.php/cultural/article/view/106
+- Refik Anadol: Unsupervised - MoMA: https://www.moma.org/calendar/exhibitions/5535
+- Is AI a Medium? - The Journal of Aesthetics and Art Criticism: https://academic.oup.com/jaac/advance-article/doi/10.1093/jaac/kpag028/8698899?searchresult=1&amp;login=false
+- The Ethical and Legal Implications of AI in the Arts and Creative Industries - Oxford University Research Archive: https://ora.ox.ac.uk/objects/uuid:a803ecc0-c8cc-42a0-be17-848334dc3cf5/files/r5d86p1015</description>
+      <enclosure url="https://yatimitofawaii.github.io/footnotes-in-stereo-feed/audio/did-the-old-masters-use-tracing-machines.m4a" length="44052869" type="audio/mp4" />
+      <guid isPermaLink="false">162772462</guid>
+      <pubDate>Wed, 08 Jul 2026 15:00:09 +0000</pubDate>
+      <itunes:summary>What counts as authorship when artists use lenses, mirrors, projections, assistants, archives, and systems? Mira and Theo start with the Hockney-Falco thesis and its critics, then follow the argument through Vermeer, photography, museum datasets, and modern debates over tools, skill, and creative labor. Created with Gemini Notebook.
+
+Sources cited:
+- Hockney-Falco thesis - Wikipedia: https://en.wikipedia.org/wiki/Hockney%E2%80%93Falco_thesis
+- Why David Hockney Should Not Be Taken Seriously - Art Renewal Center: https://www.artrenewal.org/Article/Title/why-david-hockney-should-not-be-taken-seriously
+- Reverse-Engineering a Genius (Has a Vermeer Mystery Been Solved?): https://www.harrywalker.com/media/2084/andersen-kurt_vanityaffair_11-29-13.pdf
+- AI and the Arts: How Machine Learning is Changing Creative Work - Oxford Internet Institute: https://www.oii.ox.ac.uk/news-events/reports/ai-the-arts/
+- Integrating GenAI in Filmmaking: From Co-Creativity to Distributed Creativity - arXiv: https://arxiv.org/pdf/2603.23415
+- Photography - CSUN: https://www.csun.edu/sites/default/files/Media05--Photo.pdf
+- The Algorithmic Gaze: Deconstructing Authorship and Aesthetics in Generative Artificial Intelligence Art - Enigma in Cultural: https://enigma.or.id/index.php/cultural/article/view/106
+- Refik Anadol: Unsupervised - MoMA: https://www.moma.org/calendar/exhibitions/5535
+- Is AI a Medium? - The Journal of Aesthetics and Art Criticism: https://academic.oup.com/jaac/advance-article/doi/10.1093/jaac/kpag028/8698899?searchresult=1&amp;login=false
+- The Ethical and Legal Implications of AI in the Arts and Creative Industries - Oxford University Research Archive: https://ora.ox.ac.uk/objects/uuid:a803ecc0-c8cc-42a0-be17-848334dc3cf5/files/r5d86p1015</itunes:summary>
+      <itunes:subtitle>What counts as authorship when artists use lenses, mirrors, projections, assistants, archives, and systems? Mira and Theo start with the Hockney-Falco thesis and its critics, then follow the argument through Vermeer, photography, museum datasets, and mode</itunes:subtitle>
+      <content:encoded>What counts as authorship when artists use lenses, mirrors, projections, assistants, archives, and systems? Mira and Theo start with the Hockney-Falco thesis and its critics, then follow the argument through Vermeer, photography, museum datasets, and modern debates over tools, skill, and creative labor. Created with Gemini Notebook.
+
+Sources cited:
+- Hockney-Falco thesis - Wikipedia: https://en.wikipedia.org/wiki/Hockney%E2%80%93Falco_thesis
+- Why David Hockney Should Not Be Taken Seriously - Art Renewal Center: https://www.artrenewal.org/Article/Title/why-david-hockney-should-not-be-taken-seriously
+- Reverse-Engineering a Genius (Has a Vermeer Mystery Been Solved?): https://www.harrywalker.com/media/2084/andersen-kurt_vanityaffair_11-29-13.pdf
+- AI and the Arts: How Machine Learning is Changing Creative Work - Oxford Internet Institute: https://www.oii.ox.ac.uk/news-events/reports/ai-the-arts/
+- Integrating GenAI in Filmmaking: From Co-Creativity to Distributed Creativity - arXiv: https://arxiv.org/pdf/2603.23415
+- Photography - CSUN: https://www.csun.edu/sites/default/files/Media05--Photo.pdf
+- The Algorithmic Gaze: Deconstructing Authorship and Aesthetics in Generative Artificial Intelligence Art - Enigma in Cultural: https://enigma.or.id/index.php/cultural/article/view/106
+- Refik Anadol: Unsupervised - MoMA: https://www.moma.org/calendar/exhibitions/5535
+- Is AI a Medium? - The Journal of Aesthetics and Art Criticism: https://academic.oup.com/jaac/advance-article/doi/10.1093/jaac/kpag028/8698899?searchresult=1&amp;login=false
+- The Ethical and Legal Implications of AI in the Arts and Creative Industries - Oxford University Research Archive: https://ora.ox.ac.uk/objects/uuid:a803ecc0-c8cc-42a0-be17-848334dc3cf5/files/r5d86p1015</content:encoded>
+      <itunes:author>Mira Vale and Theo Arlen</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Photoshop from Darkrooms to Generative Fill</title>
+      <link>https://www.patreon.com/ZeldaReySkywalker/posts/photoshop-from-162772241</link>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>1383</itunes:duration>
+      <description>Before Photoshop became a verb, it was a chain of darkroom habits, image-repair problems, interface choices, and business bets. Mira and Theo trace the path from the Knoll brothers' early code to content-aware repair, Creative Cloud backlash, archival restoration, and newer fill tools that extend a long tradition of photographic manipulation. Created with Gemini Notebook.
+
+Sources cited:
+- History of Adobe Photoshop (1987-2026): https://www.retouchingzone.com/history-of-adobe-photoshop/
+- The Origins and Technical History of Adobe Photoshop | Tapflare: https://tapflare.com/articles/technical-history-adobe-photoshop
+- 36 Years of Adobe Photoshop Design History - Version Museum: https://www.versionmuseum.com/history-of/adobe-photoshop
+- A Brief History of Photoshop and How It Changed the World - Rapid Photo: https://rapidphoto.app/blog/history-of-photoshop/
+- All you need to know about Photoshop | A and M Education: https://aandmedu.in/all-you-need-to-know-about-photoshop/
+- Case Study: Adobe's Transition to a Subscription Model | Tapflare: https://tapflare.com/articles/pdfs/adobe-subscription-model-case-study.pdf
+- Countering Stryker's Punch: Algorithmically Filling the Black Hole - The Code4Lib Journal: https://journal.code4lib.org/articles/12542
+- Exploring the Synergy of Generative Fill in Photoshop and the Creative Design Process Utilising Informal Learning - The Design Society: https://www.designsociety.org/publication/47201/exploring_the_synergy_of_ai_generative_fill_in_photoshop_and_the_creative_design_process_utilising_informal_learning
+- Adobe Photoshop on desktop release notes: https://helpx.adobe.com/photoshop/desktop/whats-new/photoshop-on-desktop-release-notes.html
+- How Adobe Photoshop Has Changed the History of Photography - TrickyPhotoshop: https://tricky-photoshop.com/misc/how-adobe-photoshop-has-changed-the-history-of-photography-16724/</description>
+      <enclosure url="https://yatimitofawaii.github.io/footnotes-in-stereo-feed/audio/photoshop-from-darkrooms-to-generative-fill.m4a" length="44493329" type="audio/mp4" />
+      <guid isPermaLink="false">162772241</guid>
+      <pubDate>Mon, 06 Jul 2026 15:00:08 +0000</pubDate>
+      <itunes:summary>Before Photoshop became a verb, it was a chain of darkroom habits, image-repair problems, interface choices, and business bets. Mira and Theo trace the path from the Knoll brothers' early code to content-aware repair, Creative Cloud backlash, archival restoration, and newer fill tools that extend a long tradition of photographic manipulation. Created with Gemini Notebook.
+
+Sources cited:
+- History of Adobe Photoshop (1987-2026): https://www.retouchingzone.com/history-of-adobe-photoshop/
+- The Origins and Technical History of Adobe Photoshop | Tapflare: https://tapflare.com/articles/technical-history-adobe-photoshop
+- 36 Years of Adobe Photoshop Design History - Version Museum: https://www.versionmuseum.com/history-of/adobe-photoshop
+- A Brief History of Photoshop and How It Changed the World - Rapid Photo: https://rapidphoto.app/blog/history-of-photoshop/
+- All you need to know about Photoshop | A and M Education: https://aandmedu.in/all-you-need-to-know-about-photoshop/
+- Case Study: Adobe's Transition to a Subscription Model | Tapflare: https://tapflare.com/articles/pdfs/adobe-subscription-model-case-study.pdf
+- Countering Stryker's Punch: Algorithmically Filling the Black Hole - The Code4Lib Journal: https://journal.code4lib.org/articles/12542
+- Exploring the Synergy of Generative Fill in Photoshop and the Creative Design Process Utilising Informal Learning - The Design Society: https://www.designsociety.org/publication/47201/exploring_the_synergy_of_ai_generative_fill_in_photoshop_and_the_creative_design_process_utilising_informal_learning
+- Adobe Photoshop on desktop release notes: https://helpx.adobe.com/photoshop/desktop/whats-new/photoshop-on-desktop-release-notes.html
+- How Adobe Photoshop Has Changed the History of Photography - TrickyPhotoshop: https://tricky-photoshop.com/misc/how-adobe-photoshop-has-changed-the-history-of-photography-16724/</itunes:summary>
+      <itunes:subtitle>Before Photoshop became a verb, it was a chain of darkroom habits, image-repair problems, interface choices, and business bets. Mira and Theo trace the path from the Knoll brothers' early code to content-aware repair, Creative Cloud backlash, archival res</itunes:subtitle>
+      <content:encoded>Before Photoshop became a verb, it was a chain of darkroom habits, image-repair problems, interface choices, and business bets. Mira and Theo trace the path from the Knoll brothers' early code to content-aware repair, Creative Cloud backlash, archival restoration, and newer fill tools that extend a long tradition of photographic manipulation. Created with Gemini Notebook.
+
+Sources cited:
+- History of Adobe Photoshop (1987-2026): https://www.retouchingzone.com/history-of-adobe-photoshop/
+- The Origins and Technical History of Adobe Photoshop | Tapflare: https://tapflare.com/articles/technical-history-adobe-photoshop
+- 36 Years of Adobe Photoshop Design History - Version Museum: https://www.versionmuseum.com/history-of/adobe-photoshop
+- A Brief History of Photoshop and How It Changed the World - Rapid Photo: https://rapidphoto.app/blog/history-of-photoshop/
+- All you need to know about Photoshop | A and M Education: https://aandmedu.in/all-you-need-to-know-about-photoshop/
+- Case Study: Adobe's Transition to a Subscription Model | Tapflare: https://tapflare.com/articles/pdfs/adobe-subscription-model-case-study.pdf
+- Countering Stryker's Punch: Algorithmically Filling the Black Hole - The Code4Lib Journal: https://journal.code4lib.org/articles/12542
+- Exploring the Synergy of Generative Fill in Photoshop and the Creative Design Process Utilising Informal Learning - The Design Society: https://www.designsociety.org/publication/47201/exploring_the_synergy_of_ai_generative_fill_in_photoshop_and_the_creative_design_process_utilising_informal_learning
+- Adobe Photoshop on desktop release notes: https://helpx.adobe.com/photoshop/desktop/whats-new/photoshop-on-desktop-release-notes.html
+- How Adobe Photoshop Has Changed the History of Photography - TrickyPhotoshop: https://tricky-photoshop.com/misc/how-adobe-photoshop-has-changed-the-history-of-photography-16724/</content:encoded>
+      <itunes:author>Mira Vale and Theo Arlen</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Sophisticated Architectural Matrix of Genesis</title>
+      <link>https://www.patreon.com/ZeldaReySkywalker/posts/sophisticated-of-162771918</link>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>3123</itunes:duration>
+      <description>Genesis is often treated as a beginning, but this episode treats it as an intricate architecture of text, transmission, commentary, translation, and literary design. Mira and Theo move between rabbinic commentary, modern literary analysis, manuscript traditions, chiasmus, and translation debates to ask how the book's structure carries meaning across time. Created with NotebookLM.
+Sources cited:
+- Bereshit Rabbah | Sefaria Library: https://www.sefaria.org/Bereshit_Rabbah
+- Genesis Translation and Commentary / Robert Alter: https://www.staff.ces.funai.edu.ng/papersCollection/Resources/HomePages/genesis_translation_and_commentary.pdf
+- Exegesis of Genesis - Asbury Theological Seminary: https://place.asburyseminary.edu/cgi/viewcontent.cgi?article=4174&amp;context=syllabi
+- Ramban on Genesis | Sefaria Library: https://www.sefaria.org/Ramban_on_Genesis
+- Genesis and Exodus - Reformed Theological Seminary: https://cdn.rts.edu/wp-content/uploads/2019/08/2009_01_2OT711_Genesis_and_Exodus.pdf
+- Literary Analysis (Genesis) - Academia.edu: https://www.academia.edu/3787216/Literary_Analysis_Genesis_
+- The Theory of Evolution - A Jewish Perspective - Rambam Maimonides Medical Journal: https://www.rmmj.org.il/userimages/9/0/PublishFiles/9Article.pdf
+- Rashi on the Torah: What Kind of Commentary Is It? - TheTorah.com: https://www.thetorah.com/article/rashi-on-the-torah-what-kind-of-commentary-is-it
+- Chiasmus in the Book of Genesis - BYU ScholarsArchive: https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=5113&amp;context=byusq
+- The Theology of the Book of Genesis - Cambridge University Press: https://assets.cambridge.org/97805216/85382/frontmatter/9780521685382_frontmatter.pdf
+- The Biblical Qumran Scrolls - Eugene Ulrich: https://archive.org/download/TheBiblicalQumranScrolls/61301866-The-Biblical-Qumran-Scrolls-Eugene-Charles-Ulrich.pdf
+- Septuagint vs. Masoretic: Which Is More Authentic?: https://stjohnpanamacity.church/wp-content/uploads/Septuagint-vs.-Masoretic.pdf
+- Documentary hypothesis - Wikipedia: https://en.wikipedia.org/wiki/Documentary_hypothesis
+- The Genre, Historical Context, and Purpose of Genesis 1-11 - Resurrecting Orthodoxy: https://www.joeledmundanderson.com/the-genre-historical-context-and-purpose-of-genesis-1-11/
+- Rethinking Genesis 1: How Translators Changed the First Verse | Genesis Analysis Ep. 1: https://www.youtube.com/results?search_query=Rethinking+Genesis+1+How+Translators+Changed+the+First+Verse
+NotebookLM's audio card for this episode showed 20 sources; the currently visible notebook bibliography lists 18, including three incomplete Cloudflare verification captures that are not cited above as source articles.</description>
+      <enclosure url="https://yatimitofawaii.github.io/footnotes-in-stereo-feed/audio/the-sophisticated-architectural-matrix-of-genesis.m4a" length="37987379" type="audio/mp4" />
+      <guid isPermaLink="false">162771918</guid>
+      <pubDate>Sat, 04 Jul 2026 15:00:12 +0000</pubDate>
+      <itunes:summary>Genesis is often treated as a beginning, but this episode treats it as an intricate architecture of text, transmission, commentary, translation, and literary design. Mira and Theo move between rabbinic commentary, modern literary analysis, manuscript traditions, chiasmus, and translation debates to ask how the book's structure carries meaning across time. Created with NotebookLM.
+Sources cited:
+- Bereshit Rabbah | Sefaria Library: https://www.sefaria.org/Bereshit_Rabbah
+- Genesis Translation and Commentary / Robert Alter: https://www.staff.ces.funai.edu.ng/papersCollection/Resources/HomePages/genesis_translation_and_commentary.pdf
+- Exegesis of Genesis - Asbury Theological Seminary: https://place.asburyseminary.edu/cgi/viewcontent.cgi?article=4174&amp;context=syllabi
+- Ramban on Genesis | Sefaria Library: https://www.sefaria.org/Ramban_on_Genesis
+- Genesis and Exodus - Reformed Theological Seminary: https://cdn.rts.edu/wp-content/uploads/2019/08/2009_01_2OT711_Genesis_and_Exodus.pdf
+- Literary Analysis (Genesis) - Academia.edu: https://www.academia.edu/3787216/Literary_Analysis_Genesis_
+- The Theory of Evolution - A Jewish Perspective - Rambam Maimonides Medical Journal: https://www.rmmj.org.il/userimages/9/0/PublishFiles/9Article.pdf
+- Rashi on the Torah: What Kind of Commentary Is It? - TheTorah.com: https://www.thetorah.com/article/rashi-on-the-torah-what-kind-of-commentary-is-it
+- Chiasmus in the Book of Genesis - BYU ScholarsArchive: https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=5113&amp;context=byusq
+- The Theology of the Book of Genesis - Cambridge University Press: https://assets.cambridge.org/97805216/85382/frontmatter/9780521685382_frontmatter.pdf
+- The Biblical Qumran Scrolls - Eugene Ulrich: https://archive.org/download/TheBiblicalQumranScrolls/61301866-The-Biblical-Qumran-Scrolls-Eugene-Charles-Ulrich.pdf
+- Septuagint vs. Masoretic: Which Is More Authentic?: https://stjohnpanamacity.church/wp-content/uploads/Septuagint-vs.-Masoretic.pdf
+- Documentary hypothesis - Wikipedia: https://en.wikipedia.org/wiki/Documentary_hypothesis
+- The Genre, Historical Context, and Purpose of Genesis 1-11 - Resurrecting Orthodoxy: https://www.joeledmundanderson.com/the-genre-historical-context-and-purpose-of-genesis-1-11/
+- Rethinking Genesis 1: How Translators Changed the First Verse | Genesis Analysis Ep. 1: https://www.youtube.com/results?search_query=Rethinking+Genesis+1+How+Translators+Changed+the+First+Verse
+NotebookLM's audio card for this episode showed 20 sources; the currently visible notebook bibliography lists 18, including three incomplete Cloudflare verification captures that are not cited above as source articles.</itunes:summary>
+      <itunes:subtitle>Genesis is often treated as a beginning, but this episode treats it as an intricate architecture of text, transmission, commentary, translation, and literary design. Mira and Theo move between rabbinic commentary, modern literary analysis, manuscript trad</itunes:subtitle>
+      <content:encoded>Genesis is often treated as a beginning, but this episode treats it as an intricate architecture of text, transmission, commentary, translation, and literary design. Mira and Theo move between rabbinic commentary, modern literary analysis, manuscript traditions, chiasmus, and translation debates to ask how the book's structure carries meaning across time. Created with NotebookLM.
+Sources cited:
+- Bereshit Rabbah | Sefaria Library: https://www.sefaria.org/Bereshit_Rabbah
+- Genesis Translation and Commentary / Robert Alter: https://www.staff.ces.funai.edu.ng/papersCollection/Resources/HomePages/genesis_translation_and_commentary.pdf
+- Exegesis of Genesis - Asbury Theological Seminary: https://place.asburyseminary.edu/cgi/viewcontent.cgi?article=4174&amp;context=syllabi
+- Ramban on Genesis | Sefaria Library: https://www.sefaria.org/Ramban_on_Genesis
+- Genesis and Exodus - Reformed Theological Seminary: https://cdn.rts.edu/wp-content/uploads/2019/08/2009_01_2OT711_Genesis_and_Exodus.pdf
+- Literary Analysis (Genesis) - Academia.edu: https://www.academia.edu/3787216/Literary_Analysis_Genesis_
+- The Theory of Evolution - A Jewish Perspective - Rambam Maimonides Medical Journal: https://www.rmmj.org.il/userimages/9/0/PublishFiles/9Article.pdf
+- Rashi on the Torah: What Kind of Commentary Is It? - TheTorah.com: https://www.thetorah.com/article/rashi-on-the-torah-what-kind-of-commentary-is-it
+- Chiasmus in the Book of Genesis - BYU ScholarsArchive: https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=5113&amp;context=byusq
+- The Theology of the Book of Genesis - Cambridge University Press: https://assets.cambridge.org/97805216/85382/frontmatter/9780521685382_frontmatter.pdf
+- The Biblical Qumran Scrolls - Eugene Ulrich: https://archive.org/download/TheBiblicalQumranScrolls/61301866-The-Biblical-Qumran-Scrolls-Eugene-Charles-Ulrich.pdf
+- Septuagint vs. Masoretic: Which Is More Authentic?: https://stjohnpanamacity.church/wp-content/uploads/Septuagint-vs.-Masoretic.pdf
+- Documentary hypothesis - Wikipedia: https://en.wikipedia.org/wiki/Documentary_hypothesis
+- The Genre, Historical Context, and Purpose of Genesis 1-11 - Resurrecting Orthodoxy: https://www.joeledmundanderson.com/the-genre-historical-context-and-purpose-of-genesis-1-11/
+- Rethinking Genesis 1: How Translators Changed the First Verse | Genesis Analysis Ep. 1: https://www.youtube.com/results?search_query=Rethinking+Genesis+1+How+Translators+Changed+the+First+Verse
+NotebookLM's audio card for this episode showed 20 sources; the currently visible notebook bibliography lists 18, including three incomplete Cloudflare verification captures that are not cited above as source articles.</content:encoded>
+      <itunes:author>Mira Vale and Theo Arlen</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>How Physics and Railroads Built the Circus</title>
+      <link>https://www.patreon.com/ZeldaReySkywalker/posts/how-physics-and-162770841</link>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>1308</itunes:duration>
+      <description>How did a circular horse ring, rail logistics, clown traditions, and three-ring staging turn circus into a portable technology of spectacle? Mira and Theo follow Philip Astley's ring, Joseph Grimaldi's whiteface legacy, Dan Rice's political clowning, Barnum &amp; Bailey's scale, and the railroad systems that made the American circus sprawl possible. Created with NotebookLM.
+Sources cited:
+- The story of circus - V&amp;A: https://www.vam.ac.uk/articles/the-story-of-circus
+- Circus clown - Wikipedia: https://en.wikipedia.org/wiki/Circus_clown
+- Joseph Grimaldi: King of the clowns | London Museum: https://www.londonmuseum.org.uk/collections/london-stories/joseph-grimaldi-king-clowns/
+- History of Clown - iClown: https://i-clown.com/history-of-clown/
+- Dan Rice - The Circus Ring of Fame: https://www.circusringoffame.org/inductees/dan-rice/
+- Why Does a Circus Have Three Rings? | The Children's Museum of Indianapolis: https://www.childrensmuseum.org/blog/why-does-circus-have-three-rings
+- Barnum and Bailey Circus history and Photos: https://www.m.circusesandsideshows.com/circuses/barnum-bailey-circus.html
+- Reconstruction, Railroads, and Race (Chapter 2) - The Cambridge Companion to the Circus: https://www.cambridge.org/core/books/abs/cambridge-companion-to-the-circus/reconstruction-railroads-and-race/2FA5CD8D754984B0D53C946D26569748
+- The American Circus in All Its Glory | National Endowment for the Humanities: https://www.neh.gov/article/american-circus-all-its-glory
+- It's a Three-Ring Circus: How Morally Educative Practices Are Undermined by Institutions - Cambridge University Press &amp; Assessment: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/4E1E2C3A0A7430DB5B9CC009812E2541/S1052150X24000010a.pdf/its_a_threering_circus_how_morally_educative_practices_are_undermined_by_institutions.pdf</description>
+      <enclosure url="https://yatimitofawaii.github.io/footnotes-in-stereo-feed/audio/how-physics-and-railroads-built-the-circus.m4a" length="42071996" type="audio/mp4" />
+      <guid isPermaLink="false">162770841</guid>
+      <pubDate>Fri, 03 Jul 2026 15:00:26 +0000</pubDate>
+      <itunes:summary>How did a circular horse ring, rail logistics, clown traditions, and three-ring staging turn circus into a portable technology of spectacle? Mira and Theo follow Philip Astley's ring, Joseph Grimaldi's whiteface legacy, Dan Rice's political clowning, Barnum &amp; Bailey's scale, and the railroad systems that made the American circus sprawl possible. Created with NotebookLM.
+Sources cited:
+- The story of circus - V&amp;A: https://www.vam.ac.uk/articles/the-story-of-circus
+- Circus clown - Wikipedia: https://en.wikipedia.org/wiki/Circus_clown
+- Joseph Grimaldi: King of the clowns | London Museum: https://www.londonmuseum.org.uk/collections/london-stories/joseph-grimaldi-king-clowns/
+- History of Clown - iClown: https://i-clown.com/history-of-clown/
+- Dan Rice - The Circus Ring of Fame: https://www.circusringoffame.org/inductees/dan-rice/
+- Why Does a Circus Have Three Rings? | The Children's Museum of Indianapolis: https://www.childrensmuseum.org/blog/why-does-circus-have-three-rings
+- Barnum and Bailey Circus history and Photos: https://www.m.circusesandsideshows.com/circuses/barnum-bailey-circus.html
+- Reconstruction, Railroads, and Race (Chapter 2) - The Cambridge Companion to the Circus: https://www.cambridge.org/core/books/abs/cambridge-companion-to-the-circus/reconstruction-railroads-and-race/2FA5CD8D754984B0D53C946D26569748
+- The American Circus in All Its Glory | National Endowment for the Humanities: https://www.neh.gov/article/american-circus-all-its-glory
+- It's a Three-Ring Circus: How Morally Educative Practices Are Undermined by Institutions - Cambridge University Press &amp; Assessment: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/4E1E2C3A0A7430DB5B9CC009812E2541/S1052150X24000010a.pdf/its_a_threering_circus_how_morally_educative_practices_are_undermined_by_institutions.pdf</itunes:summary>
+      <itunes:subtitle>How did a circular horse ring, rail logistics, clown traditions, and three-ring staging turn circus into a portable technology of spectacle? Mira and Theo follow Philip Astley's ring, Joseph Grimaldi's whiteface legacy, Dan Rice's political clowning, Barn</itunes:subtitle>
+      <content:encoded>How did a circular horse ring, rail logistics, clown traditions, and three-ring staging turn circus into a portable technology of spectacle? Mira and Theo follow Philip Astley's ring, Joseph Grimaldi's whiteface legacy, Dan Rice's political clowning, Barnum &amp; Bailey's scale, and the railroad systems that made the American circus sprawl possible. Created with NotebookLM.
+Sources cited:
+- The story of circus - V&amp;A: https://www.vam.ac.uk/articles/the-story-of-circus
+- Circus clown - Wikipedia: https://en.wikipedia.org/wiki/Circus_clown
+- Joseph Grimaldi: King of the clowns | London Museum: https://www.londonmuseum.org.uk/collections/london-stories/joseph-grimaldi-king-clowns/
+- History of Clown - iClown: https://i-clown.com/history-of-clown/
+- Dan Rice - The Circus Ring of Fame: https://www.circusringoffame.org/inductees/dan-rice/
+- Why Does a Circus Have Three Rings? | The Children's Museum of Indianapolis: https://www.childrensmuseum.org/blog/why-does-circus-have-three-rings
+- Barnum and Bailey Circus history and Photos: https://www.m.circusesandsideshows.com/circuses/barnum-bailey-circus.html
+- Reconstruction, Railroads, and Race (Chapter 2) - The Cambridge Companion to the Circus: https://www.cambridge.org/core/books/abs/cambridge-companion-to-the-circus/reconstruction-railroads-and-race/2FA5CD8D754984B0D53C946D26569748
+- The American Circus in All Its Glory | National Endowment for the Humanities: https://www.neh.gov/article/american-circus-all-its-glory
+- It's a Three-Ring Circus: How Morally Educative Practices Are Undermined by Institutions - Cambridge University Press &amp; Assessment: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/4E1E2C3A0A7430DB5B9CC009812E2541/S1052150X24000010a.pdf/its_a_threering_circus_how_morally_educative_practices_are_undermined_by_institutions.pdf</content:encoded>
+      <itunes:author>Mira Vale and Theo Arlen</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
