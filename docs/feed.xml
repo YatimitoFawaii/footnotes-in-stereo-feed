@@ -16,8 +16,8 @@
     <itunes:category text="Education" />
     <language>en-US</language>
     <copyright>2026 Zelda Rey Skywalker</copyright>
-    <pubDate>Tue, 15 Sep 2026 19:07:42 +0000</pubDate>
-    <lastBuildDate>Tue, 15 Sep 2026 19:07:42 +0000</lastBuildDate>
+    <pubDate>Wed, 16 Sep 2026 18:58:09 +0000</pubDate>
+    <lastBuildDate>Wed, 16 Sep 2026 18:58:09 +0000</lastBuildDate>
     <generator>Footnotes in Stereo feed mirror</generator>
     <image>
       <url>https://yatimitofawaii.github.io/footnotes-in-stereo-feed/art/cover.jpg</url>
@@ -26,6 +26,40 @@
     </image>
     <itunes:summary>Footnotes in Stereo is a series of conversational research deep dives hosted by Mira Vale and Theo Arlen. Each episode follows a stack of sources into a different corner of culture, technology, art, religion, and history: the arguments, inventions, translations, and practical details that changed how people make meaning. Public episodes arrive Wednesdays, and Patreon subscribers receive an additional bonus episode every Friday. Created with Gemini Notebook. The conversations and voices are generated with Gemini Notebook.</itunes:summary>
     <itunes:subtitle>Conversational research deep dives with Mira Vale and Theo Arlen.</itunes:subtitle>
+    <item>
+      <title>The Invention of the Normal Human</title>
+      <link>https://www.patreon.com/ZeldaReySkywalker/posts/invention-of-166762717</link>
+      <itunes:episode>18</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>3527</itunes:duration>
+      <description>An average can describe a population, but institutions repeatedly turned the average into an ideal. This episode traces the modern history of normality through statistics, medicine, eugenics, disability policy, universal design, and algorithmic systems, asking who benefits when human variation is treated as error.
+Created with Gemini Notebook. The conversation and voices in this episode were generated with Gemini Notebook.
+Sources cited:
+- Eugenics: Its Origin and Development - National Human Genome Research Institute: https://www.genome.gov/es/node/84326
+- History of Universal Design - Centre for Excellence in Universal Design: https://universaldesign.ie/about-universal-design/history-of-universal-design
+- The History of Being Normal - Talking Humanities: https://talkinghumanities.blogs.sas.ac.uk/2016/11/29/the-history-of-being-normal/
+- Encoding Normative Ethics: On Algorithmic Bias and Disability - First Monday: https://firstmonday.org/ojs/index.php/fm/article/download/12905/10788</description>
+      <enclosure url="https://yatimitofawaii.github.io/footnotes-in-stereo-feed/audio/the-invention-of-the-normal-human.m4a" length="37095207" type="audio/mp4" />
+      <guid isPermaLink="false">166762717</guid>
+      <pubDate>Wed, 16 Sep 2026 15:00:03 +0000</pubDate>
+      <itunes:summary>An average can describe a population, but institutions repeatedly turned the average into an ideal. This episode traces the modern history of normality through statistics, medicine, eugenics, disability policy, universal design, and algorithmic systems, asking who benefits when human variation is treated as error.
+Created with Gemini Notebook. The conversation and voices in this episode were generated with Gemini Notebook.
+Sources cited:
+- Eugenics: Its Origin and Development - National Human Genome Research Institute: https://www.genome.gov/es/node/84326
+- History of Universal Design - Centre for Excellence in Universal Design: https://universaldesign.ie/about-universal-design/history-of-universal-design
+- The History of Being Normal - Talking Humanities: https://talkinghumanities.blogs.sas.ac.uk/2016/11/29/the-history-of-being-normal/
+- Encoding Normative Ethics: On Algorithmic Bias and Disability - First Monday: https://firstmonday.org/ojs/index.php/fm/article/download/12905/10788</itunes:summary>
+      <itunes:subtitle>An average can describe a population, but institutions repeatedly turned the average into an ideal. This episode traces the modern history of normality through statistics, medicine, eugenics, disability policy, universal design, and algorithmic systems, a</itunes:subtitle>
+      <content:encoded>An average can describe a population, but institutions repeatedly turned the average into an ideal. This episode traces the modern history of normality through statistics, medicine, eugenics, disability policy, universal design, and algorithmic systems, asking who benefits when human variation is treated as error.
+Created with Gemini Notebook. The conversation and voices in this episode were generated with Gemini Notebook.
+Sources cited:
+- Eugenics: Its Origin and Development - National Human Genome Research Institute: https://www.genome.gov/es/node/84326
+- History of Universal Design - Centre for Excellence in Universal Design: https://universaldesign.ie/about-universal-design/history-of-universal-design
+- The History of Being Normal - Talking Humanities: https://talkinghumanities.blogs.sas.ac.uk/2016/11/29/the-history-of-being-normal/
+- Encoding Normative Ethics: On Algorithmic Bias and Disability - First Monday: https://firstmonday.org/ojs/index.php/fm/article/download/12905/10788</content:encoded>
+      <itunes:author>Mira Vale and Theo Arlen</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Why Our Recorded Music Is Melting</title>
       <link>https://www.patreon.com/ZeldaReySkywalker/posts/why-our-recorded-164949781</link>

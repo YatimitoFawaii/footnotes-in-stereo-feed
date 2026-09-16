@@ -1,5 +1,36 @@
 [
   {
+    "number": 18,
+    "patreon_url": "https://www.patreon.com/ZeldaReySkywalker/posts/invention-of-166762717",
+    "member_release": "2026-09-16 08:00:00-07:00",
+    "public_release": "2026-09-16 08:00:00-07:00",
+    "exclusive": false,
+    "description": "An average can describe a population, but institutions repeatedly turned the average into an ideal. This episode traces the modern history of normality through statistics, medicine, eugenics, disability policy, universal design, and algorithmic systems, asking who benefits when human variation is treated as error.\n\nCreated with Gemini Notebook.\n\nThe conversation and voices in this episode were generated with Gemini Notebook.\n\nFake voices, real facts.",
+    "sources": [
+      {
+        "title": "Eugenics: Its Origin and Development - National Human Genome Research Institute",
+        "url": "https://www.genome.gov/es/node/84326"
+      },
+      {
+        "title": "History of Universal Design - Centre for Excellence in Universal Design",
+        "url": "https://universaldesign.ie/about-universal-design/history-of-universal-design"
+      },
+      {
+        "title": "The History of Being Normal - Talking Humanities",
+        "url": "https://talkinghumanities.blogs.sas.ac.uk/2016/11/29/the-history-of-being-normal/"
+      },
+      {
+        "title": "Encoding Normative Ethics: On Algorithmic Bias and Disability - First Monday",
+        "url": "https://firstmonday.org/ojs/index.php/fm/article/download/12905/10788"
+      }
+    ],
+    "title": "The Invention of the Normal Human",
+    "transcript_source": "source-transcripts/episode-18.txt",
+    "slug": "episode-18-the-invention-of-the-normal-human",
+    "youtube_url": "https://www.youtube.com/shorts/l7Jdvo1HhSs",
+    "art": "episodes/art/episode-18.png"
+  },
+  {
     "number": 17,
     "patreon_url": "https://www.patreon.com/ZeldaReySkywalker/posts/how-railroad-166761695",
     "member_release": "2026-09-11 08:00:00-07:00",
