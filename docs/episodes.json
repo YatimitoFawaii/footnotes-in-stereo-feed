@@ -1,5 +1,36 @@
 [
   {
+    "number": 19,
+    "patreon_url": "https://www.patreon.com/ZeldaReySkywalker/posts/how-air-built-166821950",
+    "member_release": "2026-09-18 08:00:00-07:00",
+    "public_release": null,
+    "exclusive": true,
+    "description": "Air conditioning began as a humidity solution for industrial printing, then transformed theaters, offices, homes, architecture, migration, energy use, and electoral power. This episode follows mechanical cooling from Willis Carrier's early systems to the mass-produced window unit and the postwar growth of the Sun Belt, while keeping the environmental bill in view.\n\nCreated with Gemini Notebook.\n\nThe conversation and voices in this episode were generated with Gemini Notebook.\n\nFake voices, real facts.",
+    "sources": [
+      {
+        "title": "History of Air Conditioning - U.S. Department of Energy",
+        "url": "https://www.energy.gov/articles/history-air-conditioning"
+      },
+      {
+        "title": "Sunbelt Migration - University of Central Florida",
+        "url": "https://vlp.cah.ucf.edu/popups/sunbelt.html"
+      },
+      {
+        "title": "The Air-Conditioned Century - American Heritage",
+        "url": "https://www.americanheritage.com/air-conditioned-century"
+      },
+      {
+        "title": "The History of Air Conditioning - Willis Carrier",
+        "url": "https://www.williscarrier.com/timeline"
+      }
+    ],
+    "title": "How Air Conditioning Built the Sunbelt",
+    "transcript_source": "source-transcripts/episode-19.txt",
+    "slug": "episode-19-how-air-conditioning-built-the-sunbelt",
+    "youtube_url": "https://www.youtube.com/shorts/ZU9g1rPLFOE",
+    "art": "episodes/art/episode-19.png"
+  },
+  {
     "number": 18,
     "patreon_url": "https://www.patreon.com/ZeldaReySkywalker/posts/invention-of-166762717",
     "member_release": "2026-09-16 08:00:00-07:00",
