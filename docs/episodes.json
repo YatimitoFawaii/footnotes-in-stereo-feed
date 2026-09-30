@@ -1,46 +1,38 @@
 [
   {
-    "number": 21,
-    "patreon_url": "https://www.patreon.com/ZeldaReySkywalker/posts/bizarre-mutation-168345245",
-    "member_release": "2026-09-25 08:00:00-07:00",
-    "public_release": null,
-    "exclusive": true,
-    "transcript_source": "source-transcripts/episode-21.txt",
-    "title": "The Bizarre Mutation of American Shopping Malls",
-    "description": "Mira Vale and Theo Arlen trace the shopping mall from the iron-and-glass arcades of the nineteenth century to Victor Gruen's climate-controlled suburban ideal, then through the retail consolidation, e-commerce boom, and redevelopment experiments that followed. The mall was never only a collection of stores: it was architecture designed to turn shopping into spectacle, social life, and a substitute town square.\n\nThe episode follows Southdale Center's influential design, the economics that made enclosed malls proliferate, and the pressures that left many of them vacant or radically repurposed. It also looks beyond the familiar \"dead mall\" story to the afterlives of these buildings as housing, clinics, libraries, offices, markets, and other community spaces.\n\nCreated with Gemini Notebook.\n\nThe conversation and voices in this episode were generated with Gemini Notebook.\n\nFake voices, real facts.",
+    "number": 22,
+    "patreon_url": "https://www.patreon.com/ZeldaReySkywalker/posts/how-maps-modern-168346520",
+    "member_release": "2026-09-30 08:00:00-07:00",
+    "public_release": "2026-09-30 08:00:00-07:00",
+    "exclusive": false,
+    "transcript_source": "source-transcripts/episode-22.txt",
+    "title": "How Maps Invented the Modern World",
+    "description": "Mira Vale and Theo Arlen examine how surveying instruments, cadastral records, colonial conferences, and administrative maps turned uncertain frontiers into lines that governments could tax, police, and defend. Maps did more than represent territory: they helped manufacture the modern idea that sovereignty should fit inside exact, continuous borders.\n\nThe episode moves from triangulation and boundary monuments to the partition of India, colonial boundary-making, and today's satellite coordinate systems. Along the way, it asks what gets hidden when a complicated landscape is reduced to a line, and why borders can feel natural long after the political decisions that created them have been forgotten.\n\nCreated with Gemini Notebook.\n\nThe conversation and voices in this episode were generated with Gemini Notebook.\n\nFake voices, real facts.",
     "sources": [
       {
-        "title": "5th Street Arcades: Cleveland's Four-Season Shopping Streets - Cleveland Historical",
-        "url": "https://clevelandhistorical.org/items/show/236"
+        "title": "An OS History of the Theodolite - Ordnance Survey",
+        "url": "https://www.ordnancesurvey.co.uk/blog/an-os-history-of-the-theodolite"
       },
       {
-        "title": "E-Commerce Retail Sales as a Percent of Total Sales - Federal Reserve Bank of St. Louis",
-        "url": "https://fred.stlouisfed.org/series/ECOMPCTSA"
+        "title": "Cadastral Survey History - U.S. Bureau of Land Management",
+        "url": "https://www.blm.gov/programs/lands-and-realty/cadastral-survey/history"
       },
       {
-        "title": "Quarterly Retail E-Commerce Sales Report - U.S. Census Bureau",
-        "url": "https://www.census.gov/retail/ecommerce.html"
+        "title": "Changing Borders and Shifting Frontiers: Cartography of the New Millennium - International Cartographic Association",
+        "url": "https://icaci.org/files/documents/ICC_proceedings/ICC1995/"
       },
       {
-        "title": "Opening of Minnesota's Southdale Center - Library of Congress",
-        "url": "https://guides.loc.gov/this-month-in-business-history/october/opening-minnesota-southdale-center"
+        "title": "Deconstructing the Map - University of Michigan Digital Collections",
+        "url": "https://quod.lib.umich.edu/p/passages/4761530.0003.008/--deconstructing-the-map?rgn=main;view=fulltext"
       },
       {
-        "title": "Southdale Center: The First Indoor Shopping Mall - Minnesota Historical Society",
-        "url": "https://libguides.mnhs.org/southdale"
-      },
-      {
-        "title": "The Great American Shopping Mall: Past, Present, and Future - Cornell Journal of Law and Public Policy",
-        "url": "https://publications.lawschool.cornell.edu/jlpp/2021/10/12/the-great-american-shopping-mall-past-present-and-future/"
-      },
-      {
-        "title": "The Transformation of the American Shopping Mall - Smithsonian Magazine",
-        "url": "https://www.smithsonianmag.com/innovation/transformation-american-shopping-mall-180964837/"
+        "title": "Dividing the Subcontinent: The Radcliffe Line and Its Aftermath - British Online Archives",
+        "url": "https://britishonlinearchives.com/posts/category/notable-days/654/dividing-the-subcontinent-the-radcliffe-line-and"
       }
     ],
-    "slug": "episode-21-the-bizarre-mutation-of-american-shopping-malls",
+    "slug": "episode-22-how-maps-invented-the-modern-world",
     "youtube_url": "",
-    "art": "episodes/art/episode-21.png"
+    "art": "episodes/art/episode-22.png"
   },
   {
     "number": 20,
@@ -55,37 +47,6 @@
     "slug": "episode-20-the-20th-century-invention-of-teenagers",
     "youtube_url": "",
     "art": "episodes/art/episode-20.png"
-  },
-  {
-    "number": 19,
-    "patreon_url": "https://www.patreon.com/ZeldaReySkywalker/posts/how-air-built-166821950",
-    "member_release": "2026-09-18 08:00:00-07:00",
-    "public_release": null,
-    "exclusive": true,
-    "description": "Air conditioning began as a humidity solution for industrial printing, then transformed theaters, offices, homes, architecture, migration, energy use, and electoral power. This episode follows mechanical cooling from Willis Carrier's early systems to the mass-produced window unit and the postwar growth of the Sun Belt, while keeping the environmental bill in view.\n\nCreated with Gemini Notebook.\n\nThe conversation and voices in this episode were generated with Gemini Notebook.\n\nFake voices, real facts.",
-    "sources": [
-      {
-        "title": "History of Air Conditioning - U.S. Department of Energy",
-        "url": "https://www.energy.gov/articles/history-air-conditioning"
-      },
-      {
-        "title": "Sunbelt Migration - University of Central Florida",
-        "url": "https://vlp.cah.ucf.edu/popups/sunbelt.html"
-      },
-      {
-        "title": "The Air-Conditioned Century - American Heritage",
-        "url": "https://www.americanheritage.com/air-conditioned-century"
-      },
-      {
-        "title": "The History of Air Conditioning - Willis Carrier",
-        "url": "https://www.williscarrier.com/timeline"
-      }
-    ],
-    "title": "How Air Conditioning Built the Sunbelt",
-    "transcript_source": "source-transcripts/episode-19.txt",
-    "slug": "episode-19-how-air-conditioning-built-the-sunbelt",
-    "youtube_url": "https://www.youtube.com/shorts/ZU9g1rPLFOE",
-    "art": "episodes/art/episode-19.png"
   },
   {
     "number": 18,
@@ -117,37 +78,6 @@
     "slug": "episode-18-the-invention-of-the-normal-human",
     "youtube_url": "https://www.youtube.com/shorts/l7Jdvo1HhSs",
     "art": "episodes/art/episode-18.png"
-  },
-  {
-    "number": 17,
-    "patreon_url": "https://www.patreon.com/ZeldaReySkywalker/posts/how-railroad-166761695",
-    "member_release": "2026-09-11 08:00:00-07:00",
-    "public_release": null,
-    "exclusive": true,
-    "description": "Before standard time, noon arrived whenever the sun crossed each town's sky. Railroads, telegraphs, factories, and national markets made that local freedom increasingly unworkable. This episode follows the railroad conventions that synchronized North American clocks, the 1884 International Meridian Conference, the Standard Time Act, and the persistent fight over daylight saving time.\n\nCreated with Gemini Notebook.\n\nThe conversation and voices in this episode were generated with Gemini Notebook.\n\nFake voices, real facts.",
-    "sources": [
-      {
-        "title": "Time Standardization - Linda Hall Library",
-        "url": "https://www.lindahall.org/experience/digital-exhibitions/the-transcontinental-railroad/08-time-standardization/"
-      },
-      {
-        "title": "History of Time Zones and Daylight Saving Time - Bureau of Transportation Statistics",
-        "url": "https://www.bts.gov/explore-topics-and-geography/geography/geospatial-portal/history-time-zones-and-daylight-saving"
-      },
-      {
-        "title": "Proceedings of the 1884 International Meridian Conference - Project Gutenberg",
-        "url": "https://www.gutenberg.org/cache/epub/17759/pg17759-images.html"
-      },
-      {
-        "title": "Time Travel: Daylight Saving Time and the House - U.S. House History, Art & Archives",
-        "url": "https://history.house.gov/Blog/2019/November/11-1-Daylight-Saving/"
-      }
-    ],
-    "title": "How the Railroad Conquered the Clock",
-    "transcript_source": "source-transcripts/episode-17.txt",
-    "slug": "episode-17-how-the-railroad-conquered-the-clock",
-    "youtube_url": "https://www.youtube.com/shorts/yoSHep7KaeE",
-    "art": "episodes/art/episode-17.png"
   },
   {
     "number": 16,
@@ -192,60 +122,6 @@
     "art": "episodes/art/episode-16.png"
   },
   {
-    "number": 15,
-    "patreon_url": "https://www.patreon.com/ZeldaReySkywalker/posts/global-gender-to-164949307",
-    "member_release": "2026-09-04 08:00:00-07:00",
-    "public_release": null,
-    "exclusive": true,
-    "title": "Global Gender Variance from Hijras to Stonewall",
-    "description": "This episode follows transgender and gender-variant history through archives, culturally specific third-gender roles, Stonewall-era activism, Sylvia Rivera, Marsha P. Johnson, STAR, and the problem of reading older records with modern identity language. Mira and Theo keep the history global without flattening the people, places, and terms that make it specific. Created with Gemini Notebook. The conversation and voices in this episode were generated with Gemini Notebook.",
-    "sources": [
-      {
-        "title": "\"Hell Hath No Fury like a Drag Queen Scorned\": Sylvia Rivera's Activism, Resistance, and Resilience | OutHistory",
-        "url": "https://outhistory.org/exhibits/show/tgi-bios/sylvia-rivera"
-      },
-      {
-        "title": "Award-winning Digital Transgender Archive makes often hidden yet sprawling trans history accessible | Northeastern University",
-        "url": "https://cssh.northeastern.edu/award-winning-digital-transgender-archive-makes-often-hidden-yet-sprawling-trans-history-accessible/"
-      },
-      {
-        "title": "Gathering History: The Digital Transgender Archive | American Experience | PBS",
-        "url": "https://www.pbs.org/wgbh/americanexperience/features/gathering-history-digital-transgender-archive/"
-      },
-      {
-        "title": "Stonewall National Monument Cultural Landscape Inventory PDF | National Park Service",
-        "url": "https://parkplanning.nps.gov/showFile.cfm?projectID=75123&sfid=311315"
-      },
-      {
-        "title": "Marsha \"Pay it no Mind\" Johnson | OutHistory",
-        "url": "https://outhistory.org/exhibits/show/tgi-bios/marsha-p-johnson"
-      },
-      {
-        "title": "Gay Liberation in New York City, 1969-1973: Gay Liberation Front Page One | OutHistory",
-        "url": "https://outhistory.org/exhibits/show/gay-liberation-in-new-york-cit/glf/pg-1"
-      },
-      {
-        "title": "Gay Liberation in New York City, 1969-1973: STAR Page One | OutHistory",
-        "url": "https://outhistory.org/exhibits/show/gay-liberation-in-new-york-cit/star/pg-1"
-      },
-      {
-        "title": "Stonewall National Monument Cultural Landscape | National Park Service",
-        "url": "https://www.nps.gov/articles/000/stonewall-national-monument-landscape-976163.htm"
-      },
-      {
-        "title": "The Third Gender and Hijras | Religion and Public Life, Harvard Divinity School",
-        "url": "https://rpl.hds.harvard.edu/religion-context/case-studies/gender/third-gender-and-hijras"
-      },
-      {
-        "title": "Marsha P. Johnson & Sylvia Rivera Collection | Digital Transgender Archive",
-        "url": "https://www.digitaltransgenderarchive.net/col/j96020977"
-      }
-    ],
-    "slug": "episode-15-global-gender-variance-from-hijras-to-stonewall",
-    "youtube_url": "https://www.youtube.com/shorts/oVbLOmfwMjE",
-    "art": "episodes/art/episode-15.png"
-  },
-  {
     "number": 14,
     "patreon_url": "https://www.patreon.com/ZeldaReySkywalker/posts/accidental-birth-164944160",
     "member_release": "2026-09-02 08:00:00-07:00",
@@ -284,36 +160,6 @@
     "art": "episodes/art/episode-14.png"
   },
   {
-    "number": 13,
-    "patreon_url": "https://www.patreon.com/ZeldaReySkywalker/posts/163730548",
-    "member_release": "2026-08-28 00:00:00-07:00",
-    "public_release": null,
-    "exclusive": true,
-    "title": "Large Hadron Collider Science and Doomsday Myths",
-    "description": "The Large Hadron Collider is one of the most ambitious machines ever built, and also one of the easiest to mythologize. Mira and Theo trace its superconducting magnets, particle beams, detectors, Higgs-era discoveries, safety review, the 2008 electrical failure, black-hole fears, and conspiracy narratives while keeping real engineering risks separate from imagined catastrophe. Created with Gemini Notebook. The conversation and voices in this episode were generated with Gemini Notebook.",
-    "sources": [
-      {
-        "title": "Large Hadron Collider - CERN",
-        "url": "https://home.cern/resources/faqs/large-hadron-collider-dangerous"
-      },
-      {
-        "title": "CERN releases analysis of LHC incident - CERN",
-        "url": "https://home.cern/cern-releases-analysis-of-lhc-incident/"
-      },
-      {
-        "title": "Pulling together: Superconducting electromagnets - CERN",
-        "url": "https://home.cern/science/engineering/pulling-together-superconducting-electromagnets/"
-      },
-      {
-        "title": "Review of the safety of LHC collisions - CERN",
-        "url": "https://home.cern/sites/default/files/2018-07/CERN-Brochure-2017-002-Eng_0.pdf"
-      }
-    ],
-    "slug": "episode-13-large-hadron-collider-science-and-doomsday-myths",
-    "youtube_url": "https://www.youtube.com/shorts/KaJqoryaSlg",
-    "art": "episodes/art/episode-13.png"
-  },
-  {
     "number": 12,
     "patreon_url": "https://www.patreon.com/ZeldaReySkywalker/posts/from-james-to-163645380",
     "member_release": "2026-08-26 00:00:00-07:00",
@@ -342,36 +188,6 @@
     "slug": "episode-12-from-james-madison-to-the-football-field",
     "youtube_url": "https://www.youtube.com/shorts/wNQemmETk0s",
     "art": "episodes/art/episode-12.png"
-  },
-  {
-    "number": 11,
-    "patreon_url": "https://www.patreon.com/ZeldaReySkywalker/posts/how-sewer-built-163645230",
-    "member_release": "2026-08-21 00:00:00-07:00",
-    "public_release": null,
-    "exclusive": true,
-    "title": "How Sewer Socialists Built Modern America",
-    "description": "Before the Red Scares turned socialism into a national political alarm, American socialists were trying to run cities. Mira and Theo follow Milwaukee's sewer socialists, the Socialist Party, Eugene V. Debs, public ownership, sanitation, water, parks, labor, newspapers, and municipal elections to ask what it meant to make radical politics practical. Created with Gemini Notebook. The conversation and voices in this episode were generated with Gemini Notebook.",
-    "sources": [
-      {
-        "title": "How To Build A Socialist Government: Milwaukee and The Sewer Socialists - DigitalCommons@Macalester College",
-        "url": "https://digitalcommons.macalester.edu/cgi/viewcontent.cgi?article=1212&context=tapestries"
-      },
-      {
-        "title": "The Canton Speech: With Statements to the Jury and the Court - Eugene V. Debs Foundation",
-        "url": "https://debsfoundation.org/pdf/canton-and-court.pdf"
-      },
-      {
-        "title": "Socialist Party of America Papers: A Resource Guide - ProQuest",
-        "url": "https://about.proquest.com/globalassets/proquest/files/pdf-files/brochures/13943_socialist-party_resourceguide_web.pdf"
-      },
-      {
-        "title": "The Reading Labor Advocate and Socialist Power in Pennsylvania - Marxists Internet Archive",
-        "url": "https://www.marxists.org/history/usa/pubs/reading-labor-advocate/index.htm"
-      }
-    ],
-    "slug": "episode-11-how-sewer-socialists-built-modern-america",
-    "youtube_url": "https://www.youtube.com/shorts/yVECxHXcDqg",
-    "art": "episodes/art/episode-11.png"
   },
   {
     "number": 10,
