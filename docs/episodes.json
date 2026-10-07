@@ -1,5 +1,32 @@
 [
   {
+    "number": 24,
+    "patreon_url": "https://www.patreon.com/ZeldaReySkywalker/posts/why-humans-used-169111605",
+    "member_release": "2026-10-07 08:00:00-07:00",
+    "public_release": "2026-10-07 08:00:00-07:00",
+    "exclusive": false,
+    "title": "Why humans used to wake at midnight",
+    "description": "Episode24 compares historical first and second sleep with measured sleep in three contemporary non-industrial communities and an eight-person Colorado camping experiment. Plausible environmental explanations are interpretations, not universal biological prescriptions. Actigraphy estimates sleep, temperature associations do not establish sole causes, and the camping study measured circadian timing rather than a universal cure.\n\nCreated with Gemini Notebook.\n\nThe conversation and voices in this episode were generated with Gemini Notebook.\n\nFake voices, real facts.",
+    "sources": [
+      {
+        "title": "Yetish et al. (2015): Natural sleep and its seasonal variations in three pre-industrial societies",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4720388/"
+      },
+      {
+        "title": "Wright et al. (2013): Entrainment of the Human Circadian Clock to the Natural Light-Dark Cycle",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4020279/"
+      },
+      {
+        "title": "Roger Ekirch's segmented-sleep research",
+        "url": "https://sites.google.com/vt.edu/roger-ekirch/sleep-research/segmented-sleep"
+      }
+    ],
+    "slug": "episode-24-why-humans-used-to-wake-at-midnight",
+    "youtube_url": "https://youtube.com/shorts/FRTDnSpxecc",
+    "art": "episodes/art/episode-24.png",
+    "transcript_public": true
+  },
+  {
     "number": 23,
     "patreon_url": "https://www.patreon.com/ZeldaReySkywalker/posts/bureaucracy-how-168835860",
     "member_release": "2026-10-02 08:00:00-07:00",
