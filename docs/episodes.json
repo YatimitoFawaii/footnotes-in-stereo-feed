@@ -1,5 +1,40 @@
 [
   {
+    "number": 25,
+    "patreon_url": "https://www.patreon.com/ZeldaReySkywalker/posts/how-noise-became-169122992",
+    "member_release": "2026-10-09 08:00:00-07:00",
+    "public_release": null,
+    "exclusive": true,
+    "title": "How noise became a deadly social weapon",
+    "description": "Mira and Theo explore how unwanted sound became both a political category and a regulated health concern. Britain\u2019s 1935 anti-noise exhibition is examined through historian James Mansell\u2019s interpretation of class and gender, alongside the Noise Control Act, occupational hearing protection, NIOSH\u2019s research and quieter-equipment initiatives, and WHO\u2019s environmental-noise framework. Historical interpretations are attributed; this conversation is not personal medical or legal advice.\n\nCreated with Gemini Notebook.\n\nThe conversation and voices in this episode were generated with Gemini Notebook.\n\nFake voices, real facts.",
+    "sources": [
+      {
+        "title": "A Chamber of Noise Horrors: sound, technology and the museum",
+        "url": "https://journal.sciencemuseum.ac.uk/article/sound-technology-and-the-museum/"
+      },
+      {
+        "title": "Summary of the Noise Control Act",
+        "url": "https://www.epa.gov/laws-regulations/summary-noise-control-act"
+      },
+      {
+        "title": "NIOSH Noise: A 50-Year Timeline",
+        "url": "https://www.cdc.gov/niosh/bulletin/2022/noise-50.html"
+      },
+      {
+        "title": "Occupational Noise Exposure: Health Effects",
+        "url": "https://www.osha.gov/noise/health-effects"
+      },
+      {
+        "title": "WHO Environmental Noise Guidelines for the European Region",
+        "url": "https://www.who.int/europe/publications/i/item/9789289053563"
+      }
+    ],
+    "slug": "episode-25-how-noise-became-a-deadly-social-weapon",
+    "youtube_url": "https://youtube.com/shorts/XHdsHuwGnaE",
+    "art": "episodes/art/episode-25.png",
+    "transcript_public": false
+  },
+  {
     "number": 24,
     "patreon_url": "https://www.patreon.com/ZeldaReySkywalker/posts/why-humans-used-169111605",
     "member_release": "2026-10-07 08:00:00-07:00",
