@@ -1,5 +1,44 @@
 [
   {
+    "number": 26,
+    "patreon_url": "https://www.patreon.com/ZeldaReySkywalker/posts/from-medieval-to-169160274",
+    "member_release": "2026-10-14 08:00:00-07:00",
+    "public_release": "2026-10-14 08:00:00-07:00",
+    "exclusive": false,
+    "title": "From medieval sewers to digital civil rights",
+    "description": "Episode26 follows Roman and medieval sanitation infrastructure, public bathroom access and disability rights. Historical interpretations are attributed arguments, not proof of every builder's motives. ABA, ADA and federal Section508 scopes are distinguished. The Access Board enforces the ABA through complaints; the Chicago Press source is a publisher overview, not the full book. This is historical education, not individual legal advice.\n\nCreated with Gemini Notebook.\n\nThe conversation and voices in this episode were generated with Gemini Notebook.\n\nFake voices, real facts.",
+    "sources": [
+      {
+        "title": "How the Ancient Romans Went to the Bathroom",
+        "url": "https://www.smithsonianmag.com/history/how-the-ancient-romans-went-to-the-bathroom-180979056/"
+      },
+      {
+        "title": "Crossness Engines Trust: Medieval privies and latrines",
+        "url": "https://www.toilet-timeline.co.uk/medieval-privies-latrines"
+      },
+      {
+        "title": "U.S. Access Board: Architectural Barriers Act",
+        "url": "https://www.access-board.gov/about/law/aba.html"
+      },
+      {
+        "title": "U.S. Access Board history",
+        "url": "https://www.access-board.gov/about/history.html"
+      },
+      {
+        "title": "Bryant Simon: For Customers Only (publisher overview)",
+        "url": "https://press.uchicago.edu/ucp/books/book/chicago/F/bo271056461.html"
+      },
+      {
+        "title": "GAO editorial cross-check: Federal Real Property, September22 2026",
+        "url": "https://www.gao.gov/products/gao-26-108575"
+      }
+    ],
+    "slug": "episode-26-from-medieval-sewers-to-digital-civil-rights",
+    "youtube_url": "https://youtube.com/shorts/A7SEdVhUQWg",
+    "art": "episodes/art/episode-26.png",
+    "transcript_public": true
+  },
+  {
     "number": 25,
     "patreon_url": "https://www.patreon.com/ZeldaReySkywalker/posts/how-noise-became-169122992",
     "member_release": "2026-10-09 08:00:00-07:00",
