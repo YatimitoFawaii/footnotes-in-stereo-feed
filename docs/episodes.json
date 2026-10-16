@@ -1,5 +1,32 @@
 [
   {
+    "number": 27,
+    "patreon_url": "https://www.patreon.com/ZeldaReySkywalker/posts/who-owns-worlds-169186888",
+    "member_release": "2026-10-16 08:00:00-07:00",
+    "public_release": null,
+    "exclusive": true,
+    "title": "Who owns the world's stolen history",
+    "description": "Mira and Theo compare the British Museum\u2019s specific disposal rules with the U.S. NAGPRA process for certain Native American and Native Hawaiian human remains and cultural items. They examine consultation, custody versus control, the Smithsonian\u2019s separate statutory route, and the difference between legal duties and moral interpretations. This source-grounded historical discussion is not legal advice or a claim that either law governs every museum or return request.\n\nCreated with Gemini Notebook.\n\nThe conversation and voices in this episode were generated with Gemini Notebook.\n\nFake voices, real facts.",
+    "sources": [
+      {
+        "title": "British Museum Act 1963, Section 5",
+        "url": "https://www.legislation.gov.uk/ukpga/1963/24/section/5"
+      },
+      {
+        "title": "U.S. National Park Service: NAGPRA Compliance",
+        "url": "https://www.nps.gov/subjects/nagpra/compliance.htm"
+      },
+      {
+        "title": "U.S. National Park Service: NAGPRA Frequently Asked Questions",
+        "url": "https://www.nps.gov/subjects/nagpra/frequently-asked-questions.htm"
+      }
+    ],
+    "slug": "episode-27-who-owns-the-world-s-stolen-history",
+    "youtube_url": "https://youtube.com/shorts/kbk5JyPzwmE",
+    "art": "episodes/art/episode-27.png",
+    "transcript_public": false
+  },
+  {
     "number": 26,
     "patreon_url": "https://www.patreon.com/ZeldaReySkywalker/posts/from-medieval-to-169160274",
     "member_release": "2026-10-14 08:00:00-07:00",
