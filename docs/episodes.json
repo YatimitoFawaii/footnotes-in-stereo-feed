@@ -1,5 +1,36 @@
 [
   {
+    "number": 28,
+    "patreon_url": "https://www.patreon.com/ZeldaReySkywalker/posts/from-snake-oil-169535851",
+    "member_release": "2026-10-21 08:00:00-07:00",
+    "public_release": "2026-10-21 08:00:00-07:00",
+    "exclusive": false,
+    "title": "from snake oil to modern scienceploitation",
+    "description": "This episode explores the history of health-product claims, consumer protection and scientific evidence. Historical overview and clearly signposted interpretations\u2014not personal medical or legal advice. Created with Gemini Notebook. AI-generated conversation and voices. Fake voices, real facts.",
+    "sources": [
+      {
+        "title": "80 Years of the Federal Food, Drug, and Cosmetic Act \u2014 FDA",
+        "url": "https://www.fda.gov/about-fda/fda-history-exhibits/80-years-federal-food-drug-and-cosmetic-act"
+      },
+      {
+        "title": "Health Products Compliance Guidance \u2014 Federal Trade Commission",
+        "url": "https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance"
+      },
+      {
+        "title": "Structure/Function Claims \u2014 FDA",
+        "url": "https://www.fda.gov/food/food-labeling-nutrition/structurefunction-claims"
+      },
+      {
+        "title": "Mission, Origin, and Mandate \u2014 NIH Office of Dietary Supplements",
+        "url": "https://ods.od.nih.gov/About/MissionOriginMandate.aspx"
+      }
+    ],
+    "slug": "episode-28-from-snake-oil-to-modern-scienceploitation",
+    "youtube_url": "https://youtube.com/shorts/l798S_z39qU",
+    "art": "episodes/art/episode-28.png",
+    "transcript_public": true
+  },
+  {
     "number": 27,
     "patreon_url": "https://www.patreon.com/ZeldaReySkywalker/posts/who-owns-worlds-169186888",
     "member_release": "2026-10-16 08:00:00-07:00",
