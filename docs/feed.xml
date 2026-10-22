@@ -16,8 +16,8 @@
     <itunes:category text="Education" />
     <language>en-US</language>
     <copyright>2026 Zelda Rey Skywalker</copyright>
-    <pubDate>Thu, 22 Oct 2026 04:13:31 +0000</pubDate>
-    <lastBuildDate>Thu, 22 Oct 2026 04:13:31 +0000</lastBuildDate>
+    <pubDate>Thu, 22 Oct 2026 05:24:58 +0000</pubDate>
+    <lastBuildDate>Thu, 22 Oct 2026 05:24:58 +0000</lastBuildDate>
     <generator>Footnotes in Stereo feed mirror</generator>
     <image>
       <url>https://yatimitofawaii.github.io/footnotes-in-stereo-feed/art/cover.jpg</url>
@@ -26,6 +26,52 @@
     </image>
     <itunes:summary>Footnotes in Stereo is a series of conversational research deep dives hosted by Mira Vale and Theo Arlen. Each episode follows a stack of sources into a different corner of culture, technology, art, religion, and history: the arguments, inventions, translations, and practical details that changed how people make meaning. Public episodes arrive Wednesdays, and Patreon subscribers receive an additional bonus episode every Friday. Created with Gemini Notebook. The conversations and voices are generated with Gemini Notebook.</itunes:summary>
     <itunes:subtitle>Conversational research deep dives with Mira Vale and Theo Arlen.</itunes:subtitle>
+    <item>
+      <title>from snake oil to modern scienceploitation</title>
+      <link>https://www.patreon.com/ZeldaReySkywalker/posts/from-snake-oil-169535851</link>
+      <itunes:episode>28</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>3242</itunes:duration>
+      <description>This episode follows the American wellness business from patent medicines and miracle cures to supplements, social-media advertising, and the language of scientific evidence. It explores how the 1906 and 1938 laws, today’s advertising guidance, supplement-label duties and public research changed consumer protection. Historical overview and clearly signposted interpretations—not personal medical or legal advice.
+Created with Gemini Notebook. The conversation and voices were generated with Gemini Notebook. Fake voices, real facts.
+Sources used by this corrected edition (all four selected government sources):
+FDA — 80 Years of the Federal Food, Drug, and Cosmetic Act:
+https://www.fda.gov/about-fda/fda-history-exhibits/80-years-federal-food-drug-and-cosmetic-act
+Federal Trade Commission — Health Products Compliance Guidance:
+https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance
+FDA — Structure/Function Claims:
+https://www.fda.gov/food/food-labeling-nutrition/structurefunction-claims
+NIH Office of Dietary Supplements — Mission, Origin, and Mandate:
+https://ods.od.nih.gov/About/MissionOriginMandate.aspx</description>
+      <enclosure url="https://yatimitofawaii.github.io/footnotes-in-stereo-feed/audio/from-snake-oil-to-modern-scienceploitation.m4a" length="79212112" type="audio/mp4" />
+      <guid isPermaLink="false">169535851</guid>
+      <pubDate>Thu, 22 Oct 2026 05:20:52 +0000</pubDate>
+      <itunes:summary>This episode follows the American wellness business from patent medicines and miracle cures to supplements, social-media advertising, and the language of scientific evidence. It explores how the 1906 and 1938 laws, today’s advertising guidance, supplement-label duties and public research changed consumer protection. Historical overview and clearly signposted interpretations—not personal medical or legal advice.
+Created with Gemini Notebook. The conversation and voices were generated with Gemini Notebook. Fake voices, real facts.
+Sources used by this corrected edition (all four selected government sources):
+FDA — 80 Years of the Federal Food, Drug, and Cosmetic Act:
+https://www.fda.gov/about-fda/fda-history-exhibits/80-years-federal-food-drug-and-cosmetic-act
+Federal Trade Commission — Health Products Compliance Guidance:
+https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance
+FDA — Structure/Function Claims:
+https://www.fda.gov/food/food-labeling-nutrition/structurefunction-claims
+NIH Office of Dietary Supplements — Mission, Origin, and Mandate:
+https://ods.od.nih.gov/About/MissionOriginMandate.aspx</itunes:summary>
+      <itunes:subtitle>This episode follows the American wellness business from patent medicines and miracle cures to supplements, social-media advertising, and the language of scientific evidence. It explores how the 1906 and 1938 laws, today’s advertising guidance, supplement</itunes:subtitle>
+      <content:encoded>This episode follows the American wellness business from patent medicines and miracle cures to supplements, social-media advertising, and the language of scientific evidence. It explores how the 1906 and 1938 laws, today’s advertising guidance, supplement-label duties and public research changed consumer protection. Historical overview and clearly signposted interpretations—not personal medical or legal advice.
+Created with Gemini Notebook. The conversation and voices were generated with Gemini Notebook. Fake voices, real facts.
+Sources used by this corrected edition (all four selected government sources):
+FDA — 80 Years of the Federal Food, Drug, and Cosmetic Act:
+https://www.fda.gov/about-fda/fda-history-exhibits/80-years-federal-food-drug-and-cosmetic-act
+Federal Trade Commission — Health Products Compliance Guidance:
+https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance
+FDA — Structure/Function Claims:
+https://www.fda.gov/food/food-labeling-nutrition/structurefunction-claims
+NIH Office of Dietary Supplements — Mission, Origin, and Mandate:
+https://ods.od.nih.gov/About/MissionOriginMandate.aspx</content:encoded>
+      <itunes:author>Mira Vale and Theo Arlen</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>From medieval sewers to digital civil rights</title>
       <link>https://www.patreon.com/ZeldaReySkywalker/posts/from-medieval-to-169160274</link>
