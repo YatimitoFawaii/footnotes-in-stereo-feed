@@ -1,63 +1,5 @@
 [
   {
-    "number": 28,
-    "patreon_url": "https://www.patreon.com/ZeldaReySkywalker/posts/from-snake-oil-169535851",
-    "member_release": "2026-10-21 08:00:00-07:00",
-    "public_release": "2026-10-21 08:00:00-07:00",
-    "exclusive": false,
-    "title": "from snake oil to modern scienceploitation",
-    "description": "This episode explores the history of health-product claims, consumer protection and scientific evidence. Historical overview and clearly signposted interpretations\u2014not personal medical or legal advice. Created with Gemini Notebook. AI-generated conversation and voices. Fake voices, real facts.",
-    "sources": [
-      {
-        "title": "80 Years of the Federal Food, Drug, and Cosmetic Act \u2014 FDA",
-        "url": "https://www.fda.gov/about-fda/fda-history-exhibits/80-years-federal-food-drug-and-cosmetic-act"
-      },
-      {
-        "title": "Health Products Compliance Guidance \u2014 Federal Trade Commission",
-        "url": "https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance"
-      },
-      {
-        "title": "Structure/Function Claims \u2014 FDA",
-        "url": "https://www.fda.gov/food/food-labeling-nutrition/structurefunction-claims"
-      },
-      {
-        "title": "Mission, Origin, and Mandate \u2014 NIH Office of Dietary Supplements",
-        "url": "https://ods.od.nih.gov/About/MissionOriginMandate.aspx"
-      }
-    ],
-    "slug": "episode-28-from-snake-oil-to-modern-scienceploitation",
-    "youtube_url": "https://youtube.com/shorts/l798S_z39qU",
-    "art": "episodes/art/episode-28.png",
-    "transcript_public": true
-  },
-  {
-    "number": 27,
-    "patreon_url": "https://www.patreon.com/ZeldaReySkywalker/posts/who-owns-worlds-169186888",
-    "member_release": "2026-10-16 08:00:00-07:00",
-    "public_release": null,
-    "exclusive": true,
-    "title": "Who owns the world's stolen history",
-    "description": "Mira and Theo compare the British Museum\u2019s specific disposal rules with the U.S. NAGPRA process for certain Native American and Native Hawaiian human remains and cultural items. They examine consultation, custody versus control, the Smithsonian\u2019s separate statutory route, and the difference between legal duties and moral interpretations. This source-grounded historical discussion is not legal advice or a claim that either law governs every museum or return request.\n\nCreated with Gemini Notebook.\n\nThe conversation and voices in this episode were generated with Gemini Notebook.\n\nFake voices, real facts.",
-    "sources": [
-      {
-        "title": "British Museum Act 1963, Section 5",
-        "url": "https://www.legislation.gov.uk/ukpga/1963/24/section/5"
-      },
-      {
-        "title": "U.S. National Park Service: NAGPRA Compliance",
-        "url": "https://www.nps.gov/subjects/nagpra/compliance.htm"
-      },
-      {
-        "title": "U.S. National Park Service: NAGPRA Frequently Asked Questions",
-        "url": "https://www.nps.gov/subjects/nagpra/frequently-asked-questions.htm"
-      }
-    ],
-    "slug": "episode-27-who-owns-the-world-s-stolen-history",
-    "youtube_url": "https://youtube.com/shorts/kbk5JyPzwmE",
-    "art": "episodes/art/episode-27.png",
-    "transcript_public": false
-  },
-  {
     "number": 26,
     "patreon_url": "https://www.patreon.com/ZeldaReySkywalker/posts/from-medieval-to-169160274",
     "member_release": "2026-10-14 08:00:00-07:00",
@@ -97,41 +39,6 @@
     "transcript_public": true
   },
   {
-    "number": 25,
-    "patreon_url": "https://www.patreon.com/ZeldaReySkywalker/posts/how-noise-became-169122992",
-    "member_release": "2026-10-09 08:00:00-07:00",
-    "public_release": null,
-    "exclusive": true,
-    "title": "How noise became a deadly social weapon",
-    "description": "Mira and Theo explore how unwanted sound became both a political category and a regulated health concern. Britain\u2019s 1935 anti-noise exhibition is examined through historian James Mansell\u2019s interpretation of class and gender, alongside the Noise Control Act, occupational hearing protection, NIOSH\u2019s research and quieter-equipment initiatives, and WHO\u2019s environmental-noise framework. Historical interpretations are attributed; this conversation is not personal medical or legal advice.\n\nCreated with Gemini Notebook.\n\nThe conversation and voices in this episode were generated with Gemini Notebook.\n\nFake voices, real facts.",
-    "sources": [
-      {
-        "title": "A Chamber of Noise Horrors: sound, technology and the museum",
-        "url": "https://journal.sciencemuseum.ac.uk/article/sound-technology-and-the-museum/"
-      },
-      {
-        "title": "Summary of the Noise Control Act",
-        "url": "https://www.epa.gov/laws-regulations/summary-noise-control-act"
-      },
-      {
-        "title": "NIOSH Noise: A 50-Year Timeline",
-        "url": "https://www.cdc.gov/niosh/bulletin/2022/noise-50.html"
-      },
-      {
-        "title": "Occupational Noise Exposure: Health Effects",
-        "url": "https://www.osha.gov/noise/health-effects"
-      },
-      {
-        "title": "WHO Environmental Noise Guidelines for the European Region",
-        "url": "https://www.who.int/europe/publications/i/item/9789289053563"
-      }
-    ],
-    "slug": "episode-25-how-noise-became-a-deadly-social-weapon",
-    "youtube_url": "https://youtube.com/shorts/XHdsHuwGnaE",
-    "art": "episodes/art/episode-25.png",
-    "transcript_public": false
-  },
-  {
     "number": 24,
     "patreon_url": "https://www.patreon.com/ZeldaReySkywalker/posts/why-humans-used-169111605",
     "member_release": "2026-10-07 08:00:00-07:00",
@@ -157,41 +64,6 @@
     "youtube_url": "https://youtube.com/shorts/FRTDnSpxecc",
     "art": "episodes/art/episode-24.png",
     "transcript_public": true
-  },
-  {
-    "number": 23,
-    "patreon_url": "https://www.patreon.com/ZeldaReySkywalker/posts/bureaucracy-how-168835860",
-    "member_release": "2026-10-02 08:00:00-07:00",
-    "public_release": null,
-    "exclusive": true,
-    "title": "The Bureaucracy Machine: How Paperwork Became Power",
-    "description": "Mira Vale and Theo Arlen trace the long history of bureaucracy, from paper files and forms to the digital systems that now decide who can access benefits, prove an identity, cross a border, or challenge a government decision. Paperwork is often treated as administrative background noise. In practice, it can decide whose time counts, whose story is legible, and who gets locked out.\n\nThe episode follows the rise of records-based administration, the hidden costs of forms and compliance, and the shift from filing cabinets to automated decision systems. It asks what changes when a rule becomes a database field, and why an error can become harder to correct once an institution treats it as data.\n\nCreated with Gemini Notebook.\n\nThe conversation and voices in this episode were generated with Gemini Notebook.\n\nFake voices, real facts.",
-    "sources": [
-      {
-        "title": "Administrative Burden - Russell Sage Foundation",
-        "url": "https://www.russellsage.org/publications/book/administrative-burden"
-      },
-      {
-        "title": "Administrative Burdens in the Social Safety Net - American Economic Association",
-        "url": "https://doi.org/10.1257/jep.20231394"
-      },
-      {
-        "title": "Administrative Burdens in Social Policy - Bloomsbury Academic",
-        "url": "https://doi.org/10.5040/9798765158098.0021"
-      },
-      {
-        "title": "Managing unintended consequences of algorithmic decision-making: The case of Robodebt - Policy & Politics",
-        "url": "https://doi.org/10.1177/20438869231165538"
-      },
-      {
-        "title": "Exclusion by Design: How digital identity systems can exclude - Privacy International",
-        "url": "https://www.privacyinternational.org/long-read/3917/exclusion-design-how-digital-identity-systems-can-exclude"
-      }
-    ],
-    "slug": "episode-23-the-bureaucracy-machine-how-paperwork-became-power",
-    "youtube_url": "https://youtube.com/shorts/Hpv0XmX4Xvg",
-    "art": "episodes/art/episode-23.png",
-    "transcript_public": false
   },
   {
     "number": 22,
@@ -227,89 +99,6 @@
     "youtube_url": "https://www.youtube.com/shorts/QRns5dKWxGk",
     "art": "episodes/art/episode-22.png",
     "transcript_public": true
-  },
-  {
-    "number": 21,
-    "patreon_url": "https://www.patreon.com/ZeldaReySkywalker/posts/bizarre-mutation-168345245",
-    "member_release": "2026-09-25 08:00:00-07:00",
-    "public_release": null,
-    "exclusive": true,
-    "title": "The Bizarre Mutation of American Shopping Malls",
-    "description": "Mira Vale and Theo Arlen trace the shopping mall from the iron-and-glass arcades of the nineteenth century to Victor Gruen's climate-controlled suburban ideal, then through the retail consolidation, e-commerce boom, and redevelopment experiments that followed. The mall was never only a collection of stores: it was architecture designed to turn shopping into spectacle, social life, and a substitute town square.\n\nThe episode follows Southdale Center's influential design, the economics that made enclosed malls proliferate, and the pressures that left many of them vacant or radically repurposed. It also looks beyond the familiar \"dead mall\" story to the afterlives of these buildings as housing, clinics, libraries, offices, markets, and other community spaces.\n\nCreated with Gemini Notebook.\n\nThe conversation and voices in this episode were generated with Gemini Notebook.\n\nFake voices, real facts.",
-    "sources": [
-      {
-        "title": "5th Street Arcades: Cleveland's Four-Season Shopping Streets - Cleveland Historical",
-        "url": "https://clevelandhistorical.org/items/show/236"
-      },
-      {
-        "title": "E-Commerce Retail Sales as a Percent of Total Sales - Federal Reserve Bank of St. Louis",
-        "url": "https://fred.stlouisfed.org/series/ECOMPCTSA"
-      },
-      {
-        "title": "Quarterly Retail E-Commerce Sales Report - U.S. Census Bureau",
-        "url": "https://www.census.gov/retail/ecommerce.html"
-      },
-      {
-        "title": "Opening of Minnesota's Southdale Center - Library of Congress",
-        "url": "https://guides.loc.gov/this-month-in-business-history/october/opening-minnesota-southdale-center"
-      },
-      {
-        "title": "Southdale Center: The First Indoor Shopping Mall - Minnesota Historical Society",
-        "url": "https://libguides.mnhs.org/southdale"
-      },
-      {
-        "title": "Southdale Center - Gruen Associates",
-        "url": "https://www.gruenassociates.com/project/southdale-center/"
-      },
-      {
-        "title": "The Economic History of the Shopping Mall \u2014 and Its Future (Yes, It Does Have One) - Richmond Fed",
-        "url": "https://www.richmondfed.org/publications/research/econ_focus/2022/q3_economic_history"
-      },
-      {
-        "title": "The Great American Shopping Mall: Past, Present, and Future - Cornell Journal of Law and Public Policy",
-        "url": "https://publications.lawschool.cornell.edu/jlpp/2021/10/12/the-great-american-shopping-mall-past-present-and-future/"
-      },
-      {
-        "title": "The Transformation of the American Shopping Mall - Smithsonian Magazine",
-        "url": "https://www.smithsonianmag.com/innovation/transformation-american-shopping-mall-180964837/"
-      },
-      {
-        "title": "What did the shopping mall look like in 1956? - PBS News",
-        "url": "https://www.pbs.org/newshour/nation/shopping-mall-look-like-1956"
-      },
-      {
-        "title": "5th Street Arcades: Cleveland's Four-Season Shopping Streets - Cleveland Historical",
-        "url": "https://clevelandhistorical.org/items/show/236"
-      },
-      {
-        "title": "E-Commerce Retail Sales as a Percent of Total Sales - Federal Reserve Bank of St. Louis",
-        "url": "https://fred.stlouisfed.org/series/ECOMPCTSA"
-      },
-      {
-        "title": "Quarterly Retail E-Commerce Sales Report - U.S. Census Bureau",
-        "url": "https://www.census.gov/retail/ecommerce.html"
-      },
-      {
-        "title": "Opening of Minnesota's Southdale Center - Library of Congress",
-        "url": "https://guides.loc.gov/this-month-in-business-history/october/opening-minnesota-southdale-center"
-      },
-      {
-        "title": "Southdale Center: The First Indoor Shopping Mall - Minnesota Historical Society",
-        "url": "https://libguides.mnhs.org/southdale"
-      },
-      {
-        "title": "The Great American Shopping Mall: Past, Present, and Future - Cornell Journal of Law and Public Policy",
-        "url": "https://publications.lawschool.cornell.edu/jlpp/2021/10/12/the-great-american-shopping-mall-past-present-and-future/"
-      },
-      {
-        "title": "The Transformation of the American Shopping Mall - Smithsonian Magazine",
-        "url": "https://www.smithsonianmag.com/innovation/transformation-american-shopping-mall-180964837/"
-      }
-    ],
-    "slug": "episode-21-the-bizarre-mutation-of-american-shopping-malls",
-    "youtube_url": "https://www.youtube.com/shorts/VYVvtJjPuwA",
-    "art": "episodes/art/episode-21.png",
-    "transcript_public": false
   },
   {
     "number": 20,
@@ -355,37 +144,6 @@
     "transcript_public": true
   },
   {
-    "number": 19,
-    "patreon_url": "https://www.patreon.com/ZeldaReySkywalker/posts/how-air-built-166821950",
-    "member_release": "2026-09-18 08:00:00-07:00",
-    "public_release": null,
-    "exclusive": true,
-    "title": "How Air Conditioning Built the Sunbelt",
-    "description": "Air conditioning began as a humidity solution for industrial printing, then transformed theaters, offices, homes, architecture, migration, energy use, and electoral power. This episode follows mechanical cooling from Willis Carrier's early systems to the mass-produced window unit and the postwar growth of the Sun Belt, while keeping the environmental bill in view.\n\nCreated with Gemini Notebook.\n\nThe conversation and voices in this episode were generated with Gemini Notebook.\n\nFake voices, real facts.",
-    "sources": [
-      {
-        "title": "History of Air Conditioning - U.S. Department of Energy",
-        "url": "https://www.energy.gov/articles/history-air-conditioning"
-      },
-      {
-        "title": "Sunbelt Migration - University of Central Florida",
-        "url": "https://vlp.cah.ucf.edu/popups/sunbelt.html"
-      },
-      {
-        "title": "The Air-Conditioned Century - American Heritage",
-        "url": "https://www.americanheritage.com/air-conditioned-century"
-      },
-      {
-        "title": "The History of Air Conditioning - Willis Carrier",
-        "url": "https://www.williscarrier.com/timeline"
-      }
-    ],
-    "slug": "episode-19-how-air-conditioning-built-the-sunbelt",
-    "youtube_url": "https://www.youtube.com/shorts/ZU9g1rPLFOE",
-    "art": "episodes/art/episode-19.png",
-    "transcript_public": false
-  },
-  {
     "number": 18,
     "patreon_url": "https://www.patreon.com/ZeldaReySkywalker/posts/invention-of-166762717",
     "member_release": "2026-09-16 08:00:00-07:00",
@@ -415,37 +173,6 @@
     "youtube_url": "https://www.youtube.com/shorts/l7Jdvo1HhSs",
     "art": "episodes/art/episode-18.png",
     "transcript_public": true
-  },
-  {
-    "number": 17,
-    "patreon_url": "https://www.patreon.com/ZeldaReySkywalker/posts/how-railroad-166761695",
-    "member_release": "2026-09-11 08:00:00-07:00",
-    "public_release": null,
-    "exclusive": true,
-    "title": "How the Railroad Conquered the Clock",
-    "description": "Before standard time, noon arrived whenever the sun crossed each town's sky. Railroads, telegraphs, factories, and national markets made that local freedom increasingly unworkable. This episode follows the railroad conventions that synchronized North American clocks, the 1884 International Meridian Conference, the Standard Time Act, and the persistent fight over daylight saving time.\n\nCreated with Gemini Notebook.\n\nThe conversation and voices in this episode were generated with Gemini Notebook.\n\nFake voices, real facts.",
-    "sources": [
-      {
-        "title": "Time Standardization - Linda Hall Library",
-        "url": "https://www.lindahall.org/experience/digital-exhibitions/the-transcontinental-railroad/08-time-standardization/"
-      },
-      {
-        "title": "History of Time Zones and Daylight Saving Time - Bureau of Transportation Statistics",
-        "url": "https://www.bts.gov/explore-topics-and-geography/geography/geospatial-portal/history-time-zones-and-daylight-saving"
-      },
-      {
-        "title": "Proceedings of the 1884 International Meridian Conference - Project Gutenberg",
-        "url": "https://www.gutenberg.org/cache/epub/17759/pg17759-images.html"
-      },
-      {
-        "title": "Time Travel: Daylight Saving Time and the House - U.S. House History, Art & Archives",
-        "url": "https://history.house.gov/Blog/2019/November/11-1-Daylight-Saving/"
-      }
-    ],
-    "slug": "episode-17-how-the-railroad-conquered-the-clock",
-    "youtube_url": "https://www.youtube.com/shorts/yoSHep7KaeE",
-    "art": "episodes/art/episode-17.png",
-    "transcript_public": false
   },
   {
     "number": 16,
@@ -491,61 +218,6 @@
     "transcript_public": true
   },
   {
-    "number": 15,
-    "patreon_url": "https://www.patreon.com/ZeldaReySkywalker/posts/global-gender-to-164949307",
-    "member_release": "2026-09-04 08:00:00-07:00",
-    "public_release": null,
-    "exclusive": true,
-    "title": "Global Gender Variance from Hijras to Stonewall",
-    "description": "This episode follows transgender and gender-variant history through archives, culturally specific third-gender roles, Stonewall-era activism, Sylvia Rivera, Marsha P. Johnson, STAR, and the problem of reading older records with modern identity language. Mira and Theo keep the history global without flattening the people, places, and terms that make it specific. Created with Gemini Notebook. The conversation and voices in this episode were generated with Gemini Notebook.",
-    "sources": [
-      {
-        "title": "\"Hell Hath No Fury like a Drag Queen Scorned\": Sylvia Rivera's Activism, Resistance, and Resilience | OutHistory",
-        "url": "https://outhistory.org/exhibits/show/tgi-bios/sylvia-rivera"
-      },
-      {
-        "title": "Award-winning Digital Transgender Archive makes often hidden yet sprawling trans history accessible | Northeastern University",
-        "url": "https://cssh.northeastern.edu/award-winning-digital-transgender-archive-makes-often-hidden-yet-sprawling-trans-history-accessible/"
-      },
-      {
-        "title": "Gathering History: The Digital Transgender Archive | American Experience | PBS",
-        "url": "https://www.pbs.org/wgbh/americanexperience/features/gathering-history-digital-transgender-archive/"
-      },
-      {
-        "title": "Stonewall National Monument Cultural Landscape Inventory PDF | National Park Service",
-        "url": "https://parkplanning.nps.gov/showFile.cfm?projectID=75123&sfid=311315"
-      },
-      {
-        "title": "Marsha \"Pay it no Mind\" Johnson | OutHistory",
-        "url": "https://outhistory.org/exhibits/show/tgi-bios/marsha-p-johnson"
-      },
-      {
-        "title": "Gay Liberation in New York City, 1969-1973: Gay Liberation Front Page One | OutHistory",
-        "url": "https://outhistory.org/exhibits/show/gay-liberation-in-new-york-cit/glf/pg-1"
-      },
-      {
-        "title": "Gay Liberation in New York City, 1969-1973: STAR Page One | OutHistory",
-        "url": "https://outhistory.org/exhibits/show/gay-liberation-in-new-york-cit/star/pg-1"
-      },
-      {
-        "title": "Stonewall National Monument Cultural Landscape | National Park Service",
-        "url": "https://www.nps.gov/articles/000/stonewall-national-monument-landscape-976163.htm"
-      },
-      {
-        "title": "The Third Gender and Hijras | Religion and Public Life, Harvard Divinity School",
-        "url": "https://rpl.hds.harvard.edu/religion-context/case-studies/gender/third-gender-and-hijras"
-      },
-      {
-        "title": "Marsha P. Johnson & Sylvia Rivera Collection | Digital Transgender Archive",
-        "url": "https://www.digitaltransgenderarchive.net/col/j96020977"
-      }
-    ],
-    "slug": "episode-15-global-gender-variance-from-hijras-to-stonewall",
-    "youtube_url": "https://www.youtube.com/shorts/oVbLOmfwMjE",
-    "art": "episodes/art/episode-15.png",
-    "transcript_public": false
-  },
-  {
     "number": 14,
     "patreon_url": "https://www.patreon.com/ZeldaReySkywalker/posts/accidental-birth-164944160",
     "member_release": "2026-09-02 08:00:00-07:00",
@@ -585,37 +257,6 @@
     "transcript_public": true
   },
   {
-    "number": 13,
-    "patreon_url": "https://www.patreon.com/ZeldaReySkywalker/posts/163730548",
-    "member_release": "2026-08-28 00:00:00-07:00",
-    "public_release": null,
-    "exclusive": true,
-    "title": "Large Hadron Collider Science and Doomsday Myths",
-    "description": "The Large Hadron Collider is one of the most ambitious machines ever built, and also one of the easiest to mythologize. Mira and Theo trace its superconducting magnets, particle beams, detectors, Higgs-era discoveries, safety review, the 2008 electrical failure, black-hole fears, and conspiracy narratives while keeping real engineering risks separate from imagined catastrophe. Created with Gemini Notebook. The conversation and voices in this episode were generated with Gemini Notebook.",
-    "sources": [
-      {
-        "title": "Large Hadron Collider - CERN",
-        "url": "https://home.cern/resources/faqs/large-hadron-collider-dangerous"
-      },
-      {
-        "title": "CERN releases analysis of LHC incident - CERN",
-        "url": "https://home.cern/cern-releases-analysis-of-lhc-incident/"
-      },
-      {
-        "title": "Pulling together: Superconducting electromagnets - CERN",
-        "url": "https://home.cern/science/engineering/pulling-together-superconducting-electromagnets/"
-      },
-      {
-        "title": "Review of the safety of LHC collisions - CERN",
-        "url": "https://home.cern/sites/default/files/2018-07/CERN-Brochure-2017-002-Eng_0.pdf"
-      }
-    ],
-    "slug": "episode-13-large-hadron-collider-science-and-doomsday-myths",
-    "youtube_url": "https://www.youtube.com/shorts/KaJqoryaSlg",
-    "art": "episodes/art/episode-13.png",
-    "transcript_public": false
-  },
-  {
     "number": 12,
     "patreon_url": "https://www.patreon.com/ZeldaReySkywalker/posts/from-james-to-163645380",
     "member_release": "2026-08-26 00:00:00-07:00",
@@ -645,37 +286,6 @@
     "youtube_url": "https://www.youtube.com/shorts/wNQemmETk0s",
     "art": "episodes/art/episode-12.png",
     "transcript_public": true
-  },
-  {
-    "number": 11,
-    "patreon_url": "https://www.patreon.com/ZeldaReySkywalker/posts/how-sewer-built-163645230",
-    "member_release": "2026-08-21 00:00:00-07:00",
-    "public_release": null,
-    "exclusive": true,
-    "title": "How Sewer Socialists Built Modern America",
-    "description": "Before the Red Scares turned socialism into a national political alarm, American socialists were trying to run cities. Mira and Theo follow Milwaukee's sewer socialists, the Socialist Party, Eugene V. Debs, public ownership, sanitation, water, parks, labor, newspapers, and municipal elections to ask what it meant to make radical politics practical. Created with Gemini Notebook. The conversation and voices in this episode were generated with Gemini Notebook.",
-    "sources": [
-      {
-        "title": "How To Build A Socialist Government: Milwaukee and The Sewer Socialists - DigitalCommons@Macalester College",
-        "url": "https://digitalcommons.macalester.edu/cgi/viewcontent.cgi?article=1212&context=tapestries"
-      },
-      {
-        "title": "The Canton Speech: With Statements to the Jury and the Court - Eugene V. Debs Foundation",
-        "url": "https://debsfoundation.org/pdf/canton-and-court.pdf"
-      },
-      {
-        "title": "Socialist Party of America Papers: A Resource Guide - ProQuest",
-        "url": "https://about.proquest.com/globalassets/proquest/files/pdf-files/brochures/13943_socialist-party_resourceguide_web.pdf"
-      },
-      {
-        "title": "The Reading Labor Advocate and Socialist Power in Pennsylvania - Marxists Internet Archive",
-        "url": "https://www.marxists.org/history/usa/pubs/reading-labor-advocate/index.htm"
-      }
-    ],
-    "slug": "episode-11-how-sewer-socialists-built-modern-america",
-    "youtube_url": "https://www.youtube.com/shorts/yVECxHXcDqg",
-    "art": "episodes/art/episode-11.png",
-    "transcript_public": false
   },
   {
     "number": 10,
