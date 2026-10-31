@@ -1,5 +1,43 @@
 [
   {
+    "patreon_url": "https://www.patreon.com/ZeldaReySkywalker/posts/billion-dollar-170762023",
+    "member_release": "2026-10-31 08:00:00-07:00",
+    "public_release": "2026-10-31 08:00:00-07:00",
+    "exclusive": false,
+    "title": "The billion dollar business of digital ghosts",
+    "description": "This episode traces the desire to communicate with the dead through spiritualism, telegraphy, spirit photography, recorded voices, virtual memorials, and AI grief technology. It asks what changes when memory becomes interactive and when private grief depends on a commercial platform.\n\nCreated with Gemini Notebook.\n\nThe conversation and voices in this episode were generated with Gemini Notebook.\n\nFake voices, real facts.",
+    "sources": [
+      {
+        "title": "Telecommunications and the occult",
+        "url": "https://www.scienceandmediamuseum.org.uk/objects-and-stories/telecommunications-and-occult"
+      },
+      {
+        "title": "The birth of spiritualism",
+        "url": "https://www.historytoday.com/archive/months-past/birth-spiritualism"
+      },
+      {
+        "title": "Victorian spiritualism",
+        "url": "https://www.bowdoin.edu/news/2018/01/victorian-spiritualism-when-ghosts-and-objects-collide.html"
+      },
+      {
+        "title": "The history of Victorian ghost photography",
+        "url": "https://www.nationalgeographic.com/history/article/history-victorian-ghost-photos-harry-houdini-abraham-lincoln"
+      },
+      {
+        "title": "Continuing bonds in bereavement",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4662100/"
+      },
+      {
+        "title": "Ethics of digital afterlife technology",
+        "url": "https://journals.library.columbia.edu/index.php/bioethics/article/view/14806"
+      }
+    ],
+    "slug": "the-billion-dollar-business-of-digital-ghosts",
+    "youtube_url": "https://youtube.com/shorts/a9UdzWcJK4k",
+    "art": "art/cover.jpg",
+    "transcript_public": true
+  },
+  {
     "number": 28,
     "patreon_url": "https://www.patreon.com/ZeldaReySkywalker/posts/from-snake-oil-169535851",
     "member_release": "2026-10-21 08:00:00-07:00",
@@ -593,61 +631,6 @@
     "transcript_public": true
   },
   {
-    "number": 4,
-    "patreon_url": "https://www.patreon.com/ZeldaReySkywalker/posts/did-old-masters-162772462",
-    "member_release": "2026-07-08 08:00:00-07:00",
-    "public_release": "2026-07-08 08:00:00-07:00",
-    "exclusive": false,
-    "title": "Did the Old Masters Use Tracing Machines?",
-    "description": "What counts as authorship when artists use lenses, mirrors, projections, assistants, archives, and systems? Mira and Theo start with the Hockney-Falco thesis and its critics, then follow the argument through Vermeer, photography, museum datasets, and modern debates over tools, skill, and creative labor. Created with Gemini Notebook.",
-    "sources": [
-      {
-        "title": "Hockney-Falco thesis - Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Hockney%E2%80%93Falco_thesis"
-      },
-      {
-        "title": "Why David Hockney Should Not Be Taken Seriously - Art Renewal Center",
-        "url": "https://www.artrenewal.org/Article/Title/why-david-hockney-should-not-be-taken-seriously"
-      },
-      {
-        "title": "Reverse-Engineering a Genius (Has a Vermeer Mystery Been Solved?)",
-        "url": "https://www.harrywalker.com/media/2084/andersen-kurt_vanityaffair_11-29-13.pdf"
-      },
-      {
-        "title": "AI and the Arts: How Machine Learning is Changing Creative Work - Oxford Internet Institute",
-        "url": "https://www.oii.ox.ac.uk/news-events/reports/ai-the-arts/"
-      },
-      {
-        "title": "Integrating GenAI in Filmmaking: From Co-Creativity to Distributed Creativity - arXiv",
-        "url": "https://arxiv.org/pdf/2603.23415"
-      },
-      {
-        "title": "Photography - CSUN",
-        "url": "https://www.csun.edu/sites/default/files/Media05--Photo.pdf"
-      },
-      {
-        "title": "The Algorithmic Gaze: Deconstructing Authorship and Aesthetics in Generative Artificial Intelligence Art - Enigma in Cultural",
-        "url": "https://enigma.or.id/index.php/cultural/article/view/106"
-      },
-      {
-        "title": "Refik Anadol: Unsupervised - MoMA",
-        "url": "https://www.moma.org/calendar/exhibitions/5535"
-      },
-      {
-        "title": "Is AI a Medium? - The Journal of Aesthetics and Art Criticism",
-        "url": "https://academic.oup.com/jaac/advance-article/doi/10.1093/jaac/kpag028/8698899?searchresult=1&login=false"
-      },
-      {
-        "title": "The Ethical and Legal Implications of AI in the Arts and Creative Industries - Oxford University Research Archive",
-        "url": "https://ora.ox.ac.uk/objects/uuid:a803ecc0-c8cc-42a0-be17-848334dc3cf5/files/r5d86p1015"
-      }
-    ],
-    "slug": "episode-04-did-the-old-masters-use-tracing-machines",
-    "youtube_url": "https://www.youtube.com/shorts/VUNGd9b-h-g",
-    "art": "episodes/art/episode-04.png",
-    "transcript_public": true
-  },
-  {
     "number": 3,
     "patreon_url": "https://www.patreon.com/ZeldaReySkywalker/posts/photoshop-from-162772241",
     "member_release": "2026-07-06 08:00:00-07:00",
@@ -700,6 +683,61 @@
     "slug": "episode-03-photoshop-from-darkrooms-to-generative-fill",
     "youtube_url": "https://www.youtube.com/shorts/YJf1v1lxEhc",
     "art": "episodes/art/episode-03.png",
+    "transcript_public": true
+  },
+  {
+    "number": 4,
+    "patreon_url": "https://www.patreon.com/ZeldaReySkywalker/posts/did-old-masters-162772462",
+    "member_release": "2026-07-08 08:00:00-07:00",
+    "public_release": "2026-07-08 08:00:00-07:00",
+    "exclusive": false,
+    "title": "Did the Old Masters Use Tracing Machines?",
+    "description": "What counts as authorship when artists use lenses, mirrors, projections, assistants, archives, and systems? Mira and Theo start with the Hockney-Falco thesis and its critics, then follow the argument through Vermeer, photography, museum datasets, and modern debates over tools, skill, and creative labor. Created with Gemini Notebook.",
+    "sources": [
+      {
+        "title": "Hockney-Falco thesis - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hockney%E2%80%93Falco_thesis"
+      },
+      {
+        "title": "Why David Hockney Should Not Be Taken Seriously - Art Renewal Center",
+        "url": "https://www.artrenewal.org/Article/Title/why-david-hockney-should-not-be-taken-seriously"
+      },
+      {
+        "title": "Reverse-Engineering a Genius (Has a Vermeer Mystery Been Solved?)",
+        "url": "https://www.harrywalker.com/media/2084/andersen-kurt_vanityaffair_11-29-13.pdf"
+      },
+      {
+        "title": "AI and the Arts: How Machine Learning is Changing Creative Work - Oxford Internet Institute",
+        "url": "https://www.oii.ox.ac.uk/news-events/reports/ai-the-arts/"
+      },
+      {
+        "title": "Integrating GenAI in Filmmaking: From Co-Creativity to Distributed Creativity - arXiv",
+        "url": "https://arxiv.org/pdf/2603.23415"
+      },
+      {
+        "title": "Photography - CSUN",
+        "url": "https://www.csun.edu/sites/default/files/Media05--Photo.pdf"
+      },
+      {
+        "title": "The Algorithmic Gaze: Deconstructing Authorship and Aesthetics in Generative Artificial Intelligence Art - Enigma in Cultural",
+        "url": "https://enigma.or.id/index.php/cultural/article/view/106"
+      },
+      {
+        "title": "Refik Anadol: Unsupervised - MoMA",
+        "url": "https://www.moma.org/calendar/exhibitions/5535"
+      },
+      {
+        "title": "Is AI a Medium? - The Journal of Aesthetics and Art Criticism",
+        "url": "https://academic.oup.com/jaac/advance-article/doi/10.1093/jaac/kpag028/8698899?searchresult=1&login=false"
+      },
+      {
+        "title": "The Ethical and Legal Implications of AI in the Arts and Creative Industries - Oxford University Research Archive",
+        "url": "https://ora.ox.ac.uk/objects/uuid:a803ecc0-c8cc-42a0-be17-848334dc3cf5/files/r5d86p1015"
+      }
+    ],
+    "slug": "episode-04-did-the-old-masters-use-tracing-machines",
+    "youtube_url": "https://www.youtube.com/shorts/VUNGd9b-h-g",
+    "art": "episodes/art/episode-04.png",
     "transcript_public": true
   },
   {
