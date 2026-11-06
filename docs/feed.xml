@@ -16,8 +16,8 @@
     <itunes:category text="Education" />
     <language>en-US</language>
     <copyright>2026 Zelda Rey Skywalker</copyright>
-    <pubDate>Thu, 05 Nov 2026 21:31:12 +0000</pubDate>
-    <lastBuildDate>Thu, 05 Nov 2026 21:31:12 +0000</lastBuildDate>
+    <pubDate>Fri, 06 Nov 2026 05:02:17 +0000</pubDate>
+    <lastBuildDate>Fri, 06 Nov 2026 05:02:17 +0000</lastBuildDate>
     <generator>Footnotes in Stereo feed mirror</generator>
     <image>
       <url>https://yatimitofawaii.github.io/footnotes-in-stereo-feed/art/cover.jpg</url>
@@ -26,6 +26,21 @@
     </image>
     <itunes:summary>Footnotes in Stereo is a series of conversational research deep dives hosted by Mira Vale and Theo Arlen. Each episode follows a stack of sources into a different corner of culture, technology, art, religion, and history: the arguments, inventions, translations, and practical details that changed how people make meaning. Public episodes arrive Wednesdays, and Patreon subscribers receive an additional bonus episode every Friday. Created with Gemini Notebook. The conversations and voices are generated with Gemini Notebook.</itunes:summary>
     <itunes:subtitle>Conversational research deep dives with Mira Vale and Theo Arlen.</itunes:subtitle>
+    <item>
+      <title>How People Tried to Picture Tomorrow</title>
+      <link>https://www.patreon.com/ZeldaReySkywalker/posts/how-people-tried-170283337</link>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>120</itunes:duration>
+      <description>Four distinct historical records show how organizations pictured or planned for tomorrow: the 1939 New York World’s Fair, the 1966 Future game, BrainReserve, and Douglas Engelbart’s 1968 NLS demonstration. This concise episode presents separate cases rather than a continuous history of prediction. Sources: Canadian Centre for Architecture, 1939: The Future in Flushing Meadows — https://www.cca.qc.ca/en/articles/issues/2/what-the-future-looked-like/1553/1939-the-future-in-flushing-meadows Museum of the City of New York, Designing Tomorrow educator guide — https://www.mcny.org/sites/default/files/2016-11/Designing_Tomorrow_Guide.pdf Collision Detector, Archive: Playing the Future — https://www.collisiondetector.com/archive/playing-the-future-65ad2215daf65a001b43e425/ Business History Conference, The Smartest People I Could Find: Collaborative Futuring and the Corporate Use of Collective Knowledge — https://thebhc.org/abstract-viewer/popup/96647 Computer History Museum, Douglas C. Engelbart — https://computerhistory.org/profile/doug-engelbart/ Created with Gemini Notebook. The conversation and voices in this episode were generated with Gemini Notebook. Fake voices, real facts.</description>
+      <enclosure url="https://yatimitofawaii.github.io/footnotes-in-stereo-feed/audio/how-people-tried-to-picture-tomorrow.m4a" length="3873497" type="audio/mp4" />
+      <guid isPermaLink="false">170283337</guid>
+      <pubDate>Fri, 06 Nov 2026 01:00:10 +0000</pubDate>
+      <itunes:summary>Four distinct historical records show how organizations pictured or planned for tomorrow: the 1939 New York World’s Fair, the 1966 Future game, BrainReserve, and Douglas Engelbart’s 1968 NLS demonstration. This concise episode presents separate cases rather than a continuous history of prediction. Sources: Canadian Centre for Architecture, 1939: The Future in Flushing Meadows — https://www.cca.qc.ca/en/articles/issues/2/what-the-future-looked-like/1553/1939-the-future-in-flushing-meadows Museum of the City of New York, Designing Tomorrow educator guide — https://www.mcny.org/sites/default/files/2016-11/Designing_Tomorrow_Guide.pdf Collision Detector, Archive: Playing the Future — https://www.collisiondetector.com/archive/playing-the-future-65ad2215daf65a001b43e425/ Business History Conference, The Smartest People I Could Find: Collaborative Futuring and the Corporate Use of Collective Knowledge — https://thebhc.org/abstract-viewer/popup/96647 Computer History Museum, Douglas C. Engelbart — https://computerhistory.org/profile/doug-engelbart/ Created with Gemini Notebook. The conversation and voices in this episode were generated with Gemini Notebook. Fake voices, real facts.</itunes:summary>
+      <itunes:subtitle>Four distinct historical records show how organizations pictured or planned for tomorrow: the 1939 New York World’s Fair, the 1966 Future game, BrainReserve, and Douglas Engelbart’s 1968 NLS demonstration. This concise episode presents separate cases rath</itunes:subtitle>
+      <content:encoded>Four distinct historical records show how organizations pictured or planned for tomorrow: the 1939 New York World’s Fair, the 1966 Future game, BrainReserve, and Douglas Engelbart’s 1968 NLS demonstration. This concise episode presents separate cases rather than a continuous history of prediction. Sources: Canadian Centre for Architecture, 1939: The Future in Flushing Meadows — https://www.cca.qc.ca/en/articles/issues/2/what-the-future-looked-like/1553/1939-the-future-in-flushing-meadows Museum of the City of New York, Designing Tomorrow educator guide — https://www.mcny.org/sites/default/files/2016-11/Designing_Tomorrow_Guide.pdf Collision Detector, Archive: Playing the Future — https://www.collisiondetector.com/archive/playing-the-future-65ad2215daf65a001b43e425/ Business History Conference, The Smartest People I Could Find: Collaborative Futuring and the Corporate Use of Collective Knowledge — https://thebhc.org/abstract-viewer/popup/96647 Computer History Museum, Douglas C. Engelbart — https://computerhistory.org/profile/doug-engelbart/ Created with Gemini Notebook. The conversation and voices in this episode were generated with Gemini Notebook. Fake voices, real facts.</content:encoded>
+      <itunes:author>Mira Vale and Theo Arlen</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The billion dollar business of digital ghosts</title>
       <link>https://www.patreon.com/ZeldaReySkywalker/posts/billion-dollar-170762023</link>

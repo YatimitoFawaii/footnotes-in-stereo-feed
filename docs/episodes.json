@@ -1,5 +1,39 @@
 [
   {
+    "patreon_url": "https://www.patreon.com/ZeldaReySkywalker/posts/how-people-tried-170283337",
+    "member_release": "2026-11-05 17:00:00-08:00",
+    "public_release": "2026-11-05 17:00:00-08:00",
+    "exclusive": false,
+    "title": "How People Tried to Picture Tomorrow",
+    "description": "Four documented ways people tried to picture the future: the 1939 New York World\u2019s Fair, a 1960s futures game, Faith Popcorn\u2019s consulting work, and Douglas Engelbart\u2019s 1968 demonstration. These are distinct historical examples, not a single model of prediction.\n\nCreated with Gemini Notebook.\nThe conversation and voices in this episode were generated with Gemini Notebook.\n\nFake voices, real facts.",
+    "sources": [
+      {
+        "title": "CCA, 1939: The Future in Flushing Meadows",
+        "url": "https://www.cca.qc.ca/en/articles/issues/2/what-the-future-looked-like/1553/1939-the-future-in-flushing-meadows"
+      },
+      {
+        "title": "Museum of the City of New York, Designing Tomorrow educator guide",
+        "url": "https://www.mcny.org/sites/default/files/2016-11/Designing_Tomorrow_Guide.pdf"
+      },
+      {
+        "title": "Scott Smith, Playing the Future",
+        "url": "https://www.collisiondetector.com/archive/playing-the-future-65ad2215daf65a001b43e425/"
+      },
+      {
+        "title": "Business History Conference, BrainReserve abstract",
+        "url": "https://thebhc.org/abstract-viewer/popup/96647"
+      },
+      {
+        "title": "Computer History Museum, Doug Engelbart",
+        "url": "https://computerhistory.org/profile/doug-engelbart/"
+      }
+    ],
+    "slug": "how-people-tried-to-picture-tomorrow",
+    "youtube_url": "https://youtube.com/shorts/3y2uby1Rbdc",
+    "art": "art/cover.jpg",
+    "transcript_public": true
+  },
+  {
     "patreon_url": "https://www.patreon.com/ZeldaReySkywalker/posts/billion-dollar-170762023",
     "member_release": "2026-10-31 08:00:00-07:00",
     "public_release": "2026-10-31 08:00:00-07:00",
@@ -75,31 +109,31 @@
     "public_release": "2026-10-14 08:00:00-07:00",
     "exclusive": false,
     "title": "From medieval sewers to digital civil rights",
-    "description": "Episode26 follows Roman and medieval sanitation infrastructure, public bathroom access and disability rights. Historical interpretations are attributed arguments, not proof of every builder's motives. ABA, ADA and federal Section508 scopes are distinguished. The Access Board enforces the ABA through complaints; the Chicago Press source is a publisher overview, not the full book. This is historical education, not individual legal advice.\n\nCreated with Gemini Notebook.\n\nThe conversation and voices in this episode were generated with Gemini Notebook.\n\nFake voices, real facts.",
+    "description": "Public bathrooms sit at the intersection of infrastructure and civil rights. This episode follows their history through sanitation, segregation, gender, disability access, policing, and urban design, showing how an ordinary room can reveal who a city expects to move through public space.\n\nCreated with Gemini Notebook.\n\nThe conversation and voices in this episode were generated with Gemini Notebook.\n\nFake voices, real facts.",
     "sources": [
       {
         "title": "How the Ancient Romans Went to the Bathroom",
         "url": "https://www.smithsonianmag.com/history/how-the-ancient-romans-went-to-the-bathroom-180979056/"
       },
       {
-        "title": "Crossness Engines Trust: Medieval privies and latrines",
-        "url": "https://www.toilet-timeline.co.uk/medieval-privies-latrines"
+        "title": "The Rise and Fall of Pay Toilets",
+        "url": "https://daily.jstor.org/the-rise-and-fall-of-pay-toilets/"
       },
       {
-        "title": "U.S. Access Board: Architectural Barriers Act",
-        "url": "https://www.access-board.gov/about/law/aba.html"
+        "title": "Americans with Disabilities Act Title III Regulations",
+        "url": "https://www.ada.gov/law-and-regs/regulations/title-iii-regulations/"
       },
       {
         "title": "U.S. Access Board history",
         "url": "https://www.access-board.gov/about/history.html"
       },
       {
-        "title": "Bryant Simon: For Customers Only (publisher overview)",
-        "url": "https://press.uchicago.edu/ucp/books/book/chicago/F/bo271056461.html"
+        "title": "Adult-sized changing tables as a public-restroom human-rights issue",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10309150/"
       },
       {
-        "title": "GAO editorial cross-check: Federal Real Property, September22 2026",
-        "url": "https://www.gao.gov/products/gao-26-108575"
+        "title": "Creating Bathroom Access and a Gender Inclusive Society",
+        "url": "https://belonging.berkeley.edu/bathroomaccesspolicybrief"
       }
     ],
     "slug": "episode-26-from-medieval-sewers-to-digital-civil-rights",
@@ -114,15 +148,23 @@
     "public_release": "2026-10-07 08:00:00-07:00",
     "exclusive": false,
     "title": "Why humans used to wake at midnight",
-    "description": "Episode24 compares historical first and second sleep with measured sleep in three contemporary non-industrial communities and an eight-person Colorado camping experiment. Plausible environmental explanations are interpretations, not universal biological prescriptions. Actigraphy estimates sleep, temperature associations do not establish sole causes, and the camping study measured circadian timing rather than a universal cure.\n\nCreated with Gemini Notebook.\n\nThe conversation and voices in this episode were generated with Gemini Notebook.\n\nFake voices, real facts.",
+    "description": "This episode examines how human sleep became organized around the clock. It follows the history of segmented sleep alongside factory schedules, electric light, shift work, and productivity culture, asking how social systems helped turn one consolidated nighttime block into the modern ideal.\n\nCreated with Gemini Notebook.\n\nThe conversation and voices in this episode were generated with Gemini Notebook.\n\nFake voices, real facts.",
     "sources": [
       {
-        "title": "Yetish et al. (2015): Natural sleep and its seasonal variations in three pre-industrial societies",
-        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4720388/"
+        "title": "A two process model of sleep regulation",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15018264/"
       },
       {
-        "title": "Wright et al. (2013): Entrainment of the Human Circadian Clock to the Natural Light-Dark Cycle",
-        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4020279/"
+        "title": "Social Jetlag and Related Risks for Human Health",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8707256/"
+      },
+      {
+        "title": "A light intervention for rotating night-shift workers",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8163632/"
+      },
+      {
+        "title": "Segmented Sleep in Preindustrial Societies",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4763365/"
       },
       {
         "title": "Roger Ekirch's segmented-sleep research",

@@ -1,0 +1,35 @@
+This is the brief on how people tried to picture tomorrow.
+These sources document four distinct,
+unconnected historical methods people used to anticipate or model future developments.
+First, let's look at the 1939 New York World's Fair.
+The Canadian Centre for Architecture notes its massive 1216-acre site
+and building the world of tomorrow theme.
+We see the tri-lawn and the 200-foot Paris sphere
+housing Henry Dreyfus' democracy diorama.
+There's also General Motors' Futurama Pavilion,
+co-designed by Norman Belgetes, presenting a city vision of 1960.
+So what physical mechanisms were used to convey this vision?
+While the Museum of the City of New York Educator Guide states the ride
+used 552 sound chairs on a moving conveyor,
+overlooking a 35,000-square-foot model depicting highways
+and suburban development of 1960.
+Second, Collision Detector details a 1966 tabletop game called
+Future, commissioned by Kaiser and created by the Rand Corporation
+to teach long-range planning.
+It featured a 1986 target date, colored sliders on a game board,
+and 60 events with probabilities determined by experts.
+Third, a Business History Conference abstract outlines
+faith popcorn and Stuart Pittman's 1974 venture Brain Reserve.
+Documenting collaborative methods like Delphi Studies, brainstorming,
+and cool hunting, the abstract claims this case shows corporate futurism
+as a primary site for systematic future imagining.
+Finally, the Computer History Museum documents Douglas Engelbart's
+December 9, 1968 NLS demonstration in San Francisco.
+Showcasing, hypertext, shared screen collaboration,
+multiple windows, on-screen video teleconferencing, and the mouse,
+his stated aim was simply using computers to improve communication and collaboration.
+These four bounded cases illustrate distinct historical methods used to picture tomorrow.
+They cannot establish a continuous trajectory or cross-case theory.
+Created with Gemini Notebook.
+The conversation and voices in this episode were generated with Gemini Notebook.
+Fake voices, real facts.
